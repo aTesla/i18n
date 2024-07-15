@@ -4,24 +4,25 @@ import org.apache.poi.xssf.usermodel.XSSFSheet
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import java.io.File
 
-object Excel4XmlUtil {
-    lateinit var outputDir: File
-    fun startConvert(inputFile: File, outputDir: File) {
-        this.outputDir = outputDir
+class Excel2Res(val excel: String, val res: String) {
+    val inputFile = File(excel)
+    val outputDir = File(res)
+
+    fun excel2Res() {
         inputFile.inputStream().use { input ->
             val workbook = XSSFWorkbook(input)
             iterateSheets(workbook)
         }
     }
 
-    fun iterateSheets(workbook: XSSFWorkbook) {
+    private fun iterateSheets(workbook: XSSFWorkbook) {
         println("it=${workbook.map { sheet -> sheet.sheetName }}")
         workbook.forEach { sheet ->
             parse(sheet as XSSFSheet)
         }
     }
 
-    fun parse(sheet: XSSFSheet) {
+    private fun parse(sheet: XSSFSheet) {
         val firstRowNum = sheet.firstRowNum
         val lastRowNum = sheet.lastRowNum
 
@@ -45,13 +46,23 @@ object Excel4XmlUtil {
                 if (key.isNotBlank()) mutableMap[key] = value
             }
             println(mutableMap)
-            val valuesDir = "values-$languageTag"
+            val valuesDir = when (languageTag) {
+                "zh-Hans" -> "values-zh-rCN"
+                "zh-Hant" -> "values-zh-rTW"
+                else -> "values-$languageTag"
+            }
             val xmlFile = "strings-${sheet.sheetName}.xml"
             val parent = File("$outputDir${File.separator}${valuesDir}")
             if (!parent.exists()) parent.mkdirs()
             val dstXmlFile = File(parent.absolutePath, xmlFile)
             println(dstXmlFile.absolutePath)
             XMLUtil.writFormatXML(dstXmlFile, mutableMap)
+            /* 默认语言 */
+            if (languageTag == "en") {
+                val default = File("$outputDir${File.separator}values${File.separator}strings_${sheet.sheetName}.xml")
+                if (!default.parentFile.exists()) default.parentFile.mkdirs()
+                XMLUtil.writFormatXML(default, mutableMap)
+            }
         }
     }
 }
