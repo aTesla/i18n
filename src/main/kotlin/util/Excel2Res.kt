@@ -40,10 +40,12 @@ class Excel2Res(val excel: String, val res: String) {
             println(sheet.sheetName + "-" + languageTag)
             for (rownum in firstRowNum + 1..lastRowNum) {
                 val row = sheet.getRow(rownum) ?: continue
-                val cell = row.getCell(cellnum)
+                if (row.firstCellNum.toInt() == -1) continue
+
                 val key = row.getCell(row.firstCellNum.toInt()).stringCellValue
-                val value = cell?.stringCellValue ?: ""
+                val value = row.getCell(cellnum)?.stringCellValue ?: ""
                 if (key.isNotBlank()) mutableMap[key] = value
+                //println("it=ok=${sheet.sheetName}_${languageTag} ${row.firstCellNum} $key")
             }
             println(mutableMap)
             val valuesDir = when (languageTag) {
@@ -51,7 +53,7 @@ class Excel2Res(val excel: String, val res: String) {
                 "zh-Hant" -> "values-zh-rTW"
                 else -> "values-$languageTag"
             }
-            val xmlFile = "strings-${sheet.sheetName}.xml"
+            val xmlFile = "strings_${sheet.sheetName}.xml"
             val parent = File("$outputDir${File.separator}${valuesDir}")
             if (!parent.exists()) parent.mkdirs()
             val dstXmlFile = File(parent.absolutePath, xmlFile)
