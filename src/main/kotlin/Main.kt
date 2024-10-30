@@ -8,15 +8,15 @@ import java.io.FileInputStream
 import java.security.MessageDigest
 
 fun main() {
-//    Excel2Db(
-//        "/Users/lcj/Downloads/i18n.xlsx",
-//        "/Users/lcj/Downloads/res"
-//    ).excel2Res()
-
-    Excel2Db(
-        "/home/lcj/Downloads/i18n.xlsx",
-        "/home/lcj/Downloads/res"
+    Excel2Res(
+        "/Users/lcj/Downloads/i18n.xlsx",
+        "/Users/lcj/Downloads/res"
     ).excel2Res()
+
+//    Excel2Db(
+//        "/home/lcj/Downloads/i18n.xlsx",
+//        "/home/lcj/Downloads/res"
+//    ).excel2Res()
 
 //    Excel2Res(
 //        "/Users/lcj/Downloads/i18n.xlsx",
