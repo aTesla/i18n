@@ -53,59 +53,22 @@ class Excel2Res(val excel: String, val res: String) {
                     val parent = File("$outputDir${File.separator}${valuesDir}").apply {
                         if (!exists()) mkdirs()
                     }
+
                     val xmlFileName = "strings_${sheet.sheetName}.xml"
 //                println("Create dir=$valuesDir file=$xmlFileName")
                     val dstXmlFile = File(parent.absolutePath, xmlFileName)
                     XMLUtil.writFormatXML(dstXmlFile, mutableMap)
+
+                    /* 生成默认语言(values) */
+                    if (language == "en") {
+                        val default = File("$outputDir${File.separator}values${File.separator}${xmlFileName}")
+                        if (!default.parentFile.exists()) default.parentFile.mkdirs()
+                        XMLUtil.writFormatXML(default, mutableMap)
+                    }
+
                 }
             }
         }
-
-//        if (sheet.sheetName == "contacts") println(firstRow.lastCellNum)
-//        ((firstRow.firstCellNum + 1)..firstRow.lastCellNum)
-//            .filterNot { j ->
-//                val language = firstRow.getCell(j)?.stringCellValue
-//                language.isNullOrBlank()
-//            }
-//            .filter { j ->
-//                val language = firstRow.getCell(j)?.stringCellValue
-//                language == "ar" || language == "en" || language == "zh-Hans"
-//            }
-//            .forEach { j ->
-//                val language = firstRow.getCell(j)?.stringCellValue
-//
-//                val map = ((sheet.firstRowNum + 1)..sheet.lastRowNum)
-//                    .mapNotNull { rownum -> sheet.getRow(rownum) }
-//                    .filter { row -> row.firstCellNum.toInt() != -1 }
-//                    .filterNot { row ->
-//                        val key = row.getCell(row.firstCellNum.toInt())?.stringCellValue
-//                        key.isNullOrBlank()
-//                    }
-//                    .associate { row ->
-//                        val key = row.getCell(row.firstCellNum.toInt()).stringCellValue
-//                        val value = row.getCell(j)?.stringCellValue
-//                        key to value
-//                    }
-//
-//                val valuesDir = when (language) {
-//                    "zh-Hans" -> "values-zh-rCN"
-//                    "zh-Hant" -> "values-zh-rTW"
-//                    else -> "values-$language"
-//                }
-//                val xmlFileName = "strings_${sheet.sheetName}.xml"
-////                println("Create dir=$valuesDir file=$xmlFileName")
-//                val parent = File("$outputDir${File.separator}${valuesDir}")
-//                if (!parent.exists()) parent.mkdirs()
-//                val dstXmlFile = File(parent.absolutePath, xmlFileName)
-//                XMLUtil.writFormatXML(dstXmlFile, map)
-//
-//                /* 生成默认语言(values) */
-//                if (language == "en") {
-//                    val default = File("$outputDir${File.separator}values${File.separator}${xmlFileName}")
-//                    if (!default.parentFile.exists()) default.parentFile.mkdirs()
-//                    XMLUtil.writFormatXML(default, map)
-//                }
-//            }
     }
 
     private fun parse(sheet: XSSFSheet) {
