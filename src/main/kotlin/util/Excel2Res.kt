@@ -43,7 +43,6 @@ class Excel2Res(val excel: String, val res: String) {
                         mutableMap[key] = value ?: ""
                     }
                 }
-                val language = firstRow.getCell(j)?.stringCellValue
                 if (language == "ar" || language == "en" || language == "zh-Hans") {
                     val valuesDir = when (language) {
                         "zh-Hans" -> "values-zh-rCN"
