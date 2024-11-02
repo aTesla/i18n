@@ -10,7 +10,10 @@ import java.io.FileInputStream
 import java.security.MessageDigest
 import kotlin.concurrent.thread
 
-class ApkUploadUseCase {
+class ApkUploadUseCase(
+    val versionCode: Long = 6,
+    val versionName: String = "0.0.6",
+) {
     val baseUrl = "https://api.wisdom-bank.com"
     val retrofit = Retrofit.Builder()
         .apply {
@@ -21,21 +24,22 @@ class ApkUploadUseCase {
         .build()
     val walletApi: Api = retrofit.create()
     operator fun invoke() {
-        val apk_url = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-0.0.5.apk"
+        val apk_url = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-$versionName.apk"
         runBlocking {
             upload(apk_url)
         }
     }
 
     suspend fun upload(apk_url: String) {
-        val path = "/Users/lcj/HuoLian/wisdom-uae-Android/product/mobile/build/outputs/apk/debug/wisdom-0.0.5.apk"
+        val path = "/home/lcj/Huolian/wisdom-uae-Android/product/mobile/build/outputs/apk/debug/0.0.6.apk"
+//        val path = "/Users/lcj/HuoLian/wisdom-uae-Android/product/mobile/build/outputs/apk/debug/$versionName.apk"
         val hash_256 = calculateFileHash(File(path))
         println("hash=$hash_256")
         //010240176e992f1fd656634153b0f09a911f8071b838ce2e230fe0edb5d7a2a9
         val cmd = ApkDTO(
-            version_code = 5,
-            version_name = "0.0.5",
-            upgrade_content = "1.Fix mint nft id issue\n2.Fix my assets sort issue\n3.Fix add token issue\n4.optimize business logic\n5.Bug fix",
+            version_code = versionCode,
+            version_name = versionName,
+            upgrade_content = "1.Fix mint nft id issue\n2.Fix my assets sort issue\n3.Fix add token issue\n4.optimize business logic\n5.support start ReadID Ready\n6.Bug fix",
             pkg_url = apk_url,
             is_force_upgrade = true,
             app_platform = 1,
