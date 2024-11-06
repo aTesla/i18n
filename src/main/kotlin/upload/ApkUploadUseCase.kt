@@ -1,12 +1,16 @@
 package org.example.upload
 
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.runBlocking
+import kotlinx.coroutines.withContext
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.create
 import upload.ApkDTO
 import java.io.File
 import java.io.FileInputStream
+import java.io.InputStream
+import java.security.DigestInputStream
 import java.security.MessageDigest
 import kotlin.concurrent.thread
 
@@ -69,5 +73,16 @@ class ApkUploadUseCase(
         // 转换为十六进制字符串
         val hashBytes = digest.digest()
         return hashBytes.joinToString("") { "%02x".format(it) }
+    }
+
+    suspend fun calculateHash(stream: InputStream): String {
+        return withContext(Dispatchers.IO) {
+            val digest = MessageDigest.getInstance("SHA-512")
+            val digestStream = DigestInputStream(stream, digest)
+            while (digestStream.read() != -1) {
+                // The DigestInputStream does the work; nothing for us to do.
+            }
+            digest.digest().joinToString(":") { "%02x".format(it) }
+        }
     }
 }
