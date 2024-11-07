@@ -4,6 +4,8 @@ import org.apache.poi.xssf.usermodel.XSSFSheet
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import java.io.File
 import java.util.TreeMap
+import java.util.regex.Pattern
+import kotlin.streams.asSequence
 
 class Excel2Res(val excel: String, val res: String) {
     val inputFile = File(excel)
@@ -40,7 +42,7 @@ class Excel2Res(val excel: String, val res: String) {
                     val key = row.getCell(row.firstCellNum.toInt())?.stringCellValue
                     val value = row.getCell(j)?.getRichStringCellValue()?.toString()
                     if (!key.isNullOrBlank()) {
-                        mutableMap[key] = value ?: ""
+                        mutableMap[key] = resolveValue(value)
                     }
                 }
                 if (language == "ar" || language == "en" || language == "zh-Hans") {
@@ -68,6 +70,22 @@ class Excel2Res(val excel: String, val res: String) {
                 }
             }
         }
+    }
+
+    // https://developer.android.com/guide/topics/resources/string-resource
+    fun resolveValue(value: String?): String {
+        value ?: return ""
+        val mutableList = mutableListOf<String>()
+       val input= if (value.contains("'")) "\"$value\"" else value
+        input.split("{string}").forEachIndexed { i, s ->
+            if (i > 0) {
+                mutableList.add("%$i\$s")
+            }
+            mutableList.add(s)
+        }
+        println(mutableList)
+        println(mutableList.joinToString(""))
+        return mutableList.joinToString("")
     }
 
     private fun parse(sheet: XSSFSheet) {
