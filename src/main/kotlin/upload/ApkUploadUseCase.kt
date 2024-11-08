@@ -15,8 +15,8 @@ import java.security.MessageDigest
 import kotlin.concurrent.thread
 
 class ApkUploadUseCase(
-    val versionCode: Long = 7,
-    val versionName: String = "0.0.7",
+    val versionCode: Long = 8,
+    val versionName: String = "0.0.8",
 ) {
     val baseUrl = "https://api.wisdom-bank.com"
     val retrofit = Retrofit.Builder()
@@ -28,7 +28,7 @@ class ApkUploadUseCase(
         .build()
     val walletApi: Api = retrofit.create()
     operator fun invoke() {
-        val apk_url = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-0.0.7.apk"
+        val apk_url = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-0.0.8.apk"
         runBlocking {
             upload(apk_url)
         }
@@ -43,7 +43,7 @@ class ApkUploadUseCase(
         val cmd = ApkDTO(
             version_code = versionCode,
             version_name = versionName,
-            upgrade_content = "1.Assets module add select network\n2.Refactor wallet module\n3.Bug fix",
+            upgrade_content = "1.Assets module add select network\n2.Refactor wallet module\n3.Add Bridge feature",
             pkg_url = apk_url,
             is_force_upgrade = false,
             app_platform = 1,
