@@ -48,6 +48,7 @@ class ApkUploadUseCase(
             is_force_upgrade = false,
             app_platform = 1,
             hash_256 = sha_256,
+            apk_size = File(path).length(),
         )
 
         val result = runCatching { walletApi.postApk(cmd) }
