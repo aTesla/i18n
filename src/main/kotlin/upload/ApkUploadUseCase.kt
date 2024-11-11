@@ -15,8 +15,11 @@ import java.security.MessageDigest
 import kotlin.concurrent.thread
 
 class ApkUploadUseCase(
-    val versionCode: Long = 8,
-    val versionName: String = "0.0.8",
+    val versionCode: Long = 10,
+    val versionName: String = "1.0.0",
+    val is_force_upgrade: Boolean = true,
+    val upgrade_content: String = "• Fix QR Scanner issue\n• Fix wallet pre load issue\n• Fix Bugs",
+    val apk_url: String = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-${versionName}.apk"
 ) {
     val baseUrl = "https://api.wisdom-bank.com"
     val retrofit = Retrofit.Builder()
@@ -28,14 +31,13 @@ class ApkUploadUseCase(
         .build()
     val walletApi: Api = retrofit.create()
     operator fun invoke() {
-        val apk_url = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-0.0.8.apk"
+
         runBlocking {
-            upload(apk_url)
+            upload()
         }
     }
 
-    suspend fun upload(apk_url: String) {
-//        val path = "/home/lcj/Huolian/wisdom-uae-Android/product/mobile/build/outputs/apk/debug/0.0.6.apk"
+    suspend fun upload() {
         val path = "/Users/lcj/HuoLian/wisdom-uae-Android/product/mobile/build/outputs/apk/debug/$versionName.apk"
         val sha_256 = calculateFileHash(File(path))
         println("sha_256=$sha_256")
@@ -43,21 +45,21 @@ class ApkUploadUseCase(
         val cmd = ApkDTO(
             version_code = versionCode,
             version_name = versionName,
-            upgrade_content = "1.Assets module add select network\n2.Refactor wallet module\n3.Add Bridge feature",
+            upgrade_content = upgrade_content,
             pkg_url = apk_url,
-            is_force_upgrade = false,
+            is_force_upgrade = is_force_upgrade,
             app_platform = 1,
             hash_256 = sha_256,
-            apk_size = File(path).length(),
+            pkg_size = File(path).length(),
         )
-
         val result = runCatching { walletApi.postApk(cmd) }
+
         if (result.isFailure) {
             println("it=$result")
+            return
         }
-        if (result.isSuccess) {
-            println("Upload successful")
-        }
+
+        println("Upload successful")
     }
 
     fun calculateFileHash(file: File, algorithm: String = "SHA-256"): String {
