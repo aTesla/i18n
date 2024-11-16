@@ -15,8 +15,8 @@ import java.security.MessageDigest
 import kotlin.concurrent.thread
 
 class ApkUploadUseCase(
-    val versionCode: Long = 12,
-    val versionName: String = "1.0.2",
+    val versionCode: Long = 13,
+    val versionName: String = "1.0.3",
     val is_force_upgrade: Boolean = true,
     val upgrade_content: String = "• Fix QR Scanner issue\n• Fix wallet pre load issue\n• Fix Bugs",
     val apk_url: String = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-${versionName}.apk"
@@ -38,7 +38,7 @@ class ApkUploadUseCase(
     }
 
     suspend fun upload() {
-        val path = "/home/lcj/Huolian/wisdom-uae-Android/product/mobile/build/outputs/apk/debug/1.0.2.apk"
+        val path = "/home/lcj/Huolian/wisdom-uae-Android/product/mobile/build/outputs/apk/debug/1.0.3.apk"
         val sha_256 = calculateFileHash(File(path))
         println("sha_256=$sha_256")
         //010240176e992f1fd656634153b0f09a911f8071b838ce2e230fe0edb5d7a2a9
