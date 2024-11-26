@@ -45,28 +45,30 @@ class Excel2Res(val excel: String, val res: String) {
                         mutableMap[key] = resolveValue(value)
                     }
                 }
-                if (language == "ar" || language == "en" || language == "zh-Hans") {
-                    val valuesDir = when (language) {
-                        "zh-Hans" -> "values-zh-rCN"
-                        "zh-Hant" -> "values-zh-rTW"
-                        else -> "values-$language"
-                    }
-                    val parent = File("$outputDir${File.separator}${valuesDir}").apply {
-                        if (!exists()) mkdirs()
-                    }
+                when (language) {
+                    "ar", "de", "en", "es", "zh-Hans", "zh-Hant" -> {
+                        val valuesDir = when (language) {
+                            "zh-Hans" -> "values-zh-rCN"
+                            "zh-Hant" -> "values-zh-rTW"
+                            else -> "values-$language"
+                        }
+                        val parent = File("$outputDir${File.separator}${valuesDir}").apply {
+                            if (!exists()) mkdirs()
+                        }
 
-                    val xmlFileName = "strings_${sheet.sheetName}.xml"
-//                println("Create dir=$valuesDir file=$xmlFileName")
-                    val dstXmlFile = File(parent.absolutePath, xmlFileName)
-                    XMLUtil.writFormatXML(dstXmlFile, mutableMap)
+                        val xmlFileName = "strings_${sheet.sheetName}.xml"
+                        //                println("Create dir=$valuesDir file=$xmlFileName")
+                        val dstXmlFile = File(parent.absolutePath, xmlFileName)
+                        XMLUtil.writFormatXML(dstXmlFile, mutableMap)
 
-                    /* 生成默认语言(values) */
-                    if (language == "en") {
-                        val default = File("$outputDir${File.separator}values${File.separator}${xmlFileName}")
-                        if (!default.parentFile.exists()) default.parentFile.mkdirs()
-                        XMLUtil.writFormatXML(default, mutableMap)
+                        /* 生成默认语言(values) */
+                        if (language == "en") {
+                            val default = File("$outputDir${File.separator}values${File.separator}${xmlFileName}")
+                            if (!default.parentFile.exists()) default.parentFile.mkdirs()
+                            XMLUtil.writFormatXML(default, mutableMap)
+                        }
+
                     }
-
                 }
             }
         }
@@ -76,7 +78,7 @@ class Excel2Res(val excel: String, val res: String) {
     fun resolveValue(value: String?): String {
         value ?: return ""
         val mutableList = mutableListOf<String>()
-       val input= if (value.contains("'")) "\"$value\"" else value
+        val input = if (value.contains("'")) "\"$value\"" else value
         input.split("{string}").forEachIndexed { i, s ->
             if (i > 0) {
                 mutableList.add("%$i\$s")
