@@ -9,11 +9,11 @@ import java.io.FileInputStream
 import java.security.MessageDigest
 
 fun main() {
-    Excel2Res(
-        "/Users/lcj/Downloads/i18n.xlsx",
-        "/Users/lcj/Downloads/res"
-    ).excel2Res()
-//    ApkUploadUseCase().invoke()
+//    Excel2Res(
+//        "/Users/lcj/Downloads/i18n.xlsx",
+//        "/Users/lcj/Downloads/res"
+//    ).excel2Res()
+    ApkUploadUseCase().invoke()
 
 //    Excel2Res(
 //        "/home/lcj/Downloads/i18n.xlsx",
