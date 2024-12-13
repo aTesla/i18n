@@ -15,8 +15,8 @@ import java.security.MessageDigest
 import kotlin.concurrent.thread
 
 class ApkUploadUseCase(
-    val versionCode: Long = 22,
-    val versionName: String = "1.0.22",
+    val versionCode: Long = 24,
+    val versionName: String = "1.0.24",
     val is_force_upgrade: Boolean = true,
     val upgrade_content: String = "• Refactor main UI\n• Fix fiat24 gas issue\n• Market add line chart",
     val apk_url: String = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-${versionName}.apk"
