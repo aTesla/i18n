@@ -15,10 +15,10 @@ import java.security.MessageDigest
 import kotlin.concurrent.thread
 
 class ApkUploadUseCase(
-    val versionCode: Long = 25,
-    val versionName: String = "1.0.25",
+    val versionCode: Long = 26,
+    val versionName: String = "1.0.26",
     val is_force_upgrade: Boolean = true,
-    val upgrade_content: String = "• Refactor main UI\n• Fix fiat24 gas issue\n• Market add line chart",
+    val upgrade_content: String = "• BTC added\n• DApp updated\n• Bugs fix",
     val apk_url: String = "https://wisdom-pkg.s3.us-east-1.amazonaws.com/wisdomuae-${versionName}.apk"
 ) {
     val baseUrl = "https://api.wisdom-bank.com"
