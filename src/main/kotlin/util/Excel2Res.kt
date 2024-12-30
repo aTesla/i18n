@@ -45,8 +45,8 @@ class Excel2Res(val excel: String, val res: String) {
                         mutableMap[key] = resolveValue(value)
                     }
                 }
-                when (language) {
-                    "ar", "de", "en", "es", "zh-Hans", "zh-Hant" -> {
+//                when (language) {
+//                    "ar", "de", "en", "es", "zh-Hans", "zh-Hant" -> {
                         val valuesDir = when (language) {
                             "zh-Hans" -> "values-zh-rCN"
                             "zh-Hant" -> "values-zh-rTW"
@@ -68,8 +68,8 @@ class Excel2Res(val excel: String, val res: String) {
                             XMLUtil.writFormatXML(default, mutableMap)
                         }
 
-                    }
-                }
+//                    }
+//                }
             }
         }
     }
