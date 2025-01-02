@@ -13,7 +13,7 @@ fun main() {
 //        "/Users/lcj/Downloads/i18n.xlsx",
 //        "/Users/lcj/Downloads/res"
 //    ).excel2Res()
-//    ApkUploadUseCase().invoke()
+    ApkUploadUseCase().invoke()
 
 
 //    Excel2Res(
