@@ -38,7 +38,8 @@ class ApkUploadUseCase(
     }
 
     suspend fun upload() {
-        val path = "/Users/lcj/HuoLian/wisdom-uae-Android/product/mobile/build/outputs/apk/debug/$versionName.apk"
+        val path = System.getenv("HOME")+"/HuoLian/wisdom-uae-Android/product/mobile/build/outputs/apk/release/$versionName.apk"
+        println(path)
         val sha_256 = calculateFileHash(File(path))
         println("sha_256=$sha_256")
         //010240176e992f1fd656634153b0f09a911f8071b838ce2e230fe0edb5d7a2a9
