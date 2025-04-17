@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_email_change_step1_title">"Vérification de l'adresse e-mail"</string>
+  <string name="wisdom_email_change_step1_card_title">Changez votre adresse email par un code</string>
+  <string name="wisdom_email_change_step1_card_desc">Si vous souhaitez modifier votre adresse e-mail, vous pouvez le faire d’un code de vérification envoyé à votre téléphone portable et à votre adresse e-mail.</string>
+  <string name="wisdom_email_change_step1_a1">"Utiliser le numéro de téléphone portable et l'adresse e-mail enregistrés pour recevoir le code de vérification."</string>
+  <string name="wisdom_email_change_step1_a2">Envoyer le code</string>
+  <string name="wisdom_email_change_step1_b1">"L'e-mail ou le téléphone portable d'origine n'accepte pas le code de vérification, demandez l'assistance du service clientèle."</string>
+  <string name="wisdom_email_change_step1_b2">Service clientèle</string>
+  <string name="wisdom_email_change_step4_title">Vérifier le nouvel e-mail</string>
+  <string name="wisdom_email_change_step4_card_title">Dernière étape de la vérification de votre nouvelle adresse e-mail</string>
+  <string name="wisdom_email_change_step4_card_desc">Entrez votre nouvelle adresse e-mail et recevez un code de vérification.</string>
+  <string name="wisdom_email_change_step4_old_email">Votre adresse e-mail actuelle:</string>
+  <string name="wisdom_email_change_step4_email_label">Nouvelle adresse e-mail</string>
+  <string name="wisdom_email_change_step4_email_placeholder">Entrer votre nouvelle adresse e-mail</string>
+  <string name="wisdom_email_change_step4_send_verify_code">Envoyer le code</string>
+  <string name="wisdom_email_change_step6_title">Liaison réussie</string>
+  <string name="wisdom_email_change_step6_back_home">"Retour à la page d'accueil"</string>
+  <string name="wisdom_email_change_a">"Vérifier l'adresse e-mail"</string>
+  <string name="wisdom_email_change_b">"Modifier l'adresse e-mail"</string>
+  <string name="wisdom_email_change_c">"Certaines conditions doivent être remplies avant de changer d'adresse e-mail"</string>
+  <string name="wisdom_email_change_d">"Vous devrez prendre un selfie avec votre passeport ou votre carte d'identité."</string>
+  <string name="wisdom_email_change_e">Entrez et confirmez votre nouvelle adresse e-mail</string>
+  <string name="wisdom_email_change_f">Nous vérifierons vos informations et modifierons votre adresse e-mail.</string>
+  <string name="wisdom_email_change_g">"Cela prend généralement 10 minutes, mais peut prendre jusqu'à 3 jours."</string>
+  <string name="wisdom_email_change_h">Continuer</string>
+  <string name="wisdom_email_change_i">Téléchargez et consultez vos selfies</string>
+  <string name="wisdom_email_change_j">"Seuls les passeports, les cartes d'identité et les permis de conduire sont acceptés."</string>
+  <string name="wisdom_email_change_k">Votre selfie doit avoir:</string>
+  <string name="wisdom_email_change_l1">"Votre visage et votre pièce d'identité"</string>
+  <string name="wisdom_email_change_l2">"Nom sur la pièce d'identité"</string>
+  <string name="wisdom_email_change_l3">"Pièce d'identité avec photo"</string>
+  <string name="wisdom_email_change_m">Exemples de photos:</string>
+  <string name="wisdom_email_change_n">"La vérification n'a pas réussi, veuillez télécharger à nouveau."</string>
+  <string name="wisdom_email_change_o">"La demande de vérification de l'email a été soumise avec succès"</string>
+  <string name="wisdom_email_change_p">"Nous vérifierons et modifierons votre adresse e-mail. Les résultats vous seront communiqués par notification sur l'application ou par SMS."</string>
+  <string name="wisdom_email_change_q">"Cela prend généralement 10 minutes, mais peut prendre jusqu'à 3 jours."</string>
+  <string name="wisdom_email_change_r">Télécharger des photos</string>
+</resources>

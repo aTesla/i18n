@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_info_title">التفاصيل</string>
+  <string name="wisdom_user_info_name">الاسم</string>
+  <string name="wisdom_user_info_email">البريد الإلكتروني</string>
+  <string name="wisdom_user_info_uid">معرّف Wisdomuae</string>
+  <string name="wisdom_user_info_birthday">تاريخ الميلاد</string>
+  <string name="wisdom_user_info_country">الدولة/المنطقة</string>
+  <string name="wisdom_user_info_address">العنوان</string>
+  <string name="wisdom_user_info_phone">رقم الهاتف</string>
+  <string name="wisdom_user_info_identified">التحقق</string>
+  <string name="wisdom_user_info_post_code">الرمز البريدي</string>
+  <string name="wisdom_user_info_default_value">--</string>
+  <string name="wisdom_user_info_btn">التحقق من المعلومات الشخصية</string>
+  <string name="wisdom_user_info_identified_fail_reason">معرف الوجه للتحقق</string>
+  <string name="wisdom_user_info_identified_fail">فشل التحقق</string>
+  <string name="wisdom_user_info_identified_passcode_desc">رمز المرور لهاتف آيفون للتحقق</string>
+  <string name="wisdom_user_info_identified_no_passowrd">لا توجد كلمة مرور للآيفون، يرجى إعدادها</string>
+</resources>

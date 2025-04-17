@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">Einstelungen</string>
+  <string name="wisdom_settings_language">Sprache</string>
+  <string name="wisdom_settings_language_desc">Nach der Einstellung wird die Sprache in E-Mails, SMS, App-Benachrichtigungen und auf allen von Ihnen angemeldeten Geräten entsprechend Ihrer Auswahl verwendet.</string>
+  <string name="wisdom_settings_coin">Währung</string>
+  <string name="wisdom_settings_coin_desc">Nach der Einstellung wird das Guthaben auf der Startseite in der von Ihnen gewählten Währung angezeigt.</string>
+  <string name="wisdom_settings_system_default">Systemstandard</string>
+  <string name="wisdom_settings_theme_mode">Themenmodus</string>
+  <string name="wisdom_settings_theme_mode_desc">Nach der Einstellung wird der Themenmodus entsprechend Ihrer Wahl angepasst.</string>
+  <string name="wisdom_settings_theme_follow_system">System folgen</string>
+  <string name="wisdom_settings_theme_follow_system_desc">Die Themenmodus folgt den Systemeinstellungen für den Tag- oder Nachtmodus.</string>
+  <string name="wisdom_settings_theme_light_mode">Tagmodus</string>
+  <string name="wisdom_settings_theme_dark_mode">Nachtmodus</string>
+  <string name="wisdom_settings_theme_mode_select">Themenmodus wählen</string>
+  <string name="wisdom_settings_save">Einstellungen speichern</string>
+</resources>

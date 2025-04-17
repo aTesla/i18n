@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">새로 고침</string>
+  <string name="wisdom_scan_title">QR-CODE 스캔</string>
+  <string name="wisdom_scan_tip">스캔할 때 QR-CODE를 네모 칸에 맞춰 주세요</string>
+  <string name="wisdom_scan_upload">사진 업로드</string>
+  <string name="wisdom_scan_invalid">QR-CODE 무효</string>
+  <string name="wisdom_email">이메일</string>
+  <string name="hl_scan_tip">주소 QR코드/WalletConnect/URL 스캔하기</string>
+</resources>

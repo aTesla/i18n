@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_login_step1_pwd_enter_again">كلمة المرور خاطئة. حاول مرة أخرى.</string>
+  <string name="wisdom_login_step1_title">تسجيل الدخول</string>
+  <string name="wisdom_login_step1_email">البريد الإلكتروني</string>
+  <string name="wisdom_login_step1_phone">رقم الهاتف</string>
+  <string name="wisdom_login_step1_pwd">كلمة المرور</string>
+  <string name="wisdom_login_step1_login">تسجيل الدخول</string>
+  <string name="wisdom_login_step1_forget">هل نسيت كلمة المرور؟</string>
+  <string name="wisdom_login_step1_register">انتقل إلى التسجيل</string>
+  <string name="wisdom_login_step1_privacy">بتسجيل الدخول/التسجيل، فإنك توافق على "اتفاقية المستخدم" و"سياسة الخصوصية".</string>
+  <string name="wisdom_login_step1_email_label">أدخل عنوان البريد الإلكتروني</string>
+  <string name="wisdom_login_step1_phone_label">أدخل رقم الهاتف</string>
+  <string name="wisdom_login_step1_password_label">أدخل كلمة المرور</string>
+  <string name="wisdom_login_step1_email_supporting_text">يرجى إدخال عنوان بريد إلكتروني صحيح</string>
+  <string name="wisdom_login_step1_password_supporting_text">يرجى إدخال كلمة مرور صالحة</string>
+  <string name="wisdom_login_step2_title">تسجيل الدخول</string>
+  <string name="wisdom_login_step2_desc">يرجى اختيار طريقة التحقق</string>
+  <string name="wisdom_login_step2_phone_receive">الهاتف</string>
+  <string name="wisdom_login_step2_email_receive">البريد الإلكتروني</string>
+  <string name="wisdom_login_step2_privacy_policy">بتسجيل الدخول/التسجيل، فإنك توافق على "اتفاقية المستخدم" و"سياسة الخصوصية".</string>
+  <string name="wisdom_login_step3_phone_title">لقد أرسلنا للتو رمز التحقق إلى هاتفك</string>
+  <string name="wisdom_login_step3_phone_desc">أدخل الرمز الذي أرسلناه إليك على %1$s لتسجيل الدخول. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_login_step3_phone_error">رمز التحقق غير صحيح، يرجى إعادة إدخاله.</string>
+  <string name="wisdom_login_step3_phone_count_down">إعادة الإرسال بعد %1$s</string>
+  <string name="wisdom_login_step3_phone_resend">الحصول على رمز جديد</string>
+  <string name="wisdom_login_step3_phone_submit">إرسال</string>
+  <string name="wisdom_login_step3_email_title">لقد أرسلنا للتو رمز التحقق إلى بريدك الإلكتروني</string>
+  <string name="wisdom_login_step3_email_desc">أدخل الرمز الذي أرسلناه إليك على %1$s لتسجيل الدخول. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_login_step3_email_error">رمز التحقق غير صحيح، يرجى إعادة إدخاله.</string>
+  <string name="wisdom_login_step3_email_count_down">إعادة الإرسال بعد %1$s</string>
+  <string name="wisdom_login_step3_email_resend">الحصول على رمز جديد</string>
+  <string name="wisdom_login_step3_email_submit">إرسال</string>
+  <string name="wisdom_login_step4_skip">تخطي</string>
+  <string name="wisdom_login_step4_title">مصادقة باستخدام معرف الوجه</string>
+  <string name="wisdom_login_step4_desc">لتحسين الراحة، يُوصى باستخدام معرف الوجه.</string>
+  <string name="wisdom_login_step4_action">انقر للمصادقة باستخدام معرف الوجه</string>
+  <string name="wisdom_fingerprint_login_welcome">مرحبًا. %1$s</string>
+  <string name="wisdom_fingerprint_login_action">انقر للمصادقة باستخدام معرف الوجه</string>
+  <string name="wisdom_fingerprint_login_more">المزيد من الخيارات</string>
+  <string name="wisdom_fingerprint_login_more_item_1">كلمة المرور</string>
+  <string name="wisdom_fingerprint_login_more_item_2">إضافة/تسجيل حساب آخر</string>
+  <string name="wisdom_password_login_welcome">مرحبًا. %1$s</string>
+  <string name="wisdom_password_login_password_hint">أدخل كلمة المرور</string>
+  <string name="wisdom_password_login_password_login">تسجيل الدخول</string>
+  <string name="wisdom_password_login_more_item_1">تسجيل الدخول باستخدام معرف الوجه</string>
+  <string name="wisdom_password_login_quick_find_password">نسيت كلمة المرور</string>
+  <string name="wisdom_password_login_more">المزيد من الخيارات</string>
+  <string name="wisdom_login_chose_country">الدولة</string>
+  <string name="wisdom_login_search_country">ابحث برمز البلد أو الاسم</string>
+  <string name="wisdom_login_enter_email">أدخل عنوان البريد الإلكتروني</string>
+  <string name="wisdom_login_account_deleted_error">تم حذف الحساب ولا يمكن تسجيل الدخول.</string>
+  <string name="hl_login_please_enter_pwd">أدخل كلمة المرور</string>
+</resources>

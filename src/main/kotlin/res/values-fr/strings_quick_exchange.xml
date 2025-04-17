@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_quick_exchange">Échange rapide</string>
+  <string name="hl_quick_receive_coin_type">Monnaie</string>
+  <string name="hl_quick_receive_coin_type_select">Sélectionner la monnaie</string>
+  <string name="hl_quick_assets">Propriété</string>
+  <string name="hl_quick_current_available">Actuellement disponible</string>
+  <string name="hl_quick_total_available">Total disponible après conversion des actifs</string>
+  <string name="hl_quick_left_unvailable">Solde insuffisant pour permettre les échanges</string>
+  <string name="hl_quick_advised_steps">Mesures recommandées</string>
+  <string name="hl_quick_estimated_get">Attendu de recevoir</string>
+  <string name="hl_quick_step1">Processus I</string>
+  <string name="hl_quick_step2">Processus II</string>
+  <string name="hl_quick_step3">Processus III</string>
+  <string name="hl_quick_step4">Processus IV</string>
+  <string name="hl_quick_charged_of_you">Vous devez payer</string>
+  <string name="hl_quick_charged_coin_type">Type de monnaie</string>
+  <string name="hl_quick_fee_included">Coûts inclus</string>
+  <string name="hl_quick_buy_from_wisdom">Acheter de Wisdomuae</string>
+  <string name="hl_quick_advised_popular">Meilleures recommandations</string>
+  <string name="hl_quick_self">Personnalisation</string>
+  <string name="hl_quick_need_to_buy">"Besoin d'acheter "</string>
+  <string name="hl_quick_self_tip">"Vous avez la possibilité d'effectuer des transactions en fonction du montant envoyé"</string>
+  <string name="hl_quick_self_send_amount">"Montant de l'envoi construit"</string>
+  <string name="hl_quick_self_total_amount">Coût total estimé</string>
+  <string name="hl_quick_self_recharge_build">Structure de charge</string>
+  <string name="hl_quick_alert_title">Cette transaction rapide est confirmée en plusieurs étapes</string>
+  <string name="hl_quick_one_click_all">Cette transaction rapide est confirmée en plusieurs étapes</string>
+  <string name="hl_quick_revise_steps">revise exchagne steps</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_error_unauthorized">غير مُصرح</string>
+  <string name="wisdom_error_email_registed">تم تسجيل البريد الإلكتروني</string>
+  <string name="wisdom_error_phone_registed">تم تسجيل الرقم</string>
+  <string name="wisdom_error_code_error">رمز غير صحيح. حاول مرة أخرى.</string>
+  <string name="wisdom_error_code_expired">تم تسجيل الرقم</string>
+  <string name="wisdom_error_code_auth">انتهت صلاحية الرمز. احصل على رمز جديد.</string>
+  <string name="wisdom_error_token_expired">رمز مميز منتهي الصلاحية</string>
+  <string name="wisdom_error_phone_email_not_verify">انتهت صلاحية الرمز. احصل على رمز جديد.</string>
+  <string name="wisdom_error_password_too_simple">كلمة المرور بسيطة جدًا. يرجى تعيين كلمة مرور أكثر تعقيدًا.</string>
+  <string name="wisdom_error_send_code_frequently">تم إرسال العديد من الرموز!</string>
+  <string name="wisdom_error_email_has_verifyed">تم التحقق من البريد الإلكتروني</string>
+  <string name="wisdom_error_phone_has_verifyed">تم التحقق من الرقم</string>
+  <string name="wisdom_error_email_not_register">لم يتم تسجيل هذا البريد الإلكتروني بعد. يرجى التسجيل أولاً.</string>
+  <string name="wisdom_error_phone_not_register">لم يتم تسجيل رقم الهاتف هذا بعد. يرجى التسجيل أولاً.</string>
+  <string name="wisdom_error_first_login_need_verify">التحقق مطلوب لتسجيل الدخول من جهاز جديد</string>
+  <string name="wisdom_error_first_login_unverify">لا يتطلب التحقق عند أول تسجيل دخول</string>
+  <string name="wisdom_error_password_error">كلمة مرور غير صحيحة. حاول مرة أخرى</string>
+  <string name="wisdom_error_user_not_exist">المستخدم غير موجود</string>
+  <string name="wisdom_error_inviter_params">خطأ في معلمات الدعوة</string>
+  <string name="wisdom_error_inviter_not_exist">الداعي غير موجود</string>
+  <string name="wisdom_error_inviter_already_exist">الداعي موجود بالفعل</string>
+  <string name="wisdom_error_inviter_is_self">لا يمكنك أن تكون الداعي لنفسك</string>
+  <string name="wisdom_error_device_id_empty">معرف الجهاز لا يمكن أن يكون فارغًا</string>
+  <string name="wisdom_error_lost_login_info">معلومات الدخول المفقودة</string>
+  <string name="wisdom_error_invalid_authorization">تفويض غير صالح</string>
+  <string name="wisdom_error_invalid_token">رمز مميز غير صالح</string>
+  <string name="wisdom_error_phone_error">رقم الهاتف المحمول غير صحيح</string>
+  <string name="wisdom_error_email_exists">تم ربط هذا البريد الإلكتروني من قبل مستخدم آخر</string>
+  <string name="wisdom_error_no_data">لا توجد بيانات</string>
+  <string name="wisdom_error_request_fail">خطأ في طلب الشبكة</string>
+  <string name="wisdom_error_reload">إعادة تحميل</string>
+  <string name="wisdom_error_empty">لا يمكن أن يكون فارغًا</string>
+</resources>

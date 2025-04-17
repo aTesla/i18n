@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_email_change_step1_title">التحقق بواسطة البريد الإلكتروني</string>
+  <string name="wisdom_email_change_step1_card_title">تغيير البريد الإلكتروني عن طريق استلام رمز التحقق</string>
+  <string name="wisdom_email_change_step1_card_desc">إذا كنت ترغب في تغيير بريدك الإلكتروني، يمكنك القيام بذلك تلقائيًا باستخدام رمز التحقق المرسل إلى هاتفك وبريدك الإلكتروني.</string>
+  <string name="wisdom_email_change_step1_a1">استخدم رقم هاتفك المسجل وبريدك الإلكتروني لاستلام رمز التحقق لربط بريد إلكتروني جديد</string>
+  <string name="wisdom_email_change_step1_a2">إرسال رمز التحقق</string>
+  <string name="wisdom_email_change_step1_b1">لا يمكن للبريد الإلكتروني أو الهاتف الأصلي استلام رمز التحقق. يرجى التواصل مع خدمة العملاء لتغيير بريدك الإلكتروني.</string>
+  <string name="wisdom_email_change_step1_b2">خدمة العملاء البشرية</string>
+  <string name="wisdom_email_change_step4_title">التحقق من البريد الإلكتروني الجديد</string>
+  <string name="wisdom_email_change_step4_card_title">الخطوة الأخيرة: تحقق من عنوان بريدك الإلكتروني الجديد</string>
+  <string name="wisdom_email_change_step4_card_desc">أدخل عنوان بريدك الإلكتروني الجديد بشكل صحيح لاستلام رمز التحقق</string>
+  <string name="wisdom_email_change_step4_old_email">بريدك الإلكتروني الحالي هو:</string>
+  <string name="wisdom_email_change_step4_email_label">البريد الإلكتروني الجديد</string>
+  <string name="wisdom_email_change_step4_email_placeholder">يرجى إدخال عنوان بريدك الإلكتروني الجديد</string>
+  <string name="wisdom_email_change_step4_send_verify_code">إرسال رمز التحقق</string>
+  <string name="wisdom_email_change_step6_title">تم ربط عنوان البريد الإلكتروني الجديد بنجاح</string>
+  <string name="wisdom_email_change_step6_back_home">العودة إلى الصفحة الرئيسية</string>
+  <string name="wisdom_email_change_a">التحقق بواسطة البريد الإلكتروني</string>
+  <string name="wisdom_email_change_b">قم بتغيير بريدك الإلكتروني</string>
+  <string name="wisdom_email_change_c">المتطلبات التي يجب استيفاؤها قبل تحديث عنوان بريدك الإلكتروني</string>
+  <string name="wisdom_email_change_d">التقط صورة سيلفي وأنت تحمل جواز سفرك أو بطاقة هويتك</string>
+  <string name="wisdom_email_change_e">أدخل عنوان بريدك الإلكتروني الجديد وقم بتأكيده</string>
+  <string name="wisdom_email_change_f">سنقوم بالتحقق من معلوماتك وتحديث عنوان بريدك الإلكتروني</string>
+  <string name="wisdom_email_change_g">عادةً ما يستغرق ذلك 10 دقائق، لكنه قد يستغرق ما يصل إلى 3 أيام</string>
+  <string name="wisdom_email_change_h">متابعة</string>
+  <string name="wisdom_email_change_i">تحميل وعرض صورتك السيلفي</string>
+  <string name="wisdom_email_change_j">نقبل فقط جوازات السفر، بطاقات الهوية أو رخص القيادة للتحقق من الهوية.</string>
+  <string name="wisdom_email_change_k">يجب أن تظهر صورتك السيلفي:</string>
+  <string name="wisdom_email_change_l1">وجهك بالكامل وبطاقة هويتك</string>
+  <string name="wisdom_email_change_l2">الاسم الأول والأخير الموجودين على بطاقة هويتك</string>
+  <string name="wisdom_email_change_l3">صورة هوية واضحة</string>
+  <string name="wisdom_email_change_m">مثال على صورة السيلفي:</string>
+  <string name="wisdom_email_change_n">فشل التحقق من السيلفي. يرجى التحميل مرة أخرى</string>
+  <string name="wisdom_email_change_o">تم تقديم طلب التحقق من البريد الإلكتروني بنجاح</string>
+  <string name="wisdom_email_change_p">سنقوم بالتحقق من معلوماتك وتحديث عنوان بريدك الإلكتروني. سيتم إعلامك بالنتيجة عبر رسالة النظام أو الرسائل القصيرة.</string>
+  <string name="wisdom_email_change_q">عادةً ما يستغرق ذلك 10 دقائق، لكنه قد يستغرق ما يصل إلى 3 أيام</string>
+  <string name="wisdom_email_change_r">تحميل الصورة</string>
+</resources>

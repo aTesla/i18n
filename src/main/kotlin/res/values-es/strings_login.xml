@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_login_step1_pwd_enter_again">La contraseña es incorrecta, por favor vuelva a ingresarla</string>
+  <string name="wisdom_login_step1_title">Iniciar la sesión</string>
+  <string name="wisdom_login_step1_email">Correo electrónico</string>
+  <string name="wisdom_login_step1_phone">Número de teléfono</string>
+  <string name="wisdom_login_step1_pwd">Contraseña de cuenta</string>
+  <string name="wisdom_login_step1_login">Iniciar la sesión</string>
+  <string name="wisdom_login_step1_forget">¿Olvidó la contraseña?</string>
+  <string name="wisdom_login_step1_register">Ir a registrarse</string>
+  <string name="wisdom_login_step1_privacy">Iniciar sesión/registrarse significa que acepta el «Acuerdo de usuario» y la «Política de privacidad»</string>
+  <string name="wisdom_login_step1_email_label">Introducir el correo electrónico</string>
+  <string name="wisdom_login_step1_phone_label">Introducir el número de teléfono</string>
+  <string name="wisdom_login_step1_password_label">Introducir contraseña</string>
+  <string name="wisdom_login_step1_email_supporting_text">La dirección de correo electrónico es incorrecta, por favor vuelva a ingresarla</string>
+  <string name="wisdom_login_step1_password_supporting_text">La dirección de correo electrónico es incorrecta, por favor vuelva a ingresarla</string>
+  <string name="wisdom_login_step2_title">Iniciar la sesión</string>
+  <string name="wisdom_login_step2_desc">Seleccione el método de recibir el código de verificación</string>
+  <string name="wisdom_login_step2_phone_receive">Mediante número de teléfono</string>
+  <string name="wisdom_login_step2_email_receive">Mediante correo electrónico</string>
+  <string name="wisdom_login_step2_privacy_policy">Iniciar sesión/registrarse significa que acepta el «Acuerdo de usuario» y la «Política de privacidad»</string>
+  <string name="wisdom_login_step3_phone_title">Acabamos de enviar un código de verificación a su teléfono móvil</string>
+  <string name="wisdom_login_step3_phone_desc">Para iniciar sesión, ingrese el código de verificación que se le envió al %1$s. El código de verificación caducará después de 10 minutos</string>
+  <string name="wisdom_login_step3_phone_error">El código de verificación es incorrecto, por favor vuelva a ingresarlo</string>
+  <string name="wisdom_login_step3_phone_count_down">Reenviar después de %1$s</string>
+  <string name="wisdom_login_step3_phone_resend">Readquirir</string>
+  <string name="wisdom_login_step3_phone_submit">Enviar</string>
+  <string name="wisdom_login_step3_email_title">Acabamos de enviar un código de verificación a su correo electrónico</string>
+  <string name="wisdom_login_step3_email_desc">Para iniciar sesión, ingrese el código de verificación que se le envió al %1$s. El código de verificación caducará después de 10 minutos</string>
+  <string name="wisdom_login_step3_email_error">El código de verificación es incorrecto, por favor vuelva a ingresarlo</string>
+  <string name="wisdom_login_step3_email_count_down">Reenviar después de %1$s</string>
+  <string name="wisdom_login_step3_email_resend">Readquirir</string>
+  <string name="wisdom_login_step3_email_submit">Enviar</string>
+  <string name="wisdom_login_step4_skip">Saltar</string>
+  <string name="wisdom_login_step4_title">Identificación con Face ID</string>
+  <string name="wisdom_login_step4_desc">Para facilitar el inicio de sesión, le recomendamos que autentique Face ID</string>
+  <string name="wisdom_login_step4_action">Haga clic para la autenticación Face ID</string>
+  <string name="wisdom_fingerprint_login_welcome">%1$sHola</string>
+  <string name="wisdom_fingerprint_login_action">Haga clic para la autenticación Face ID</string>
+  <string name="wisdom_fingerprint_login_more">Más opciones</string>
+  <string name="wisdom_fingerprint_login_more_item_1">Contraseña</string>
+  <string name="wisdom_fingerprint_login_more_item_2">Cambiar de usuario/ Registrarse</string>
+  <string name="wisdom_password_login_welcome">%1$sHola</string>
+  <string name="wisdom_password_login_password_hint">Introducir contraseña</string>
+  <string name="wisdom_password_login_password_login">Iniciar la sesión</string>
+  <string name="wisdom_password_login_more_item_1">Inicio de sesión con Face ID</string>
+  <string name="wisdom_password_login_quick_find_password">Recuperar contraseña</string>
+  <string name="wisdom_password_login_more">Más opciones</string>
+  <string name="wisdom_login_chose_country">País</string>
+  <string name="wisdom_login_search_country">Buscar código o nombre de país</string>
+  <string name="wisdom_login_enter_email">Por favor ingrese el correo electrónico</string>
+  <string name="wisdom_login_account_deleted_error">Esta cuenta ha sido eliminada y no se puede iniciar sesión.</string>
+  <string name="hl_login_please_enter_pwd">Introduzca la contraseña</string>
+</resources>

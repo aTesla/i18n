@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_error_unauthorized">без уполномочия</string>
+  <string name="wisdom_error_email_registed">Электронная почта уже зарегистрирована</string>
+  <string name="wisdom_error_phone_registed">Номер телефона уже зарегистрирован</string>
+  <string name="wisdom_error_code_error">Код подтверждения неверен, введите заново</string>
+  <string name="wisdom_error_code_expired">Номер телефона уже зарегистрирован</string>
+  <string name="wisdom_error_code_auth">Код подтверждения истек, отправьте код заново</string>
+  <string name="wisdom_error_token_expired">Token истек</string>
+  <string name="wisdom_error_phone_email_not_verify">Код подтверждения истек, отправьте код заново</string>
+  <string name="wisdom_error_password_too_simple">Слишком простой пароль, создайте более сложный пароль</string>
+  <string name="wisdom_error_send_code_frequently">Слишком частая отправка кода!</string>
+  <string name="wisdom_error_email_has_verifyed">Электронная почта подтверждена</string>
+  <string name="wisdom_error_phone_has_verifyed">Номер телефона подтвержден</string>
+  <string name="wisdom_error_email_not_register">Эта электронная почта не зарегистрирована. Сначала зарегистрируйтесь.</string>
+  <string name="wisdom_error_phone_not_register">Этот номер телефона не зарегистрирован. Сначала зарегистрируйтесь.</string>
+  <string name="wisdom_error_first_login_need_verify">Устройство впервые входит в систему, требуется подтверждение</string>
+  <string name="wisdom_error_first_login_unverify">При первом входе в систему подтверждение не требуется</string>
+  <string name="wisdom_error_password_error">Вы ввели неправильный пароль, введите заново</string>
+  <string name="wisdom_error_user_not_exist">Пользователь не существует</string>
+  <string name="wisdom_error_inviter_params">Ошибка параметра приглашения</string>
+  <string name="wisdom_error_inviter_not_exist">Приглашающего не существует</string>
+  <string name="wisdom_error_inviter_already_exist">Приглашающий уже существует</string>
+  <string name="wisdom_error_inviter_is_self">Приглашающим не может быть вами самими</string>
+  <string name="wisdom_error_device_id_empty">D устройства не может быть пустым</string>
+  <string name="wisdom_error_lost_login_info">Информация для входа потеряна</string>
+  <string name="wisdom_error_invalid_authorization">Авторизация недействительна</string>
+  <string name="wisdom_error_invalid_token">Недействительный Token</string>
+  <string name="wisdom_error_phone_error">Ошибочный номер телефона</string>
+  <string name="wisdom_error_email_exists">Этот адрес электронной почты уже привязан к другому пользователю</string>
+  <string name="wisdom_error_no_data">Нет данных</string>
+  <string name="wisdom_error_request_fail">Сбой сетевого запроса</string>
+  <string name="wisdom_error_reload">Перезагрузка</string>
+  <string name="wisdom_error_empty">Не может быть пустыми</string>
+</resources>

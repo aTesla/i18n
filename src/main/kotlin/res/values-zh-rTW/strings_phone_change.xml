@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_phone_change_step1_title">手機驗證</string>
+  <string name="wisdom_phone_change_step1_card_title">通過接收驗證碼換綁您的手機號碼</string>
+  <string name="wisdom_phone_change_step1_card_desc">如果您想要更換您的綁定手機可以透過電子郵件和手機號碼驗證碼進行自動變更。</string>
+  <string name="wisdom_phone_change_step1_a1">使用註冊信箱和手機號碼接收驗證碼換綁新手機號</string>
+  <string name="wisdom_phone_change_step1_a2">向郵箱和手機發送驗證碼</string>
+  <string name="wisdom_phone_change_step1_b1">原信箱或手機號碼無法接收驗證碼，請客服更改手機號</string>
+  <string name="wisdom_phone_change_step1_b2">發起人工客服流程</string>
+  <string name="wisdom_phone_change_step4_title">新手機號驗證</string>
+  <string name="wisdom_phone_change_step4_card_title">最後一步驗證您的新手機號碼</string>
+  <string name="wisdom_phone_change_step4_card_desc">輸入正確的新手機號碼並接收驗證碼。</string>
+  <string name="wisdom_phone_change_step4_old_email">您目前的手機號碼是：</string>
+  <string name="wisdom_phone_change_step4_email_label">新手機號碼</string>
+  <string name="wisdom_phone_change_step4_email_placeholder">請輸入新手機號碼</string>
+  <string name="wisdom_phone_change_step4_email_supporting_text">輸入的號碼有誤，請重新輸入</string>
+  <string name="wisdom_phone_change_step4_send_verify_code">發送驗證碼</string>
+  <string name="wisdom_phone_change_step6_title">新手機號碼綁定成功</string>
+  <string name="wisdom_phone_change_step6_back_home">回首頁</string>
+  <string name="wisdom_phone_change_a">手機驗證</string>
+  <string name="wisdom_phone_change_b">更改您的手機號碼</string>
+  <string name="wisdom_phone_change_c">在更新您的手機號碼之前，需要滿足一些條件。</string>
+  <string name="wisdom_phone_change_d">拿著護照或身份證拍一張自拍照。</string>
+  <string name="wisdom_phone_change_e">使用您的新手機號接收驗證碼。</string>
+  <string name="wisdom_phone_change_f">我們將驗證您的資訊並更新您的手機號碼。</string>
+  <string name="wisdom_phone_change_g">這通常需要10分鐘，但最長可能需要3天。</string>
+  <string name="wisdom_phone_change_h">繼續</string>
+  <string name="wisdom_phone_change_i">上傳並查看您的自拍照</string>
+  <string name="wisdom_phone_change_j">我們只接護照、身份證或駕照來驗證您的身分。</string>
+  <string name="wisdom_phone_change_k">您的自拍照必須顯示：</string>
+  <string name="wisdom_phone_change_l1">您的全臉和身份證件</string>
+  <string name="wisdom_phone_change_l2">您身份證件上的名字和姓氏</string>
+  <string name="wisdom_phone_change_l3">清晰的身份證件照片</string>
+  <string name="wisdom_phone_change_m">自拍範例：</string>
+  <string name="wisdom_phone_change_n">自拍照校驗未通過，請重新上傳</string>
+  <string name="wisdom_phone_change_o">手機驗證申請提交成功</string>
+  <string name="wisdom_phone_change_p">我們將驗證您的資訊並更新您的手機號碼，變更結果將以系統訊息或簡訊的方式通知您。</string>
+  <string name="wisdom_phone_change_q">這通常需要10分鐘，但最長可能需要3天。</string>
+</resources>

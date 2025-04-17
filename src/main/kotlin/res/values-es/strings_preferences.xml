@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">Preferencias</string>
+  <string name="wisdom_settings_language">Idioma</string>
+  <string name="wisdom_settings_language_desc">Después de la configuración, los correos electrónicos, los mensajes de texto, las notificaciones de la aplicación y todos los dispositivos en los que inicies sesión utilizarán el idioma recién elegido</string>
+  <string name="wisdom_settings_coin">Moneda</string>
+  <string name="wisdom_settings_coin_desc">Después de configurar, la página de inicio calculará los fondos de la cuenta según la moneda que hayas seleccionado</string>
+  <string name="wisdom_settings_system_default">Configuración predeterminada del sistema</string>
+  <string name="wisdom_settings_theme_mode">Aspecto</string>
+  <string name="wisdom_settings_theme_mode_desc">Después de configurar, el modo de tema cambiará según el modo que haya elegido</string>
+  <string name="wisdom_settings_theme_follow_system">Sistema de seguimiento</string>
+  <string name="wisdom_settings_theme_follow_system_desc">El aspecto seguirá al sistema para configurarlo en modo claro o oscuro</string>
+  <string name="wisdom_settings_theme_light_mode">Claro</string>
+  <string name="wisdom_settings_theme_dark_mode">Oscuro</string>
+  <string name="wisdom_settings_theme_mode_select">Seleccionar el aspecto</string>
+  <string name="wisdom_settings_save">Guardar la configuración</string>
+</resources>

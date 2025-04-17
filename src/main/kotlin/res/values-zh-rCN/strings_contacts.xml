@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_contacts_delete">删除</string>
+  <string name="wisdom_contacts_delete_suc">删除成功</string>
+  <string name="wisdom_contacts_delete_info">确定是否删除？</string>
+  <string name="wisdom_contacts_delete_notice">提示</string>
+  <string name="wisdom_contacts_revise">修改</string>
+  <string name="wisdom_contacts_revise_suc">修改成功</string>
+  <string name="wisdom_contacts_save">保存</string>
+  <string name="wisdom_contacts_add_suc">添加成功</string>
+  <string name="wisdom_contacts_select_label">选择标签</string>
+  <string name="wisdom_contacts_email_error">您输入的邮件不正确</string>
+  <string name="wisdom_contacts_title">收款人</string>
+  <string name="wisdom_contacts_tab0">法币</string>
+  <string name="wisdom_contacts_tab1">加密货币</string>
+  <string name="wisdom_contacts_action_add">添加</string>
+  <string name="wisdom_contacts_search_placeholder">支持姓名、手机号、邮箱、ID搜索</string>
+  <string name="wisdom_contacts_empty_str1">添加您的收款人</string>
+  <string name="wisdom_contacts_empty_str2">更安全便捷的操作各类金融服务</string>
+  <string name="wisdom_contacts_empty_str3">添加收款人</string>
+  <string name="wisdom_contacts_fiat_name_label">收款人姓名(全名)</string>
+  <string name="wisdom_contacts_fiat_name_placeholder">请输入收款人姓名</string>
+  <string name="wisdom_contacts_fiat_bank_num_label">银行卡号</string>
+  <string name="wisdom_contacts_fiat_bank_num_placeholder">请输入银行卡号</string>
+  <string name="wisdom_contacts_fiat_email_label">邮箱地址</string>
+  <string name="wisdom_contacts_fiat_email_placeholder">请输入收款人邮箱地址</string>
+  <string name="wisdom_contacts_fiat_phone_label">手机号码</string>
+  <string name="wisdom_contacts_fiat_phone_placeholder">请输入收款人手机号码</string>
+  <string name="wisdom_contacts_fiat_uid_label">Wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_uid_placeholder">请输入 wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_country_label">所属国家</string>
+  <string name="wisdom_contacts_fiat_country_placeholder">请选择所在国家</string>
+  <string name="wisdom_contacts_fiat_coin_label">货币类型</string>
+  <string name="wisdom_contacts_fiat_coin_placeholder">请选择货币类型</string>
+  <string name="wisdom_contacts_fiat_bank_label">所属银行</string>
+  <string name="wisdom_contacts_fiat_bank_placeholder">请选择所属银行</string>
+  <string name="wisdom_contacts_fiat_phone_region_label">标签</string>
+  <string name="wisdom_contacts_fiat_phone_region_placeholder">请选择所属标签</string>
+  <string name="wisdom_contacts_fiat_tag_label">标签</string>
+  <string name="wisdom_contacts_fiat_tag_placeholder">请选择所属标签</string>
+  <string name="wisdom_contacts_net_label">选择网络</string>
+  <string name="wisdom_contacts_net_placeholder">请选择网络</string>
+  <string name="wisdom_contacts_chain_label">接收地址</string>
+  <string name="wisdom_contacts_chain_placeholder">请输入接收地址</string>
+  <string name="wisdom_contacts_select_payer">选择收款人</string>
+  <string name="wisdom_contacts_select_top_tip">请选择您要转入的链上地址和网络</string>
+  <string name="wisdom_contacts_select_top_des">确认链上地址是否正确，一旦转入不可回退</string>
+</resources>

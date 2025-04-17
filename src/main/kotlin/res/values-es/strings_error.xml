@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_error_unauthorized">No autorizado</string>
+  <string name="wisdom_error_email_registed">El correo electrónico está registrado</string>
+  <string name="wisdom_error_phone_registed">El móvil está registrado</string>
+  <string name="wisdom_error_code_error">El código de verificación es incorrecto. Vuelva a intentarlo</string>
+  <string name="wisdom_error_code_expired">El móvil está registrado</string>
+  <string name="wisdom_error_code_auth">El código de verificación ha caducado. Reenviarlo</string>
+  <string name="wisdom_error_token_expired">El token ha expirado</string>
+  <string name="wisdom_error_phone_email_not_verify">El código de verificación ha caducado, reenvíelo</string>
+  <string name="wisdom_error_password_too_simple">La contraseña es demasiado simple. Establezca una contraseña más compleja</string>
+  <string name="wisdom_error_send_code_frequently">¡Se envían códigos de verificación con demasiada frecuencia!</string>
+  <string name="wisdom_error_email_has_verifyed">Correo electrónico verificado</string>
+  <string name="wisdom_error_phone_has_verifyed">El número de teléfono móvil ha sido verificado</string>
+  <string name="wisdom_error_email_not_register">La dirección de correo electrónico aún no ha sido registrada. Por favor regístrese primero</string>
+  <string name="wisdom_error_phone_not_register">Este número de teléfono aún no ha sido registrado. Por favor regístrese primero</string>
+  <string name="wisdom_error_first_login_need_verify">La primera vez que inicia sesión en el dispositivo, se requiere verificación</string>
+  <string name="wisdom_error_first_login_unverify">No se requiere verificación al iniciar sesión por primera vez</string>
+  <string name="wisdom_error_password_error">La contraseña es incorrecta, por favor vuelva a ingresarla</string>
+  <string name="wisdom_error_user_not_exist">El usuario no existe</string>
+  <string name="wisdom_error_inviter_params">Error de parámetro de invitación</string>
+  <string name="wisdom_error_inviter_not_exist">El invitador no existe</string>
+  <string name="wisdom_error_inviter_already_exist">El invitante ya existe</string>
+  <string name="wisdom_error_inviter_is_self">El que invita no puede ser usted mismo</string>
+  <string name="wisdom_error_device_id_empty">El ID del dispositivo no puede estar vacío</string>
+  <string name="wisdom_error_lost_login_info">Información de inicio de sesión perdida</string>
+  <string name="wisdom_error_invalid_authorization">La autorización no es válida</string>
+  <string name="wisdom_error_invalid_token">Token no válido</string>
+  <string name="wisdom_error_phone_error">Número de móvil incorrecto</string>
+  <string name="wisdom_error_email_exists">Esta dirección de correo electrónico ya está asociada a otro usuario</string>
+  <string name="wisdom_error_no_data">Sin datos</string>
+  <string name="wisdom_error_request_fail">La solicitud de red falló</string>
+  <string name="wisdom_error_reload">Volver a cargar</string>
+  <string name="wisdom_error_empty">No puede estar vacío</string>
+</resources>

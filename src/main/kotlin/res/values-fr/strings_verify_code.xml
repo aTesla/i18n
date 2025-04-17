@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_verify_code_email_title">"Nous venons d'envoyer un code de vérification à votre e-mail"</string>
+  <string name="wisdom_verify_code_phone_title">"Nous venons d'envoyer un code de vérification à votre téléphone portable "</string>
+  <string name="wisdom_verify_code_new_email_title">"Nous venons d'envoyer un code de vérification à votre nouveau e-mail"</string>
+  <string name="wisdom_verify_code_new_phone_title">"Nous venons d'envoyer un code de vérification à votre nouveau numéro de téléphone "</string>
+  <string name="wisdom_verify_code_register">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour enregistrer . Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_login">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour se connecter . Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_reset_login_password">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour reset. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_change_payment_password">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour changer le mot de passe . Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_change_email">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour changer de lien. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_change_new_email">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour le changer. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_change_phone">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour changer de lien. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_change_new_phone">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour le changer. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_freeze">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour geler le compte. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_unfreeze">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour dégeler le compte. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_verify_code_error">Le code de vérification est incorrect, veuillez l’entrer à nouveau</string>
+  <string name="wisdom_verify_code_count_down">Renvoyer après %1$s</string>
+  <string name="wisdom_verify_code_resend">Reprendre</string>
+  <string name="wisdom_verify_code_next_step">L’étape suivante</string>
+  <string name="wisdom_verify_code_submit">Soumettre</string>
+</resources>

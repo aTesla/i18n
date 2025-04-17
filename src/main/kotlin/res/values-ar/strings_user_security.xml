@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_security_title">مركز الأمان</string>
+  <string name="wisdom_user_security_hint_title">أكمل جميع إعدادات الأمان</string>
+  <string name="wisdom_user_security_hint_desc">لحماية حسابك، نوصي بإكمال جميع إعدادات الأمان</string>
+  <string name="wisdom_user_security_login_password_key">كلمة مرور الدخول</string>
+  <string name="wisdom_user_security_login_password_desc">قم بتعيين كلمة مرور الدخول</string>
+  <string name="wisdom_user_security_pay_password_key">كلمة مرور السحب</string>
+  <string name="wisdom_user_security_pay_password_desc">قم بتعيين كلمة مرور السحب</string>
+  <string name="wisdom_user_security_mpc_key_backup_key">نسخة احتياطية من شهادة مفتاح MPC</string>
+  <string name="wisdom_user_security_mpc_key_backup_desc">قم بعمل نسخة احتياطية من شهادة مفتاح MPC</string>
+  <string name="wisdom_user_security_change_phone_key">التحقق من الهاتف</string>
+  <string name="wisdom_user_security_change_phone_desc">تحقق أو غيّر رقم هاتفك المحمول</string>
+  <string name="wisdom_user_security_change_email_key">التحقق من البريد الإلكتروني</string>
+  <string name="wisdom_user_security_change_email_desc">التحقق من بريدك الإلكتروني أو تغييره</string>
+  <string name="wisdom_user_security_freeze_key">تجميد المحفظة</string>
+  <string name="wisdom_user_security_freeze_desc">ستتم تجميد محفظتك مؤقتًا. إذا كنت بحاجة إلى إلغاء التجميد، يرجى تسجيل الدخول مرة أخرى.</string>
+  <string name="wisdom_user_security_freeze_status_1">عادي</string>
+  <string name="wisdom_user_security_freeze_status_2">تجميد</string>
+  <string name="wisdom_user_security_devices_key">إدارة الأجهزة</string>
+  <string name="wisdom_user_security_devices_desc">إدارة وعرض نشاط تسجيل الدخول الأخير ومعلومات الجهاز</string>
+  <string name="hl_device_management">إدارة الجهاز</string>
+  <string name="hl_device_check_title">عرض الأجهزة وآخر بيانات تسجيل الدخول</string>
+  <string name="hl_device_check_subtitle">عرض الأجهزة وآخر بيانات تسجيل الدخول، وإدارة استخدام المحفظة</string>
+  <string name="hl_device_unnormal">هل تم اكتشاف أنشطة غير عادية؟</string>
+  <string name="hl_device_unnormal_desc">إذا لاحظت أنشطة غير عادية في محفظتك، يرجى تغيير كلمة المرور الخاصة بك. سنقوم بتسجيل خروج حسابك من جميع الأجهزة لضمان الأمان.</string>
+  <string name="hl_device_name">اسم الجهاز</string>
+  <string name="hl_device_last_online">آخر تواجد على الإنترنت</string>
+  <string name="hl_device_recent_login">آخر وقت تسجيل دخول</string>
+  <string name="hl_device_login_location">موقع تسجيل الدخول</string>
+  <string name="hl_device_ip">عنوان IP</string>
+  <string name="hl_device_current">الجهاز الحالي</string>
+  <string name="hl_device_remove">إزالة</string>
+  <string name="hl_device_alert_title">هل ترغب في إزالة هذا الجهاز؟</string>
+  <string name="hl_device_alert_message">بعد الإزالة، سيتم تسجيل الخروج من الحساب تلقائيًا على هذا الجهاز.</string>
+  <string name="hl_device_revise_login_pwd">تغيير كلمة مرور تسجيل الدخول</string>
+</resources>

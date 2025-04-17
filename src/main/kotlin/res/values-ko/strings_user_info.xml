@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_info_title">상세 정보</string>
+  <string name="wisdom_user_info_name">이름</string>
+  <string name="wisdom_user_info_email">이메일</string>
+  <string name="wisdom_user_info_uid">WID</string>
+  <string name="wisdom_user_info_birthday">생년월일</string>
+  <string name="wisdom_user_info_country">국가</string>
+  <string name="wisdom_user_info_address">상세 주소</string>
+  <string name="wisdom_user_info_phone">전화번호</string>
+  <string name="wisdom_user_info_identified">개인 인증</string>
+  <string name="wisdom_user_info_post_code">우편 번호</string>
+  <string name="wisdom_user_info_default_value">--</string>
+  <string name="wisdom_user_info_btn">개인 정보 인증</string>
+  <string name="wisdom_user_info_identified_fail_reason">Face ID로 인증해 주세요</string>
+  <string name="wisdom_user_info_identified_fail">인증 실패</string>
+  <string name="wisdom_user_info_identified_passcode_desc">비밀번호로 인증해 주세요</string>
+  <string name="wisdom_user_info_identified_no_passowrd">핸드폰 비밀번호가 없습니다. 설정해 주세요.</string>
+</resources>

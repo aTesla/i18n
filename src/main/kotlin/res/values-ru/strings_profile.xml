@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_profile_userinfo">Детали</string>
+  <string name="wisdom_profile_security">Центр безопасности</string>
+  <string name="wisdom_profile_preferences">Настройки</string>
+  <string name="wisdom_profile_help">Центр поддержки</string>
+  <string name="wisdom_profile_privacy">Наши соглашения</string>
+  <string name="wisdom_profile_logout">Выход</string>
+  <string name="wisdom_profile_dialog_title">Вы уверены, что хотите выйти из аккаунта?</string>
+  <string name="wisdom_profile_dialog_cancel">Отмена</string>
+  <string name="wisdom_profile_dialog_confirm">Подтверждение</string>
+  <string name="wisdom_profile_media_album">Альбом</string>
+  <string name="wisdom_profile_media_take_picture">Съёмка</string>
+  <string name="wisdom_profile_rewards">Награда за рекомендацию</string>
+  <string name="wisdom_profile_title">Персональный центр</string>
+  <string name="wisdom_profile_account_delete">Аккаунт будет удален без возможности восстановления. Вы уверены, что хотите удалить этот аккаунт?</string>
+  <string name="wisdom_profile_upload_suc">Изображение успешно загружено</string>
+  <string name="wisdom_profile_account_deletion">Удаление аккаунта</string>
+  <string name="wisdom_export_privatekey">Экспортировать приватный ключ</string>
+  <string name="wisdom_dont_disclose_privatekey">Никогда не раскрывайте приватный ключ</string>
+  <string name="wisdom_show_privatekey">Отображение приватного ключа</string>
+  <string name="wisdom_privatekey_warning">Предупреждение: никогда не раскрывайте этот приватный ключ. Любой, обладающий вашим приватным ключом, может украсть любые активы, хранящиеся в вашей учетной записи.</string>
+  <string name="wisdom_show_privatekey_need_verify">Для отображения приватного ключа требуется подтверждение вашей личности.</string>
+  <string name="widom_your_privatekey">Приватный ключ к вашему кошельку Wisdomuae</string>
+  <string name="widom_solana_privatekey">Закрытые ключи для Solana Chain</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_quick_exchange">Быстрые трензакции</string>
+  <string name="hl_quick_receive_coin_type">Валюта при приёме платяжей</string>
+  <string name="hl_quick_receive_coin_type_select">Выбор валюты при приёме платяжей</string>
+  <string name="hl_quick_assets">Активы</string>
+  <string name="hl_quick_current_available">Сейчас доступно:</string>
+  <string name="hl_quick_total_available">Всего доступно после обмена активов:</string>
+  <string name="hl_quick_left_unvailable">Недостаточный баланс, отправка транзакций не разрешена</string>
+  <string name="hl_quick_advised_steps">Рекомендуемый процесс транзакции</string>
+  <string name="hl_quick_estimated_get">Ожидаемое получение</string>
+  <string name="hl_quick_step1">Процесс первый</string>
+  <string name="hl_quick_step2">Процесс второй</string>
+  <string name="hl_quick_step3">Процесс третий</string>
+  <string name="hl_quick_step4">Процесс четвёртый</string>
+  <string name="hl_quick_charged_of_you">Вы должны заплатить</string>
+  <string name="hl_quick_charged_coin_type">Валюта оплаты</string>
+  <string name="hl_quick_fee_included">Включая сборы</string>
+  <string name="hl_quick_buy_from_wisdom">Покупка через Wisdomuae</string>
+  <string name="hl_quick_advised_popular">Лучшее предложение</string>
+  <string name="hl_quick_self">Настройка</string>
+  <string name="hl_quick_need_to_buy">Требуется покупка</string>
+  <string name="hl_quick_self_tip">Вы можете гибко формировать процесс транзакции в зависимости от суммы отправки</string>
+  <string name="hl_quick_self_send_amount">Сформированная сумма отправки</string>
+  <string name="hl_quick_self_total_amount">Предварительная оценка общих расходов</string>
+  <string name="hl_quick_self_recharge_build">Конструкция пополнения</string>
+  <string name="hl_quick_alert_title">Процесс быстрой транзакции включает несколько шагов подтверждения</string>
+  <string name="hl_quick_one_click_all">Подтверждение всех процессов транзакции одной кнопкой</string>
+  <string name="hl_quick_revise_steps"></string>
+</resources>

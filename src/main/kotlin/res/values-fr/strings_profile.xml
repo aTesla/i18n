@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_profile_userinfo">Informations détaillées</string>
+  <string name="wisdom_profile_security">Centre de sécurité</string>
+  <string name="wisdom_profile_preferences">Préférence</string>
+  <string name="wisdom_profile_help">"Centre d'aide"</string>
+  <string name="wisdom_profile_privacy">Notre accord</string>
+  <string name="wisdom_profile_logout">Se déconnecter</string>
+  <string name="wisdom_profile_dialog_title">Êtes-vous sûr de vouloir se déconnecter</string>
+  <string name="wisdom_profile_dialog_cancel">Annuler</string>
+  <string name="wisdom_profile_dialog_confirm">Confirmer</string>
+  <string name="wisdom_profile_media_album">Album de photos</string>
+  <string name="wisdom_profile_media_take_picture">Photographier</string>
+  <string name="wisdom_profile_rewards">Récompense pour recommandation</string>
+  <string name="wisdom_profile_title">Centre personnel</string>
+  <string name="wisdom_profile_account_delete">Les comptes supprimés ne sont pas récupérables. Êtes-vous sûr de vouloir supprimer le compte ?</string>
+  <string name="wisdom_profile_upload_suc">Image téléchargée avec succès</string>
+  <string name="wisdom_profile_account_deletion">Supprimer le compte</string>
+  <string name="wisdom_export_privatekey">Exporter la clé privée</string>
+  <string name="wisdom_dont_disclose_privatekey">Ne révélez jamais cette clé privée</string>
+  <string name="wisdom_show_privatekey">Afficher la clé privée</string>
+  <string name="wisdom_privatekey_warning">Attention : ne divulguez jamais cette clé privée. Toute personne possédant votre clé privée peut voler tous les actifs détenus sur votre compte.</string>
+  <string name="wisdom_show_privatekey_need_verify">"L'affichage de la clé privée nécessite de vérifier votre identité"</string>
+  <string name="widom_your_privatekey">Clé privée de votre portefeuille Wisdomuae</string>
+  <string name="widom_solana_privatekey">Clés privées pour la chaîne Solana</string>
+</resources>

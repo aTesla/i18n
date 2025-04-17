@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_security_title">안보센터</string>
+  <string name="wisdom_user_security_hint_title">안보 설정 완료</string>
+  <string name="wisdom_user_security_hint_desc"></string>
+  <string name="wisdom_user_security_login_password_key">로그인 비밀번호</string>
+  <string name="wisdom_user_security_login_password_desc">로그인 비밀번호를 설정해 주세요</string>
+  <string name="wisdom_user_security_pay_password_key">출금 비밀번호</string>
+  <string name="wisdom_user_security_pay_password_desc">출금 비밀번호를 설정해 주세요</string>
+  <string name="wisdom_user_security_mpc_key_backup_key">MPC암호키 백업</string>
+  <string name="wisdom_user_security_mpc_key_backup_desc">MPC암호키 백업해주세요</string>
+  <string name="wisdom_user_security_change_phone_key">전화번호 인증</string>
+  <string name="wisdom_user_security_change_phone_desc">전화번호를 인증하거나 바꿔 주세요</string>
+  <string name="wisdom_user_security_change_email_key">이메일 인증</string>
+  <string name="wisdom_user_security_change_email_desc">이메일을 인증하거나 바꿔 주세요</string>
+  <string name="wisdom_user_security_freeze_key">지갑 동결</string>
+  <string name="wisdom_user_security_freeze_desc">지갑이 잠시 동결되었습니다. 풀려면 다시 로그인 해주세요</string>
+  <string name="wisdom_user_security_freeze_status_1">정상</string>
+  <string name="wisdom_user_security_freeze_status_2">동결</string>
+  <string name="wisdom_user_security_devices_key">설비 관리</string>
+  <string name="wisdom_user_security_devices_desc">요즘 로그인 활동과 설비 정보를 관리 및 확인하기</string>
+  <string name="hl_device_management">설비 관리</string>
+  <string name="hl_device_check_title">요금 로그인 설비와 정보를 확인하기</string>
+  <string name="hl_device_check_subtitle">요금 로그인 설비와 정보를 확인하고 지갑 사용권을 관리하기</string>
+  <string name="hl_device_unnormal">비정상적인 활동을 발견하셨습니까?</string>
+  <string name="hl_device_unnormal_desc">지갑 비정상적인 활동을 발견하시면 비밀번호를 변경해 주세요. 안보하기 위해 모든 설비에서 계정을 로그아웃 해주시겠습니다</string>
+  <string name="hl_device_name">설비 명칭</string>
+  <string name="hl_device_last_online">마지막 온라인 시간</string>
+  <string name="hl_device_recent_login">최근 로그인 시간</string>
+  <string name="hl_device_login_location">로그인 위치</string>
+  <string name="hl_device_ip">IP 주소</string>
+  <string name="hl_device_current"></string>
+  <string name="hl_device_remove">삭제</string>
+  <string name="hl_device_alert_title">삭제하시겠습니까?</string>
+  <string name="hl_device_alert_message">계정 삭제하고 본 설비에서 자동적으로 로그아웃하겠습니다.</string>
+  <string name="hl_device_revise_login_pwd">로그인하고 비밀번호를 변경하기</string>
+</resources>

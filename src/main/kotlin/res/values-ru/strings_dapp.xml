@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_dapp_search_placeholder">Поиск по названию DApp</string>
+  <string name="hl_dapp_card_title">Низкая комиссия</string>
+  <string name="hl_dapp_card_subtitle">Межцепочные транзакции с моментальным переводом и зашифрованной перепиской</string>
+  <string name="hl_dapp_recent_use">Недавно использованные</string>
+  <string name="hl_dapp_featured">Рекомендуемые</string>
+  <string name="hl_dapp_trending">Тренд</string>
+  <string name="hl_dapp_top">Популярные</string>
+  <string name="hl_dapp_alert_title">Предупреждение о безопасности</string>
+  <string name="hl_dapp_alert_msg">Вы собираетесь посещать сторонний DApp. При осуществлении переводов убедитесь, что вы понимаете финансовые риски и действуйте с осторожностью. Wisdomuae не несет ответственности за любые потери, возникшие в результате использования этого DApp.</string>
+  <string name="hl_dapp_alert_not_tip">Больше не напоминать</string>
+  <string name="hl_dapp_history_search">История</string>
+  <string name="hl_dapp_search_no_result">Результаты поиска отсутствуют</string>
+</resources>

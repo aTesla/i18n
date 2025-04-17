@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_quick_exchange">빠른 거래</string>
+  <string name="hl_quick_receive_coin_type">수금 화폐</string>
+  <string name="hl_quick_receive_coin_type_select">수금 화폐를 선택해 주세요</string>
+  <string name="hl_quick_assets">재산</string>
+  <string name="hl_quick_current_available">현재 사용 가능</string>
+  <string name="hl_quick_total_available">재산 교환 후 가용 총액</string>
+  <string name="hl_quick_left_unvailable">잔액이 부족합니다.거래 불가합니다</string>
+  <string name="hl_quick_advised_steps">거래 과정 추천</string>
+  <string name="hl_quick_estimated_get">취득 예정</string>
+  <string name="hl_quick_step1">과정1</string>
+  <string name="hl_quick_step2">과정2</string>
+  <string name="hl_quick_step3">과정3</string>
+  <string name="hl_quick_step4">과정4</string>
+  <string name="hl_quick_charged_of_you">지불해야 할 금액</string>
+  <string name="hl_quick_charged_coin_type">지불 화폐</string>
+  <string name="hl_quick_fee_included">포함 비용</string>
+  <string name="hl_quick_buy_from_wisdom">Wisdomuae에서 구매</string>
+  <string name="hl_quick_advised_popular">최적 추천</string>
+  <string name="hl_quick_self">개인화</string>
+  <string name="hl_quick_need_to_buy">구매 필수</string>
+  <string name="hl_quick_self_tip">송금 금액에 따라 거래 과정을 유연하게 구축할 수 있다</string>
+  <string name="hl_quick_self_send_amount">송금 금액이 이미 구축되었습니다</string>
+  <string name="hl_quick_self_total_amount">예상 총비용</string>
+  <string name="hl_quick_self_recharge_build">충전 구축</string>
+  <string name="hl_quick_alert_title">이번 빠른 거래 과정은 단계별로 확인</string>
+  <string name="hl_quick_one_click_all">클릭 한 번으로 모든 거래 과정 확인</string>
+  <string name="hl_quick_revise_steps"></string>
+</resources>

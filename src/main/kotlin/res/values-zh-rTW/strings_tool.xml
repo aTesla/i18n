@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">刷新</string>
+  <string name="wisdom_scan_title">掃描二維碼</string>
+  <string name="wisdom_scan_tip">請掃描時把二維碼和方框對齊</string>
+  <string name="wisdom_scan_upload">上傳圖片</string>
+  <string name="wisdom_scan_invalid">無效二維碼</string>
+  <string name="wisdom_email">郵件</string>
+  <string name="hl_scan_tip">掃描位址QR碼/WalletConnect/URL</string>
+</resources>

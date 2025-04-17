@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_nav_home">الصفحة الرئيسية</string>
+  <string name="wisdom_nav_account">الحساب</string>
+  <string name="wisdom_nav_wallet">المحفظة</string>
+  <string name="wisdom_nav_contacts">المستفيد</string>
+  <string name="wisdom_nav_qrcode">الأموال</string>
+  <string name="wisdom_nav_qrcode_title">الأموال</string>
+  <string name="hl_nav_bank">البنك</string>
+  <string name="hl_nav_exchange">المعاملات</string>
+  <string name="hl_nav_market">السوق</string>
+  <string name="hl_nav_explore">استكشاف</string>
+</resources>

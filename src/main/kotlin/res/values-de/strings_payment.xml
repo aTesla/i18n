@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_payment_scan_title">Bezahlen</string>
+  <string name="wisdom_payment_scan_desc_login">Bezahlung per QR-Code</string>
+  <string name="wisdom_payment_scan_desc_unlogin">Nach der Aktivierung können Sie Zahlungen an andere WisdomuaeAPP-Nutzer senden.</string>
+  <string name="wisdom_payment_colleciton_title">Empfangen</string>
+  <string name="wisdom_payment_colleciton_desc_unlogin">Nach der Aktivierung können Sie Zahlungen von anderen WisdomuaeAPP-Nutzern empfangen.</string>
+  <string name="wisdom_payment_colleciton_desc_login">Empfangen von Zahlungen anderer Personen</string>
+  <string name="wisdom_payment_colleciton_desc_not_open_account">Sie haben noch kein Wisdomuae-Kartenkonto, daher können Sie diese Funktion noch nicht nutzen.</string>
+  <string name="wisdom_payment_cert_activated">Jetzt verifizieren und aktivieren</string>
+  <string name="wisdom_payment_qrcode_title">Bezahlen und Empfangen</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_profile_userinfo">詳細</string>
+  <string name="wisdom_profile_security">セキュリティセンター</string>
+  <string name="wisdom_profile_preferences">プリファレンス設定</string>
+  <string name="wisdom_profile_help">ヘルプセンター</string>
+  <string name="wisdom_profile_privacy">契約</string>
+  <string name="wisdom_profile_logout">終了</string>
+  <string name="wisdom_profile_dialog_title">ログアウトしますか</string>
+  <string name="wisdom_profile_dialog_cancel">キャンセル</string>
+  <string name="wisdom_profile_dialog_confirm">確認</string>
+  <string name="wisdom_profile_media_album">アルバム</string>
+  <string name="wisdom_profile_media_take_picture">撮影</string>
+  <string name="wisdom_profile_rewards">推薦者には景品あり</string>
+  <string name="wisdom_profile_title">Myページ</string>
+  <string name="wisdom_profile_account_delete">アカウントが削除されたら回復できません。本当にこのアカウントを削除しますか。</string>
+  <string name="wisdom_profile_upload_suc">画像のアップロードに成功しました</string>
+  <string name="wisdom_profile_account_deletion">アカウントを削除</string>
+  <string name="wisdom_export_privatekey">秘密鍵のエクスポート</string>
+  <string name="wisdom_dont_disclose_privatekey">この秘密鍵は絶対に漏洩しないでください</string>
+  <string name="wisdom_show_privatekey">秘密鍵を表示</string>
+  <string name="wisdom_privatekey_warning">警告：この秘密鍵は絶対に漏洩しないでください。秘密鍵を持っている人は、アカウントの資産を盗む恐れがあります。</string>
+  <string name="wisdom_show_privatekey_need_verify">秘密鍵を表示するには認証が必要です</string>
+  <string name="widom_your_privatekey">Wisdomuaeウォレットの秘密鍵</string>
+  <string name="widom_solana_privatekey">Solanaチェーンの秘密鍵</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_quant_fund">양적거래</string>
+  <string name="wisdom_selected_products">추천상품</string>
+  <string name="wisdom_arb_strategy">중성 차익 거래 전략</string>
+  <string name="wisdom_progres_stable">안정속에 정장을 추구합니다</string>
+  <string name="wisdom_stable_low_vol">안정적이고 변동성이 낮습니다</string>
+  <string name="wisdom_30days_apr">최근 30일 예상 연환산 수익률</string>
+  <string name="wisdom_year_apr">올해 들어 연환산 수익률</string>
+  <string name="wisdom_lock_day">락업기간</string>
+  <string name="wisdom_flex">가입과 환매가 유연합니다</string>
+  <string name="wisdom_choose_quant_reason">Wisdomuae 양적 펀드를 선택하는 이유는 무엇입니까?</string>
+  <string name="wisdom_quant_reason_1">100%준비금 인증</string>
+  <string name="wisdom_quant_reason_1_desc">저희는 100% 준비금을 머클 트리를 통해 감사하였으며, 고객님는 투자 자금이 정확히 머클 트리 내에 존재하는지 확인하실 수 있습니다.</string>
+  <string name="wisdom_quant_reason_2">가입과 환매가 유연하고 락업기간이 없습니다.</string>
+  <string name="wisdom_quant_reason_2_desc">양적 펀드가 전통적인 펀드 규칙을 깨뜨렸습니다. 저희의 양적 펀드는 락업 기간이 없으며, 언제든지 가입과 환매가 가능합니다.</string>
+  <string name="wisdom_quant_reason_3">완비한 리스크 관리 시스템</string>
+  <string name="wisdom_quant_reason_3_desc">순자산 가치를 실시간으로 추적하여 높은 투명성을 보장하며, 전략은 오직 본 플랫폼에서만 실행됩니다. 플랫폼은 노출도와 회복 등 일련의 지표를 모니터링하여, 전략이 완전한 중성 차익 거래 전략에 속하는지 확인합니다.</string>
+  <string name="wisdom_goal_user">타깃 사용자</string>
+  <string name="wisdom_goal_user_1">저휘험 선호자</string>
+  <string name="wisdom_goal_user_2">고순자산 사용자</string>
+  <string name="wisdom_goal_user_3">투자 고객</string>
+  <string name="wisdom_largest_retrace">역사 최대 하락률</string>
+  <string name="wisdom_operration_days">운영일수</string>
+  <string name="wisdom_operration_days_desc">%s일</string>
+  <string name="wisdom_day_retrace">일 하락률 %s이내</string>
+  <string name="wisdom_performance_trends">업적 추이</string>
+  <string name="wisdom_purchase_method">신청구매 금액 및 방법은 전담 펀드 매니저에게 문의해 주세요.</string>
+  <string name="wisdom_contact_fouder">전담 펀드 매니저에게 연락하세요.</string>
+  <string name="wisdom_trading_rules">거래 규칙</string>
+  <string name="wisdom_trading_rules_desc">·양적 펀드는 중립 차익 거래 전략을 통해 고수익을 추구하는 재테크 상품입니다. ·이자 발생 규칙: 가입 완료 후 즉시 이자가 발생합니다. ·가입 규칙: 가입 후 실시간으로 손익을 확인할 수 있습니다. ·환매 규칙: 환매 후 즉시 입금됩니다. ·양적 펀드 상품은 언제든지 가입 및 환매가 가능하며, 폐쇄 기간이 없습니다. ·관리비: 한정 기간 동안 무료입니다. ·보유 기간이 48시간 미만일 경우, 수익은 정산되지 않으며, 손실이 있을 경우 실제 순자산가치로 정산됩니다. ·보유 기간이 48시간을 초과할 경우, 수익의 30%는 플랫폼 관리 수수료로 차감되며, 손실이 있을 경우 실제 순자산가치로 정산됩니다.</string>
+  <string name="wisdom_strategy_introduction">전략 소개</string>
+  <string name="wisdom_spot_advantages">기간 차익 거래의 장점</string>
+  <string name="wisdom_spot_advantages_desc">·화폐 가격의 상승이나 하락에 관계없이, 현물과 선물 포지션은 서로 상쇄되므로 가격 변동으로 인한 손실이 발생하지 않습니다. ·선물-현물 차익 거래의 수익은 자금 비용에서 발생하며, 지출은 포지션 개설 및 청산 거래 수수료에 한정되어 있습니다. ·불마켓에 있을 때는 보통 자금 비용이 매우 높게 상승하며, 이때 추가로 매수 포지션을 취하는 것은 상당한 위험을 수반합니다. 그러나 선물-현물 차익 거래를 통해 자금 비용에서 발생하는 수익을 얻을 수 있습니다.</string>
+  <string name="wisdom_contact_funder_method">·선물-현물 차익 거래의 수익은 자금 비용에서 발생하며, 지출은 포지션 개설 및 청산 거래 수수료에 한정되어 있습니다.</string>
+  <string name="wisdom_call_phone">·불마켓에 있을 때는 보통 자금 비용이 매우 높게 상승하며, 이때 추가로 매수 포지션을 취하는 것은 상당한 위험을 수반합니다. 그러나 선물-현물 차익 거래를 통해 자금 비용에서 발생하는 수익을 얻을 수 있습니다.</string>
+  <string name="wisdom_copy_email">이메일 복사하기</string>
+  <string name="wisdom_copy_suc_dup">복사되었습니다</string>
+  <string name="wisdom_year_rate">연화산 수익률</string>
+  <string name="wisdom_net_worth">순자산가치</string>
+</resources>

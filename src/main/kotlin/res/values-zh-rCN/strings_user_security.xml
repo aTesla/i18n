@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_security_title">安全中心</string>
+  <string name="wisdom_user_security_hint_title">完成所有的安全设置</string>
+  <string name="wisdom_user_security_hint_desc">系统建议您完成所有安全设置提升账户安全</string>
+  <string name="wisdom_user_security_login_password_key">登录密码</string>
+  <string name="wisdom_user_security_login_password_desc">设置您的登录密码</string>
+  <string name="wisdom_user_security_pay_password_key">取款密码</string>
+  <string name="wisdom_user_security_pay_password_desc">设置您的取款密码</string>
+  <string name="wisdom_user_security_mpc_key_backup_key">MPC密钥备份</string>
+  <string name="wisdom_user_security_mpc_key_backup_desc">备份您的MPC密钥</string>
+  <string name="wisdom_user_security_change_phone_key">手机验证</string>
+  <string name="wisdom_user_security_change_phone_desc">验证或更改您的手机号码</string>
+  <string name="wisdom_user_security_change_email_key">邮箱验证</string>
+  <string name="wisdom_user_security_change_email_desc">验证或更改改您的邮箱</string>
+  <string name="wisdom_user_security_freeze_key">冻结钱包</string>
+  <string name="wisdom_user_security_freeze_desc">您的钱包将暂时冻结，如需解冻请重新登录</string>
+  <string name="wisdom_user_security_freeze_status_1">正常</string>
+  <string name="wisdom_user_security_freeze_status_2">冻结</string>
+  <string name="wisdom_user_security_devices_key">设备管理</string>
+  <string name="wisdom_user_security_devices_desc">管理并查看最近登录活动和设备信息</string>
+  <string name="hl_device_management">设备管理</string>
+  <string name="hl_device_check_title">查看最近登录设备和登录信息</string>
+  <string name="hl_device_check_subtitle">查看最近登录的设备和登录信息，管理钱包使用权</string>
+  <string name="hl_device_unnormal">发现异常活动？</string>
+  <string name="hl_device_unnormal_desc">若发现钱包异常活动，请更改密码，我们会从全部设备将您的账号退出登录，确保安全。</string>
+  <string name="hl_device_name">设备名称</string>
+  <string name="hl_device_last_online">最后在线时间</string>
+  <string name="hl_device_recent_login">最近登录时间</string>
+  <string name="hl_device_login_location">登录所在地</string>
+  <string name="hl_device_ip">IP地址</string>
+  <string name="hl_device_current">当前设备</string>
+  <string name="hl_device_remove">移除</string>
+  <string name="hl_device_alert_title">确定移除此设备？</string>
+  <string name="hl_device_alert_message">移除后账号将在此设备自动退出登录</string>
+  <string name="hl_device_revise_login_pwd">修改登录密码</string>
+</resources>

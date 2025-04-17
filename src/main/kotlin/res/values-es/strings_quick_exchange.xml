@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_quick_exchange">Transacción rápida</string>
+  <string name="hl_quick_receive_coin_type">Moneda de recepción</string>
+  <string name="hl_quick_receive_coin_type_select">Seleccionar moneda de recepción</string>
+  <string name="hl_quick_assets">Activos</string>
+  <string name="hl_quick_current_available">Disponibles actualmente</string>
+  <string name="hl_quick_total_available">Total disponible después del intercambio</string>
+  <string name="hl_quick_left_unvailable">Saldo insuficiente. No se permiten transacciones</string>
+  <string name="hl_quick_advised_steps">Proceso de transacción recomendado</string>
+  <string name="hl_quick_estimated_get">Obtención prevista</string>
+  <string name="hl_quick_step1">Proceso uno</string>
+  <string name="hl_quick_step2">Proceso dos</string>
+  <string name="hl_quick_step3">Proceso tres</string>
+  <string name="hl_quick_step4">Proceso cuatro</string>
+  <string name="hl_quick_charged_of_you">Debe pagar</string>
+  <string name="hl_quick_charged_coin_type">Moneda de pago</string>
+  <string name="hl_quick_fee_included">Costos incluidos</string>
+  <string name="hl_quick_buy_from_wisdom">Comprar desde Wisdomuae</string>
+  <string name="hl_quick_advised_popular">Recomendación óptima</string>
+  <string name="hl_quick_self">Personalización</string>
+  <string name="hl_quick_need_to_buy">Necesita comprar</string>
+  <string name="hl_quick_self_tip">Puede construir el proceso de transacción de manera flexible según el monto a enviar</string>
+  <string name="hl_quick_self_send_amount">Monto enviado construido</string>
+  <string name="hl_quick_self_total_amount">Gastos totales estimados</string>
+  <string name="hl_quick_self_recharge_build">Construcción de depósito</string>
+  <string name="hl_quick_alert_title">Este proceso de transacción rápida se confirma en varios pasos</string>
+  <string name="hl_quick_one_click_all">Confirmar con un solo clic para realizar todos los procesos de transacción</string>
+  <string name="hl_quick_revise_steps"></string>
+</resources>

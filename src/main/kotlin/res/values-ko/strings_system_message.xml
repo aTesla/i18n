@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_system_message">시스템 메시지</string>
+  <string name="hl_exchange_records">거래 기록</string>
+  <string name="hl_plateform_notice">공지</string>
+  <string name="hl_market_activity">시장동향</string>
+  <string name="hl_notificaiton_exchange">입금알림</string>
+  <string name="hl_notification_recharge">충전입금알림</string>
+  <string name="hl_notification_compony">공지</string>
+  <string name="hl_notification_get_money">입금알림</string>
+  <string name="wisdom_message">메시지</string>
+</resources>

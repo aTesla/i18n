@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_contacts_delete">Удаление</string>
+  <string name="wisdom_contacts_delete_suc">Удалено успешно</string>
+  <string name="wisdom_contacts_delete_info">Вы уверены, что хотите удалить?</string>
+  <string name="wisdom_contacts_delete_notice">Подсказка</string>
+  <string name="wisdom_contacts_revise">Изменение</string>
+  <string name="wisdom_contacts_revise_suc">Изменено успешно</string>
+  <string name="wisdom_contacts_save">Сохранение</string>
+  <string name="wisdom_contacts_add_suc">Добавлено успешно</string>
+  <string name="wisdom_contacts_select_label">Выберите метку</string>
+  <string name="wisdom_contacts_email_error">Введенный вами адрес электронной почты неверен</string>
+  <string name="wisdom_contacts_title">Получатель</string>
+  <string name="wisdom_contacts_tab0">Фиатная валюта</string>
+  <string name="wisdom_contacts_tab1">Криптовалюта</string>
+  <string name="wisdom_contacts_action_add">Добавление</string>
+  <string name="wisdom_contacts_search_placeholder">Поиск по имени, номеру телефона, адресу электронной почты, ID</string>
+  <string name="wisdom_contacts_empty_str1">Добавьте получателя</string>
+  <string name="wisdom_contacts_empty_str2">Более опасное и удобное управление финансовыми услугами</string>
+  <string name="wisdom_contacts_empty_str3">Добавьте получателя</string>
+  <string name="wisdom_contacts_fiat_name_label">Имя получателя(полное имя)</string>
+  <string name="wisdom_contacts_fiat_name_placeholder">Введите имя получателя</string>
+  <string name="wisdom_contacts_fiat_bank_num_label">Номер банковской карты</string>
+  <string name="wisdom_contacts_fiat_bank_num_placeholder">Введите номер банковской карты</string>
+  <string name="wisdom_contacts_fiat_email_label">Адрес электронной почты</string>
+  <string name="wisdom_contacts_fiat_email_placeholder">Введите адрес электронной почты получателя</string>
+  <string name="wisdom_contacts_fiat_phone_label">Номер телефона</string>
+  <string name="wisdom_contacts_fiat_phone_placeholder">Введите номер телефона получателя</string>
+  <string name="wisdom_contacts_fiat_uid_label">Wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_uid_placeholder">Введите wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_country_label">Страна проживания</string>
+  <string name="wisdom_contacts_fiat_country_placeholder">Выберите страну проживания</string>
+  <string name="wisdom_contacts_fiat_coin_label">Тип валюты</string>
+  <string name="wisdom_contacts_fiat_coin_placeholder">Выберите тип валюты</string>
+  <string name="wisdom_contacts_fiat_bank_label">Банк</string>
+  <string name="wisdom_contacts_fiat_bank_placeholder">Выберите банк</string>
+  <string name="wisdom_contacts_fiat_phone_region_label">Метка</string>
+  <string name="wisdom_contacts_fiat_phone_region_placeholder">Выберите соответствующую метку</string>
+  <string name="wisdom_contacts_fiat_tag_label">Метка</string>
+  <string name="wisdom_contacts_fiat_tag_placeholder">Выберите соответствующую метку</string>
+  <string name="wisdom_contacts_net_label">Выбор сети</string>
+  <string name="wisdom_contacts_net_placeholder">Выберите сеть</string>
+  <string name="wisdom_contacts_chain_label">Адрес получения</string>
+  <string name="wisdom_contacts_chain_placeholder">Выберите адрес получения</string>
+  <string name="wisdom_contacts_select_payer">Выбор получателя</string>
+  <string name="wisdom_contacts_select_top_tip">Выберите арес блокчейна и сеть для перевода средств</string>
+  <string name="wisdom_contacts_select_top_des">Подтвердите правильность адреса блокчейна, так как после перевода изменения невозможны</string>
+</resources>

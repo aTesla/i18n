@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_verify_code_email_title">Мы только что отправили вам код подтверждения на вашу электронную почту</string>
+  <string name="wisdom_verify_code_phone_title">Мы только что отправили вам код подтверждения на ваш телефон.</string>
+  <string name="wisdom_verify_code_new_email_title">Мы только что отправили вам код подтверждения на вашу новую электронную почту</string>
+  <string name="wisdom_verify_code_new_phone_title">Мы только что отправили вам код подтверждения на ваш новый телефон</string>
+  <string name="wisdom_verify_code_register">Для регистрации введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_login">Для входа введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_reset_login_password">Для сброса введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_change_payment_password">Для изменения пароля для снятия денег введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_change_email">Для смены привязки введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_change_new_email">Для изменения введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_change_phone">Для смены привязки введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_change_new_phone">Для изменения введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_freeze">Для заморозки кошелька введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_unfreeze">Для разморозки кошелька введите код подтверждения, отправленный на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_verify_code_error">Введенный код подтверждения неверен, введите заново.</string>
+  <string name="wisdom_verify_code_count_down">Повторная отправка через %1$s</string>
+  <string name="wisdom_verify_code_resend">Переполучение</string>
+  <string name="wisdom_verify_code_next_step">Следующий шаг</string>
+  <string name="wisdom_verify_code_submit">Отправка</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_system_message">رسالة النظام</string>
+  <string name="hl_exchange_records">سجل المعاملات</string>
+  <string name="hl_plateform_notice">إعلانات المنصة</string>
+  <string name="hl_market_activity">ديناميكيات السوق</string>
+  <string name="hl_notificaiton_exchange">تأكيد التحويل</string>
+  <string name="hl_notification_recharge">تأكيد الإيداع</string>
+  <string name="hl_notification_compony">الإشعارات الرسمية</string>
+  <string name="hl_notification_get_money">تأكيد الاستلام</string>
+  <string name="wisdom_message">رسائل</string>
+</resources>

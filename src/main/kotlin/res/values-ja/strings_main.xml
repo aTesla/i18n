@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_nav_home">ホームページ</string>
+  <string name="wisdom_nav_account">アカウント</string>
+  <string name="wisdom_nav_wallet">ウォレット</string>
+  <string name="wisdom_nav_contacts">受取人</string>
+  <string name="wisdom_nav_qrcode">入金・出金</string>
+  <string name="wisdom_nav_qrcode_title">入金・出金</string>
+  <string name="hl_nav_bank">銀行</string>
+  <string name="hl_nav_exchange">取り引き</string>
+  <string name="hl_nav_market">市場</string>
+  <string name="hl_nav_explore">探索</string>
+</resources>

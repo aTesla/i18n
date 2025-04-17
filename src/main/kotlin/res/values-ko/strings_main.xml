@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_nav_home">홈</string>
+  <string name="wisdom_nav_account">계정</string>
+  <string name="wisdom_nav_wallet">지갑</string>
+  <string name="wisdom_nav_contacts">수취인</string>
+  <string name="wisdom_nav_qrcode">입·송금</string>
+  <string name="wisdom_nav_qrcode_title">입·송금</string>
+  <string name="hl_nav_bank">은행</string>
+  <string name="hl_nav_exchange">거래</string>
+  <string name="hl_nav_market">시장</string>
+  <string name="hl_nav_explore">탐구</string>
+</resources>

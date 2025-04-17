@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_freeze_step1_title">계정 정지</string>
+  <string name="wisdom_freeze_step1_card_title">계정을 정지하려면 신중하게 해주세요</string>
+  <string name="wisdom_freeze_step1_card_desc">계정 정지 후 모든 거래 기능이 다 불가되고 계정 풀려면 먼저 다시 로그인 해주세요</string>
+  <string name="wisdom_freeze_step1_card_sub_title">계정 정지 후:</string>
+  <string name="wisdom_freeze_step1_card_sub_desc1">본 계정의 모든 거래 기능이 다 금용됩니다.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc2">본 계정의 모든 앱 기능이 다 금용됩니다.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc3">본 계정의 모든 설비가 삭제됩니다.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc4">본 계정의 모든 처리하지 않은 인출이 취소됩니다.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc5">스마트 계약서등 진행중인 거래가 취소되지 않습니다</string>
+  <string name="wisdom_freeze_step1_question">계정 정지의 이우는 무엇입니까?</string>
+  <string name="wisdom_freeze_step1_answer1">계정이 불안전하기 때문이다. 잠시 계정 정지하고 싶습니다.</string>
+  <string name="wisdom_freeze_step1_answer2">이 계정은 더이상 사용하고 싶지 않습니다,</string>
+  <string name="wisdom_freeze_step1_answer3">이미 다른 앱의 계정이 있습니다.</string>
+  <string name="wisdom_freeze_step1_answer4">다른 이유</string>
+  <string name="wisdom_freeze_step1_answer4_placeholder">구체적으로 설명해 주세요</string>
+  <string name="wisdom_freeze_step1_radio_group">인증코드 받는 방식을 선택해 주세요</string>
+  <string name="wisdom_freeze_step1_radio1">전화번호 인증</string>
+  <string name="wisdom_freeze_step1_radio2">이메일 인증</string>
+  <string name="wisdom_freeze_step1_agreement">계정 정지의 결괄르 알고 있습니다. 계정 정지 후 잔액 반납 불가를 동의합니다.</string>
+  <string name="wisdom_freeze_step1_go_on">다음</string>
+  <string name="wisdom_freeze_step2_title">인증코드 이메일이 발송되었습니다</string>
+  <string name="wisdom_freeze_step2_desc">계정 정지 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_freeze_step2_email_error">입력하신 인증코드가 잘못 되었습니다. 다시 입력해 주세요</string>
+  <string name="wisdom_freeze_step2_email_count_down">%1$s뒤 다시 발송합니다</string>
+  <string name="wisdom_freeze_step2_email_resend">다시 받기</string>
+  <string name="wisdom_freeze_step2_next_step">다음</string>
+  <string name="wisdom_freeze_step3_title">인증코드 메시지가 발송되었습니다</string>
+  <string name="wisdom_freeze_step3_desc">계정 정지 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_freeze_step3_phone_error">입력하신 인증코드가 잘못 되었습니다. 다시 입력해 주세요</string>
+  <string name="wisdom_freeze_step3_phone_count_down">%1$s뒤 다시 발송합니다</string>
+  <string name="wisdom_freeze_step3_phone_resend">다시 받기</string>
+  <string name="wisdom_freeze_step3_submit">확인</string>
+  <string name="wisdom_freeze_step5_title">계정 정지 완료</string>
+  <string name="wisdom_freeze_step5_desc">모든 거래 기능이 금용되었습니다. 계정을 풀려면 먼저 로그인 해주세요</string>
+  <string name="wisdom_freeze_step5_back_login">로그인으로 돌아가기</string>
+  <string name="wisdom_unfreeze_title">계정 풀기</string>
+  <string name="wisdom_unfreeze_step5_title">계정 풀기 신청 제출 완료</string>
+  <string name="wisdom_unfreeze_step5_desc">계정 풀기 신청 제출 완료되었습니다. 24시간내에 고객센터에서 연락드리겠습니다. 전화 받아주시기 바랍니다.</string>
+  <string name="wisdom_unfreeze_step5_back_login">홈으로 돌아가기</string>
+  <string name="wisdom_unfreeze_step5_device_verify_success">설비 인증 완료</string>
+  <string name="wisdom_unfreeze_step5_unfreezed_success">지갑 풀기 완료</string>
+  <string name="wisdom_unfreeze_step5_restore_success">모든 거래와 기능이미 사용 가능합니다</string>
+  <string name="hl_freeze_estimate_total_amount">추정총액</string>
+  <string name="hl_freeze_alert_desc">지갑이 정지되고 있습니다. 정지 풀겠습니까?</string>
+  <string name="hl_freeze_alert_unfreeze">정지 풀기</string>
+  <string name="hl_freeze_alert_continue">정지 유지</string>
+  <string name="hl_freeze_alert_verify">인증코드 받는 방식을 선택해 주세요</string>
+  <string name="hl_freeze_alert_phone">전화번호로 받기</string>
+  <string name="hl_freeze_alert_email">이메일로 받기</string>
+</resources>

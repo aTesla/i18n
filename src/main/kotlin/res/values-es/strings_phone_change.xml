@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_phone_change_step1_title">Verificación telefónica</string>
+  <string name="wisdom_phone_change_step1_card_title">Cambiar su número de teléfono móvil recibiendo el código de verificación</string>
+  <string name="wisdom_phone_change_step1_card_desc">Si desea cambiar su teléfono móvil vinculado, puede cambiarlo automáticamente mediante el código de verificación recibido por correo electrónico y número de teléfono</string>
+  <string name="wisdom_phone_change_step1_a1">Utilizar el correo electrónico y el número de teléfono móvil registrados para vincular un nuevo número de teléfono móvil</string>
+  <string name="wisdom_phone_change_step1_a2">Enviar el código al correo y teléfono</string>
+  <string name="wisdom_phone_change_step1_b1">No se puede recibir el código de verificación, y solicita el servicio al cliente para cambiar el número de teléfono móvil</string>
+  <string name="wisdom_phone_change_step1_b2">Iniciar servicio al cliente humano</string>
+  <string name="wisdom_phone_change_step4_title">Verificación del nuevo número de teléfono móvil</string>
+  <string name="wisdom_phone_change_step4_card_title">El paso final es verificar su nuevo número de móvil</string>
+  <string name="wisdom_phone_change_step4_card_desc">Ingrese su nuevo número de teléfono móvil correcto para recibir un código de verificación</string>
+  <string name="wisdom_phone_change_step4_old_email">Su número de teléfono móvil actual es：</string>
+  <string name="wisdom_phone_change_step4_email_label">Nuevo número de teléfono móvil</string>
+  <string name="wisdom_phone_change_step4_email_placeholder">Introduzca el nuevo número de móvil</string>
+  <string name="wisdom_phone_change_step4_email_supporting_text">El número ingresado es incorrecto, por favor vuelva a introducirlo</string>
+  <string name="wisdom_phone_change_step4_send_verify_code">Enviar un código de verificación</string>
+  <string name="wisdom_phone_change_step6_title">Cambiar el número de teléfono móvil vinculado con éxito</string>
+  <string name="wisdom_phone_change_step6_back_home">Regresar a la página de inicio</string>
+  <string name="wisdom_phone_change_a">Verificación telefónica</string>
+  <string name="wisdom_phone_change_b">Cambiar su número de móvil</string>
+  <string name="wisdom_phone_change_c">Hay algunas condiciones que deben cumplirse antes de actualizar su teléfono</string>
+  <string name="wisdom_phone_change_d">Tómate una selfie sosteniendo su pasaporte o documento de identidad</string>
+  <string name="wisdom_phone_change_e">Utilizar su nuevo número de teléfono para recibir un código de verificación</string>
+  <string name="wisdom_phone_change_f">Verificaremos su información y actualizaremos su número de móvil</string>
+  <string name="wisdom_phone_change_g">Esto suele tardar 10 minutos, pero al máximo hasta 3 días</string>
+  <string name="wisdom_phone_change_h">Continuar</string>
+  <string name="wisdom_phone_change_i">Subir y ver su selfie</string>
+  <string name="wisdom_phone_change_j">Solo aceptamos una fotografía de pasaporte, documento de identidad o licencia de conducir para verificar su identidad</string>
+  <string name="wisdom_phone_change_k">Su selfie debe mostrar:</string>
+  <string name="wisdom_phone_change_l1">Su rostro completo y su documento de identificación</string>
+  <string name="wisdom_phone_change_l2">Nombre y apellido en su DNI</string>
+  <string name="wisdom_phone_change_l3">Foto de documento de identidad con claridad</string>
+  <string name="wisdom_phone_change_m">Ejemplo de selfie:</string>
+  <string name="wisdom_phone_change_n">La verificación falló, y por favor sube una nueva foto</string>
+  <string name="wisdom_phone_change_o">Se envió la solicitud de verificación por número de teléfono con éxito</string>
+  <string name="wisdom_phone_change_p">Verificaremos su información y actualizaremos su número de teléfono móvil. Se le notificará el cambio mediante un mensaje del sistema o un mensaje de texto</string>
+  <string name="wisdom_phone_change_q">Esto suele tardar 10 minutos, pero al máximo hasta 3 días</string>
+</resources>

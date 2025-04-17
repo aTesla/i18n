@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">偏好設定</string>
+  <string name="wisdom_settings_language">語言</string>
+  <string name="wisdom_settings_language_desc">設定後郵件、簡訊、App 推播通知及您登入的所有裝置均會使用您的最新語言設置</string>
+  <string name="wisdom_settings_coin">貨幣</string>
+  <string name="wisdom_settings_coin_desc">設定後主頁將依照您所選貨幣進行帳戶資金計算</string>
+  <string name="wisdom_settings_system_default">系統預設設定</string>
+  <string name="wisdom_settings_theme_mode">外觀模式</string>
+  <string name="wisdom_settings_theme_mode_desc">設定後外觀模式將根據你設定的模式進行改變</string>
+  <string name="wisdom_settings_theme_follow_system">跟隨系統</string>
+  <string name="wisdom_settings_theme_follow_system_desc">外觀將跟隨系統設定為白天模式或黑夜模式</string>
+  <string name="wisdom_settings_theme_light_mode">白天模式</string>
+  <string name="wisdom_settings_theme_dark_mode">黑夜模式</string>
+  <string name="wisdom_settings_theme_mode_select">選擇外觀模式</string>
+  <string name="wisdom_settings_save">儲存設定</string>
+</resources>

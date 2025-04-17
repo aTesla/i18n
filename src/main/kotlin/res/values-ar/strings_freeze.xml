@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_freeze_step1_title">تجميد الحساب</string>
+  <string name="wisdom_freeze_step1_card_title">يرجى توخي الحذر عند تجميد حسابك</string>
+  <string name="wisdom_freeze_step1_card_desc">بعد تجميد حسابك، سيتم تعطيل جميع وظائف التداول. يرجى تسجيل الدخول مرة أخرى لفك التجميد.</string>
+  <string name="wisdom_freeze_step1_card_sub_title">بعد تجميد حسابك:</string>
+  <string name="wisdom_freeze_step1_card_sub_desc1">ستُعطَّل وظائف التداول</string>
+  <string name="wisdom_freeze_step1_card_sub_desc2">ستُعطَّل جميع وظائف التطبيق</string>
+  <string name="wisdom_freeze_step1_card_sub_desc3">سيتم حذف جميع الأجهزة المصرح بها</string>
+  <string name="wisdom_freeze_step1_card_sub_desc4">سيتم إلغاء جميع عمليات السحب المعلقة</string>
+  <string name="wisdom_freeze_step1_card_sub_desc5">لن يتم إلغاء المعاملات الجارية مثل العقود الذكية تلقائيًا</string>
+  <string name="wisdom_freeze_step1_question">لماذا تريد تجميد حسابك؟</string>
+  <string name="wisdom_freeze_step1_answer1">الحساب غير آمن؛ أريد تجميده مؤقتًا</string>
+  <string name="wisdom_freeze_step1_answer2">لم أعد أرغب في استخدام هذا الحساب</string>
+  <string name="wisdom_freeze_step1_answer3">أنا أستخدم حسابًا على منصة أخرى</string>
+  <string name="wisdom_freeze_step1_answer4">أسباب أخرى</string>
+  <string name="wisdom_freeze_step1_answer4_placeholder">تعليمات محددة</string>
+  <string name="wisdom_freeze_step1_radio_group">اختر طريقة التحقق</string>
+  <string name="wisdom_freeze_step1_radio1">التحقق من الهاتف</string>
+  <string name="wisdom_freeze_step1_radio2">التحقق بواسطة البريد الإلكتروني</string>
+  <string name="wisdom_freeze_step1_agreement">أنا أفهم عواقب تجميد الحساب وأوافق على أن الأموال لن تكون متاحة بعد التجميد</string>
+  <string name="wisdom_freeze_step1_go_on">متابعة</string>
+  <string name="wisdom_freeze_step2_title">لقد أرسلنا رمز التحقق إلى بريدك الإلكتروني</string>
+  <string name="wisdom_freeze_step2_desc">أدخل رمز التحقق الذي أرسلناه إلى %1$s لتجميد الحساب. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_freeze_step2_email_error">رمز غير صحيح. حاول مرة أخرى.</string>
+  <string name="wisdom_freeze_step2_email_count_down">إعادة الإرسال بعد %1$s</string>
+  <string name="wisdom_freeze_step2_email_resend">إعادة الحصول</string>
+  <string name="wisdom_freeze_step2_next_step">الخطوة التالية</string>
+  <string name="wisdom_freeze_step3_title">لقد أرسلنا رمز التحقق إلى هاتفك المحمول</string>
+  <string name="wisdom_freeze_step3_desc">أدخل رمز التحقق الذي أرسلناه إلى %1$s لتجميد الحساب. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_freeze_step3_phone_error">رمز غير صحيح. حاول مرة أخرى.</string>
+  <string name="wisdom_freeze_step3_phone_count_down">إعادة الإرسال بعد %1$s</string>
+  <string name="wisdom_freeze_step3_phone_resend">إعادة الحصول</string>
+  <string name="wisdom_freeze_step3_submit">إرسال</string>
+  <string name="wisdom_freeze_step5_title">تم التجميد بنجاح</string>
+  <string name="wisdom_freeze_step5_desc">تم تعطيل جميع وظائف التداول. يرجى تسجيل الدخول مرة أخرى لفك التجميد.</string>
+  <string name="wisdom_freeze_step5_back_login">العودة إلى تسجيل الدخول</string>
+  <string name="wisdom_unfreeze_title">فك التجميد</string>
+  <string name="wisdom_unfreeze_step5_title">تم تقديم طلب فك التجميد بنجاح</string>
+  <string name="wisdom_unfreeze_step5_desc">لقد تم تقديم طلبك بنجاح. سيقوم فريق خدمة العملاء بالتواصل معك في غضون 24 ساعة. يرجى إبقاء هاتفك متاحًا للاتصال.</string>
+  <string name="wisdom_unfreeze_step5_back_login">العودة إلى الصفحة الرئيسية</string>
+  <string name="wisdom_unfreeze_step5_device_verify_success">تم التحقق من الجهاز بنجاح</string>
+  <string name="wisdom_unfreeze_step5_unfreezed_success">تم فك تجميد الحساب بنجاح</string>
+  <string name="wisdom_unfreeze_step5_restore_success">تمت استعادة جميع المعاملات والوظائف</string>
+  <string name="hl_freeze_estimate_total_amount">المبلغ الإجمالي المقدر</string>
+  <string name="hl_freeze_alert_desc">محفظتك مجمدة حاليًا. هل ترغب في فك تجميدها؟</string>
+  <string name="hl_freeze_alert_unfreeze">فك تجميد المحفظة</string>
+  <string name="hl_freeze_alert_continue">تركها مجمدة</string>
+  <string name="hl_freeze_alert_verify">يرجى اختيار طريقة استلام رمز التحقق.</string>
+  <string name="hl_freeze_alert_phone">عبر الرسائل القصيرة</string>
+  <string name="hl_freeze_alert_email">عبر البريد الإلكتروني</string>
+</resources>

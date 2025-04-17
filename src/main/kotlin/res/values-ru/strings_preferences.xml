@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">Найстройки</string>
+  <string name="wisdom_settings_language">Язык</string>
+  <string name="wisdom_settings_language_desc">После настройки все уведомления по электронной почте, СМС, в приложении и на всех устройства, на которых вы вошли в систему, будут на настроенном вами языке</string>
+  <string name="wisdom_settings_coin">Валюта</string>
+  <string name="wisdom_settings_coin_desc">После настройки главная страница будет отображать расчёты фондов аккаунта в выбранной валюте</string>
+  <string name="wisdom_settings_system_default">Системные настройки по умолчанию</string>
+  <string name="wisdom_settings_theme_mode">Режим отображения</string>
+  <string name="wisdom_settings_theme_mode_desc">После настройки отображение будет изменено в соответствии с вашими настройками</string>
+  <string name="wisdom_settings_theme_follow_system">Режим следования</string>
+  <string name="wisdom_settings_theme_follow_system_desc">Отображения будет переключаться между дневным и ночным режимами, следуя системным настройкам</string>
+  <string name="wisdom_settings_theme_light_mode">Дневной режим</string>
+  <string name="wisdom_settings_theme_dark_mode">Ночной режим</string>
+  <string name="wisdom_settings_theme_mode_select">Выбор режима отображения</string>
+  <string name="wisdom_settings_save">Сохранение настроек</string>
+</resources>

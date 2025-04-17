@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_email_change_step1_title">邮箱验证</string>
+  <string name="wisdom_email_change_step1_card_title">通过接收验证码换绑您的电子邮箱</string>
+  <string name="wisdom_email_change_step1_card_desc">如果您想更换您的电子邮箱可以通过手机号和电子邮箱验证码进行自动变更。</string>
+  <string name="wisdom_email_change_step1_a1">使用注册手机号和邮箱接收验证码换绑新邮箱</string>
+  <string name="wisdom_email_change_step1_a2">向邮箱和手机发送验证码</string>
+  <string name="wisdom_email_change_step1_b1">原邮箱或手机号码无法接收验证码，请求客服更改电子邮箱</string>
+  <string name="wisdom_email_change_step1_b2">发起人工客服流程</string>
+  <string name="wisdom_email_change_step4_title">新邮箱验证</string>
+  <string name="wisdom_email_change_step4_card_title">最后一步验证您的新电子邮箱</string>
+  <string name="wisdom_email_change_step4_card_desc">输入正确的新电子邮箱并接收验证码。</string>
+  <string name="wisdom_email_change_step4_old_email">您当前的电子邮箱是：</string>
+  <string name="wisdom_email_change_step4_email_label">新电子邮箱</string>
+  <string name="wisdom_email_change_step4_email_placeholder">请输入新电子邮箱</string>
+  <string name="wisdom_email_change_step4_send_verify_code">发送验证码</string>
+  <string name="wisdom_email_change_step6_title">新电子邮箱绑定成功</string>
+  <string name="wisdom_email_change_step6_back_home">返回主页</string>
+  <string name="wisdom_email_change_a">邮箱验证</string>
+  <string name="wisdom_email_change_b">更改您的电子邮箱</string>
+  <string name="wisdom_email_change_c">在更新您的电子邮箱之前，需要满足一些条件。</string>
+  <string name="wisdom_email_change_d">拿着护照或身份证拍一张自拍照。</string>
+  <string name="wisdom_email_change_e">输入并确认您的新电子邮箱地址。</string>
+  <string name="wisdom_email_change_f">我们将验证您的信息并更新您的电子邮箱。</string>
+  <string name="wisdom_email_change_g">这通常需要10分钟，但最长可能需要3天。</string>
+  <string name="wisdom_email_change_h">继续</string>
+  <string name="wisdom_email_change_i">上传并查看您的自拍照</string>
+  <string name="wisdom_email_change_j">我们仅接受护照、身份证或驾驶证照来验证您的身份。</string>
+  <string name="wisdom_email_change_k">您的自拍照必须显示：</string>
+  <string name="wisdom_email_change_l1">您的全脸和身份证件</string>
+  <string name="wisdom_email_change_l2">您身份证件上的名字和姓氏</string>
+  <string name="wisdom_email_change_l3">清晰的身份证件照片</string>
+  <string name="wisdom_email_change_m">自拍照示例：</string>
+  <string name="wisdom_email_change_n">自拍照校验未通过，请重新上传</string>
+  <string name="wisdom_email_change_o">邮箱验证申请提交成功</string>
+  <string name="wisdom_email_change_p">我们将验证您的信息并更新您的电子邮箱，更改结果将以系统消息或短信的方式通知您。</string>
+  <string name="wisdom_email_change_q">这通常需要10分钟，但最长可能需要3天。</string>
+  <string name="wisdom_email_change_r">上传照片</string>
+</resources>

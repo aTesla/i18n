@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_phone_change_step1_title">Handynummer verifizieren</string>
+  <string name="wisdom_phone_change_step1_card_title">Handynummer ändern durch Empfang eines Verifizierungscodes</string>
+  <string name="wisdom_phone_change_step1_card_desc">Falls Sie Ihre verifizierte Handynummer ändern möchten, können Sie dies automatisch durch den Verifizierungscode per E-Mail und SMS vornehmen.</string>
+  <string name="wisdom_phone_change_step1_a1">Mit der registrierten E-Mail-Adresse und Telefonnummer einen Verifizierungscode empfangen, um die Handynummer zu ändern.</string>
+  <string name="wisdom_phone_change_step1_a2">Verifizierungscode senden</string>
+  <string name="wisdom_phone_change_step1_b1">Die ursprüngliche E-Mail-Adresse oder Telefonnummer kann keine Verifizierungscodes empfangen. Wenden Sie sich an den Kundenservice, um die Handynummer zu ändern.</string>
+  <string name="wisdom_phone_change_step1_b2">Kundenservice mit menschlicher Unterstützung</string>
+  <string name="wisdom_phone_change_step4_title">Neue Handynummer verifizieren</string>
+  <string name="wisdom_phone_change_step4_card_title">Letzter Schritt: Ihre neue Handynummer verifizieren</string>
+  <string name="wisdom_phone_change_step4_card_desc">Neue Handynummer korrekt eingeben, um Verifizierungscode zu empfangen</string>
+  <string name="wisdom_phone_change_step4_old_email">Ihre aktuelle Handynummer:</string>
+  <string name="wisdom_phone_change_step4_email_label">Neue Handynummer</string>
+  <string name="wisdom_phone_change_step4_email_placeholder">Neue Handynummer eingeben</string>
+  <string name="wisdom_phone_change_step4_email_supporting_text">Ungültige Handynummer. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_phone_change_step4_send_verify_code">Verifizierungscode senden</string>
+  <string name="wisdom_phone_change_step6_title">Neue Handynummer erfolgreich verifiziert</string>
+  <string name="wisdom_phone_change_step6_back_home">Zurück zur Startseite</string>
+  <string name="wisdom_phone_change_a">Handynummer verifizieren</string>
+  <string name="wisdom_phone_change_b">Ihre Handynummer ändern</string>
+  <string name="wisdom_phone_change_c">Einige Bedingungen müssen vor der Aktualisierung Ihrer Handynummer erfüllt werden.</string>
+  <string name="wisdom_phone_change_d">Machen Sie ein Selfie mit Ihrem Reisepass oder Personalausweis.</string>
+  <string name="wisdom_phone_change_e">Empfangen Sie den Verifizierungscode mit Ihrer neuen Handynummer.</string>
+  <string name="wisdom_phone_change_f">Wir werden Ihre Informationen überprüfen und Ihre Handynummer aktualisieren.</string>
+  <string name="wisdom_phone_change_g">Dies dauert normalerweise 10 Minuten, kann aber bis zu 3 Tage in Anspruch nehmen.</string>
+  <string name="wisdom_phone_change_h">Weiter</string>
+  <string name="wisdom_phone_change_i">Ihr Selfie hochladen und prüfen</string>
+  <string name="wisdom_phone_change_j">Nur Reisepass, Personalausweis oder Führerschein wird zur Identitätsverifizierung akzeptiert.</string>
+  <string name="wisdom_phone_change_k">Ihr Selfie muss Folgendes zeigen:</string>
+  <string name="wisdom_phone_change_l1">Ihr gesamtes Gesicht und Ihr Personalausweis</string>
+  <string name="wisdom_phone_change_l2">Ihren Vor- und Nachnamen auf dem Personalausweis</string>
+  <string name="wisdom_phone_change_l3">Ein klares Foto des Personalausweises</string>
+  <string name="wisdom_phone_change_m">Selfie-Beispiel:</string>
+  <string name="wisdom_phone_change_n">Selfie-Verifizierung fehlgeschlagen, bitte laden Sie es erneut hoch.</string>
+  <string name="wisdom_phone_change_o">Handynummer-Verifizierungsantrag erfolgreich eingereich</string>
+  <string name="wisdom_phone_change_p">Wir werden Ihre Informationen überprüfen und Ihre Handynummer aktualisieren. Die Änderungsergebnisse werden Ihnen per Systemnachricht oder SMS mitgeteilt.</string>
+  <string name="wisdom_phone_change_q">Dies dauert normalerweise 10 Minuten, kann aber bis zu 3 Tage in Anspruch nehmen.</string>
+</resources>

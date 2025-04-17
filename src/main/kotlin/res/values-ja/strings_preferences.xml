@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">プリファレンス設定</string>
+  <string name="wisdom_settings_language">言語</string>
+  <string name="wisdom_settings_language_desc">設定後、Eメール、メール、アプリのプッシュ通知、ログインしたすべてのデバイスは、最新の言語設定を使用します</string>
+  <string name="wisdom_settings_coin">通貨</string>
+  <string name="wisdom_settings_coin_desc">設定後のホームページでは、選択した通貨に基づいて口座資金が計算されます</string>
+  <string name="wisdom_settings_system_default">システムのデフォルト設定</string>
+  <string name="wisdom_settings_theme_mode">外観モード</string>
+  <string name="wisdom_settings_theme_mode_desc">設定後、外観モードは設定したモードに応じて変更されます</string>
+  <string name="wisdom_settings_theme_follow_system">システムに従う</string>
+  <string name="wisdom_settings_theme_follow_system_desc">外観モードはシステムに従い、昼モードまたは夜モードに設定する</string>
+  <string name="wisdom_settings_theme_light_mode">昼モード</string>
+  <string name="wisdom_settings_theme_dark_mode">夜モード</string>
+  <string name="wisdom_settings_theme_mode_select">外観モードの選択</string>
+  <string name="wisdom_settings_save">設定を保存</string>
+</resources>

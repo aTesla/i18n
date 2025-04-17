@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_info_title">詳細</string>
+  <string name="wisdom_user_info_name">名前</string>
+  <string name="wisdom_user_info_email">メールアドレス</string>
+  <string name="wisdom_user_info_uid">WID</string>
+  <string name="wisdom_user_info_birthday">生年月日</string>
+  <string name="wisdom_user_info_country">所在国・地域</string>
+  <string name="wisdom_user_info_address">詳細アドレス</string>
+  <string name="wisdom_user_info_phone">電話番号</string>
+  <string name="wisdom_user_info_identified">ID認証</string>
+  <string name="wisdom_user_info_post_code">郵便番号</string>
+  <string name="wisdom_user_info_default_value">--</string>
+  <string name="wisdom_user_info_btn">個人情報の認証</string>
+  <string name="wisdom_user_info_identified_fail_reason">Face IDで認証してください</string>
+  <string name="wisdom_user_info_identified_fail">ID認証に失敗しました</string>
+  <string name="wisdom_user_info_identified_passcode_desc">パスワードで認証してください</string>
+  <string name="wisdom_user_info_identified_no_passowrd">携帯電話のパスワードがありません。設定してください</string>
+</resources>

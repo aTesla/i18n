@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">Preferences</string>
+  <string name="wisdom_settings_language">Language</string>
+  <string name="wisdom_settings_language_desc">After setting, emails, text messages, app push notifications, and all devices you log in to will use your latest language settings</string>
+  <string name="wisdom_settings_coin">Currency</string>
+  <string name="wisdom_settings_coin_desc">After setting, the homepage will calculate account funds according to the currency you selected.、</string>
+  <string name="wisdom_settings_system_default">System default settings</string>
+  <string name="wisdom_settings_theme_mode">Theme Mode</string>
+  <string name="wisdom_settings_theme_mode_desc">After setting, the theme will change according to the mode you set.</string>
+  <string name="wisdom_settings_theme_follow_system">Follow system</string>
+  <string name="wisdom_settings_theme_follow_system_desc">The theme will follow the system to set to light mode or night mode</string>
+  <string name="wisdom_settings_theme_light_mode">Light Mode</string>
+  <string name="wisdom_settings_theme_dark_mode">Dark Mode</string>
+  <string name="wisdom_settings_theme_mode_select">Select theme mode</string>
+  <string name="wisdom_settings_save">Save Settings</string>
+</resources>

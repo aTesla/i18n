@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_coin">Cripto</string>
+  <string name="wisdom_bank">Banco</string>
+  <string name="wisdom_all">Todo</string>
+  <string name="wisdom_home_balance">Saldo de billetera</string>
+  <string name="hl_home_please_login">Por favor, inicie sesión</string>
+  <string name="hl_home_quick_exchange">Pago express</string>
+  <string name="hl_home_buy_and_sell">Comprar/Vender</string>
+  <string name="hl_home_news">Noticias</string>
+  <string name="hl_home_support">Soporte tecnológico Uniswap</string>
+  <string name="hl_home_own">Own</string>
+  <string name="hl_guarantee_title">Garantía</string>
+</resources>

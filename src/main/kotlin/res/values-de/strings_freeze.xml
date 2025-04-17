@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_freeze_step1_title">Konto einfrieren</string>
+  <string name="wisdom_freeze_step1_card_title">Bitte frieren Sie Ihr Konto mit Vorsicht ein.</string>
+  <string name="wisdom_freeze_step1_card_desc">Nach dem Einfrieren Ihres Kontos werden alle Transaktionsfunktionen deaktiviert. Zum Entsperren melden Sie sich bitte erneut an.</string>
+  <string name="wisdom_freeze_step1_card_sub_title">Nach dem Einfrieren Ihres Kontos:</string>
+  <string name="wisdom_freeze_step1_card_sub_desc1">Alle Transaktionsfunktionen dieses Kontos werden deaktiviert.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc2">Alle App-Funktionen dieses Kontos werden deaktiviert.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc3">Alle autorisierten Geräte dieses Kontos werden entfernt.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc4">Alle ausstehenden Auszahlungen dieses Kontos werden storniert.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc5">Laufende Transaktionen wie Smart-Contracts werden nicht automatisch storniert.</string>
+  <string name="wisdom_freeze_step1_question">Warum möchten Sie Ihr Konto einfrieren?</string>
+  <string name="wisdom_freeze_step1_answer1">Dieses Konto ist unsicher. Ich möchte es vorübergehend einfrieren.</string>
+  <string name="wisdom_freeze_step1_answer2">Ich möchte dieses Konto nicht merh nutzen.</string>
+  <string name="wisdom_freeze_step1_answer3">Ich benutze bereits ein Konto auf einer anderen Plattform.</string>
+  <string name="wisdom_freeze_step1_answer4">Andere Gründe</string>
+  <string name="wisdom_freeze_step1_answer4_placeholder">Bitte erläutern</string>
+  <string name="wisdom_freeze_step1_radio_group">Bitte wählen Sie die Methode zur Empfang des Verifizierungscodes.</string>
+  <string name="wisdom_freeze_step1_radio1">Per SMS</string>
+  <string name="wisdom_freeze_step1_radio2">Per E-Mail</string>
+  <string name="wisdom_freeze_step1_agreement">Ich habe die Konsequenzen des Einfrierens des Kontos verstanden und stimme zu, dass das Guthaben auf diesem Konto nach dem Einfrieren nicht mehr abgerufen werden kann.</string>
+  <string name="wisdom_freeze_step1_go_on">Weiter</string>
+  <string name="wisdom_freeze_step2_title">Wir haben gerade einen Verifizierungscode an Ihre E-Mail-Adresse gesendet.</string>
+  <string name="wisdom_freeze_step2_desc">Um Ihr Konto einzufrieren, geben Sie bitte den an %1$s gesendeten Code ein. Der Code ist 10 Minuten gültig.</string>
+  <string name="wisdom_freeze_step2_email_error">Falscher Verifizierungscode. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_freeze_step2_email_count_down">Nach %1$s erneut senden</string>
+  <string name="wisdom_freeze_step2_email_resend">Code erneut anfordern</string>
+  <string name="wisdom_freeze_step2_next_step">Weiter</string>
+  <string name="wisdom_freeze_step3_title">Wir haben gerade einen Verifizierungscode an Ihre Handynummer gesendet.</string>
+  <string name="wisdom_freeze_step3_desc">Um Ihr Konto einzufrieren, geben Sie bitte den an %1$s gesendeten Code ein. Der Code ist 10 Minuten gültig.</string>
+  <string name="wisdom_freeze_step3_phone_error">Falscher Verifizierungscode. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_freeze_step3_phone_count_down">Nach %1$s erneut senden</string>
+  <string name="wisdom_freeze_step3_phone_resend">Code erneut anfordern</string>
+  <string name="wisdom_freeze_step3_submit">Absenden</string>
+  <string name="wisdom_freeze_step5_title">Konto erfolgreich eingefroren</string>
+  <string name="wisdom_freeze_step5_desc">Alle Ihre Transaktionsfunktionen wurden deaktiviert. Zum Entsperren melden Sie sich bitte erneut an.</string>
+  <string name="wisdom_freeze_step5_back_login">Zurück zum Anmelden</string>
+  <string name="wisdom_unfreeze_title">Entsperren</string>
+  <string name="wisdom_unfreeze_step5_title">Entsperrantrag erfolgreich eingereicht</string>
+  <string name="wisdom_unfreeze_step5_desc">Ihr Entsperrantrag wurde erfolgreich eingereicht. Unser Kundenservice wird Sie innerhalb von 24 Stunden kontaktieren. Bitte halten Sie Ihr Telefon erreichbar und achten Sie auf unseren Rückruf.</string>
+  <string name="wisdom_unfreeze_step5_back_login">Zurück zur Startseite</string>
+  <string name="wisdom_unfreeze_step5_device_verify_success">Geräteverifizierung erfolgreich</string>
+  <string name="wisdom_unfreeze_step5_unfreezed_success">Wallet erfolgreich entsperrt</string>
+  <string name="wisdom_unfreeze_step5_restore_success">Alle Ihre Transaktionen und Funktionen stehen wieder zur Verfügung.</string>
+  <string name="hl_freeze_estimate_total_amount">Geschätzer Gesamtbetrag</string>
+  <string name="hl_freeze_alert_desc">Ihr Wallet ist derzeit eingefroren. Möchten Sie es entsperren?</string>
+  <string name="hl_freeze_alert_unfreeze">Wallet entsperren</string>
+  <string name="hl_freeze_alert_continue">Weiterhin eingefroren lassen</string>
+  <string name="hl_freeze_alert_verify">Bitte wählen Sie die Methode zur Empfang des Verifizierungscodes.</string>
+  <string name="hl_freeze_alert_phone">Per SMS</string>
+  <string name="hl_freeze_alert_email">Per E-Mail</string>
+</resources>

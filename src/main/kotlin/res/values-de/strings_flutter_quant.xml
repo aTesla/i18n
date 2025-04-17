@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_quant_fund">Quant-Fonds</string>
+  <string name="wisdom_selected_products">Ausgewählte</string>
+  <string name="wisdom_arb_strategy">Neutrale Arb-Strategie</string>
+  <string name="wisdom_progres_stable">Forschreitende Stabilität</string>
+  <string name="wisdom_stable_low_vol">Stabile niedrige Vol</string>
+  <string name="wisdom_30days_apr">Geschätzte 30-Tage-Jahresrendite</string>
+  <string name="wisdom_year_apr">Jahresrendite seit Jahresbegin</string>
+  <string name="wisdom_lock_day">Kapitalbindungsdauer</string>
+  <string name="wisdom_flex">Flexible Rücknahme</string>
+  <string name="wisdom_choose_quant_reason">Warum Wisdomuae-Quant-Fonds?</string>
+  <string name="wisdom_quant_reason_1">100% Reservenachweis</string>
+  <string name="wisdom_quant_reason_1_desc">100% unserer Reserven werden durch den Merkle-Baum geprüft. Sie können überprüfen, ob Ihre Investitionsmittel tatsächlich im Merkle-Baum vorhanden sind.</string>
+  <string name="wisdom_quant_reason_2">Flexible Rücknahme, keine Kapitalbindung</string>
+  <string name="wisdom_quant_reason_2_desc">Quant-Fonds durchbricht die traditionellen Fondsregeln. Ohne Kapitalbindung können Sie jederzeit Anteile zeichnen oder zurücknehmen.</string>
+  <string name="wisdom_quant_reason_3">Reifes Risikomanagement-System</string>
+  <string name="wisdom_quant_reason_3_desc">Echtzeitverfolgung des Nettovermögenswertes für hohe Transparenz. Die Strategien werden ausschließlich auf unserer Plattform umgesetzt, und wir überwachen Idikatioren wie Exponierung und Rückschläge, um eine vollständig neutrale Hedge-Strategie zu gewährleisten.</string>
+  <string name="wisdom_goal_user">Zielgruppe</string>
+  <string name="wisdom_goal_user_1">Risikobewusste Anleger</string>
+  <string name="wisdom_goal_user_2">Vermögende Kunden</string>
+  <string name="wisdom_goal_user_3">Investoren</string>
+  <string name="wisdom_largest_retrace">Historischer maximaler Rückschlag</string>
+  <string name="wisdom_operration_days">Betriebstage</string>
+  <string name="wisdom_operration_days_desc">%s Tage</string>
+  <string name="wisdom_day_retrace">unter %s täglich</string>
+  <string name="wisdom_performance_trends">Leistungstrend</string>
+  <string name="wisdom_purchase_method">Bitte kontaktieren Sie Ihren persönlichen Fondsmanager für Investitionsbeträge und -methoden.</string>
+  <string name="wisdom_contact_fouder">Kontaktieren Sie Ihren persönlichen Fondsmanager</string>
+  <string name="wisdom_trading_rules">Handelsregeln</string>
+  <string name="wisdom_trading_rules_desc">•Der Quantitätsfonds ist ein Finanzprodukt, das durch neutrale Arbitragestrategien fortschrittliche Renditen erzielt. •Zinsregel: Die Verzinsung beginnt mit erfolgreicher Zeichnung. •Zeichnungsregel: Gewinne und Verluste können nach der Zeichnung in Echtzeit eingesehen werden. •Rücknahmeregel: Auszahlung erfolgt sofort nach Rücknahme. •Der Quant-Fonds ermöglicht jederzeitige Zeichnungen und Rücknahmen, ohne Sperrfrist. •Verwaltungsgebühr: Zeitlich begrenzt kostenlos. •Bei Rücknahme innerhalb von 48 Stunden können Gewinne nicht abgerechnet werden. Verluste werden gemäß dem tatsächlichen Nettovermögenswert ausgeglichen. •Bei Rücknahme nach mehr als 48 Stunden wird eine Plattformverwaltungsgebühr von 30 % auf den Gewinn erhoben. Verluste werden gemäß dem tatsächlichen Nettovermögenswert ausgeglichen.</string>
+  <string name="wisdom_strategy_introduction">Strategieübersicht</string>
+  <string name="wisdom_spot_advantages">Vorteile der Spot-Futures-Arbitrage</string>
+  <string name="wisdom_spot_advantages_desc">•Unabhängig von Preissteigerungen oder -senkungen heben sich Spot- und Futures-Positionen gegenseitig auf, wodurch Verluste vermieden werden. •Die Rendite der Spot-Futures-Arbitrage stammt aus Funding-Gebühren, während die Kosten lediglich die Eröffnungs- und Abschlussgebühren umfassen, was geringe Rückschläge bedeutet. •In einem Bullenmarkt steigen die Funding-Gebühren häufig erheblich, was das Risiko von Long-Positionen erhöht. Mit Spot-Futures-Arbitrage können jedoch die Funding-Gebühren als Rendite genutzt werden.</string>
+  <string name="wisdom_contact_funder_method">Ihren persönlichen Fondsmanager kontaktieren via:</string>
+  <string name="wisdom_call_phone">Anrufen</string>
+  <string name="wisdom_copy_email">E-Mail kopieren</string>
+  <string name="wisdom_copy_suc_dup">In Zwischenablage kopiert</string>
+  <string name="wisdom_year_rate">Jahresrendite</string>
+  <string name="wisdom_net_worth">NIW</string>
+</resources>

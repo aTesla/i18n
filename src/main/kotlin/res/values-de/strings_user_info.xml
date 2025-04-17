@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_info_title">Details</string>
+  <string name="wisdom_user_info_name">Name</string>
+  <string name="wisdom_user_info_email">E-Mail</string>
+  <string name="wisdom_user_info_uid">WID</string>
+  <string name="wisdom_user_info_birthday">Geburtsdatum</string>
+  <string name="wisdom_user_info_country">Land/Region</string>
+  <string name="wisdom_user_info_address">Adresse</string>
+  <string name="wisdom_user_info_phone">Handynummer</string>
+  <string name="wisdom_user_info_identified">Identitätsverifizierung</string>
+  <string name="wisdom_user_info_post_code">PLZ</string>
+  <string name="wisdom_user_info_default_value">--</string>
+  <string name="wisdom_user_info_btn">Persönliche Daten verifizieren</string>
+  <string name="wisdom_user_info_identified_fail_reason">Verifizieren mit Face-ID</string>
+  <string name="wisdom_user_info_identified_fail">Identitätsverifizierung fehlgeschlagen</string>
+  <string name="wisdom_user_info_identified_passcode_desc">Verifizieren mit Kennwort</string>
+  <string name="wisdom_user_info_identified_no_passowrd">Kein Handy-Kennwort vorhanden. Bitte einrichten.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_coin">加密账户</string>
+  <string name="wisdom_bank">银行账户</string>
+  <string name="wisdom_all">全部</string>
+  <string name="wisdom_home_balance">钱包余额</string>
+  <string name="hl_home_please_login">请登陆</string>
+  <string name="hl_home_quick_exchange">快捷交易</string>
+  <string name="hl_home_buy_and_sell">买/卖</string>
+  <string name="hl_home_news">资讯</string>
+  <string name="hl_home_support">Uniswap技术支持</string>
+  <string name="hl_home_own"></string>
+  <string name="hl_guarantee_title">担保</string>
+</resources>

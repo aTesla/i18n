@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_nav_home">Accueil</string>
+  <string name="wisdom_nav_account">Compte</string>
+  <string name="wisdom_nav_wallet">Portefeuille</string>
+  <string name="wisdom_nav_contacts">Bénéficiaire</string>
+  <string name="wisdom_nav_qrcode">Paiement</string>
+  <string name="wisdom_nav_qrcode_title">Paiement</string>
+  <string name="hl_nav_bank">Banque</string>
+  <string name="hl_nav_exchange">Transaction</string>
+  <string name="hl_nav_market">Marché</string>
+  <string name="hl_nav_explore">Recherche</string>
+</resources>

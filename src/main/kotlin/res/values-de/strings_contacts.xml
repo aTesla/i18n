@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_contacts_delete">Löschen</string>
+  <string name="wisdom_contacts_delete_suc">Erfolgreich gelöscht</string>
+  <string name="wisdom_contacts_delete_info">Sind Sie sicher, dass Sie löschen möchten?</string>
+  <string name="wisdom_contacts_delete_notice">Hinweis</string>
+  <string name="wisdom_contacts_revise">Ändern</string>
+  <string name="wisdom_contacts_revise_suc">Erfolgreich geändert</string>
+  <string name="wisdom_contacts_save">Speichern</string>
+  <string name="wisdom_contacts_add_suc">Erfolgreich hinzugefügt</string>
+  <string name="wisdom_contacts_select_label">Label auswählen</string>
+  <string name="wisdom_contacts_email_error">Ungültige E-Mail-Adresse</string>
+  <string name="wisdom_contacts_title">Empfänger</string>
+  <string name="wisdom_contacts_tab0">Fiat-Währung</string>
+  <string name="wisdom_contacts_tab1">Kryptowährung</string>
+  <string name="wisdom_contacts_action_add">Hinzufügen</string>
+  <string name="wisdom_contacts_search_placeholder">Suche nach Name, Handynummer, E-Mail, ID</string>
+  <string name="wisdom_contacts_empty_str1">Empfänger hinzufügen</string>
+  <string name="wisdom_contacts_empty_str2">Sicherere und bequemere Nutzung verschiedener Finanzdiensten</string>
+  <string name="wisdom_contacts_empty_str3">Empfänger hinzufügen</string>
+  <string name="wisdom_contacts_fiat_name_label">Empfängername (Vollständiger Name)</string>
+  <string name="wisdom_contacts_fiat_name_placeholder">Empfängername eingeben</string>
+  <string name="wisdom_contacts_fiat_bank_num_label">IBAN</string>
+  <string name="wisdom_contacts_fiat_bank_num_placeholder">IBAN-Nummer eingeben</string>
+  <string name="wisdom_contacts_fiat_email_label">E-Mail-Adresse</string>
+  <string name="wisdom_contacts_fiat_email_placeholder">E-Mail-Adresse des Empfängers eingeben</string>
+  <string name="wisdom_contacts_fiat_phone_label">Handynummer</string>
+  <string name="wisdom_contacts_fiat_phone_placeholder">Handynummer des Empfängers eingeben</string>
+  <string name="wisdom_contacts_fiat_uid_label">Wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_uid_placeholder">Wisdomuae ID eingeben</string>
+  <string name="wisdom_contacts_fiat_country_label">Land</string>
+  <string name="wisdom_contacts_fiat_country_placeholder">Land auswählen</string>
+  <string name="wisdom_contacts_fiat_coin_label">Währungstyp</string>
+  <string name="wisdom_contacts_fiat_coin_placeholder">Währungstyp auswählen</string>
+  <string name="wisdom_contacts_fiat_bank_label">Bank</string>
+  <string name="wisdom_contacts_fiat_bank_placeholder">Bank auswählen</string>
+  <string name="wisdom_contacts_fiat_phone_region_label">Label</string>
+  <string name="wisdom_contacts_fiat_phone_region_placeholder">Label auswählen</string>
+  <string name="wisdom_contacts_fiat_tag_label">Label</string>
+  <string name="wisdom_contacts_fiat_tag_placeholder">Label auswählen</string>
+  <string name="wisdom_contacts_net_label">Netzwerk</string>
+  <string name="wisdom_contacts_net_placeholder">Netzwerk auswählen</string>
+  <string name="wisdom_contacts_chain_label">Empfangsadresse</string>
+  <string name="wisdom_contacts_chain_placeholder">Empfangsadresse eingeben</string>
+  <string name="wisdom_contacts_select_payer">Empfänger wählen</string>
+  <string name="wisdom_contacts_select_top_tip">Bitte die On-Chain-Adresse und das Netzwerk wählen, auf das Sie einzahlen möchten.</string>
+  <string name="wisdom_contacts_select_top_des">Bitte überprüfen, ob die On-Chain-Adresse korrekt ist. Einmal eingezahlt, kann die Transaktion nicht rückgängig gemacht werden.</string>
+</resources>

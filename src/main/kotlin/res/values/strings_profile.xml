@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_profile_userinfo">Details</string>
+  <string name="wisdom_profile_security">Security center</string>
+  <string name="wisdom_profile_preferences">Preferences</string>
+  <string name="wisdom_profile_help">Help Center</string>
+  <string name="wisdom_profile_privacy">Our agreement</string>
+  <string name="wisdom_profile_logout">Sign out</string>
+  <string name="wisdom_profile_dialog_title">Are you sure you want to log out?</string>
+  <string name="wisdom_profile_dialog_cancel">Cancel</string>
+  <string name="wisdom_profile_dialog_confirm">Confirm</string>
+  <string name="wisdom_profile_media_album">Photo album</string>
+  <string name="wisdom_profile_media_take_picture">Take picture</string>
+  <string name="wisdom_profile_rewards">Referral Rewards</string>
+  <string name="wisdom_profile_title">Personal Center</string>
+  <string name="wisdom_profile_account_delete">After the account is deleted, it cannot be restored. Are you sure you want to delete the account?</string>
+  <string name="wisdom_profile_upload_suc">Upload image successfully</string>
+  <string name="wisdom_profile_account_deletion">Account deletion</string>
+  <string name="wisdom_export_privatekey">Export Private Key</string>
+  <string name="wisdom_dont_disclose_privatekey">"Don't disclose this private key"</string>
+  <string name="wisdom_show_privatekey">Show Private Key</string>
+  <string name="wisdom_privatekey_warning">Warning: Do not disclose this private key. Anyone who has your private key can steal assets held in your account.</string>
+  <string name="wisdom_show_privatekey_need_verify">Showing the private key requires identity verification</string>
+  <string name="widom_your_privatekey">Private key in your Wisdomuae wallet</string>
+  <string name="widom_solana_privatekey">Solana chain private key</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_error_unauthorized">Nicht autorisiert</string>
+  <string name="wisdom_error_email_registed">E-Mail-Adresse bereits registiert</string>
+  <string name="wisdom_error_phone_registed">Handynummer bereits registiert</string>
+  <string name="wisdom_error_code_error">Falscher Verifizierungscode. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_error_code_expired">Handynummer bereits registiert</string>
+  <string name="wisdom_error_code_auth">Verifizierungscode abgelaufen. Bitte Code erneut senden.</string>
+  <string name="wisdom_error_token_expired">Token abgelaufen</string>
+  <string name="wisdom_error_phone_email_not_verify">Verifizierungscode abgelaufen. Bitte Code erneut senden.</string>
+  <string name="wisdom_error_password_too_simple">Das Kennwort ist zu einfach. Bitte setzen Sie ein komplexeres Passwort.</string>
+  <string name="wisdom_error_send_code_frequently">Die Verifizierungscodes wurden zu häufig gesendet!</string>
+  <string name="wisdom_error_email_has_verifyed">E-Mail-Adresse verifiziert</string>
+  <string name="wisdom_error_phone_has_verifyed">Handynummer verifiziert</string>
+  <string name="wisdom_error_email_not_register">Diese E-Mail-Adresse ist noch nicht registriert. Bitte registrieren Sie sich zuerst.</string>
+  <string name="wisdom_error_phone_not_register">Diese Telefonnummer ist noch nicht registriert. Bitte registrieren Sie sich zuerst.</string>
+  <string name="wisdom_error_first_login_need_verify">Gerät muss bei der ersten Anmeldung verifiziert werden.</string>
+  <string name="wisdom_error_first_login_unverify">Keine Verifizierung bei erster Anmeldung erforderlich</string>
+  <string name="wisdom_error_password_error">Falsches Kennwort. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_error_user_not_exist">Benutzer existiert nicht</string>
+  <string name="wisdom_error_inviter_params">Einladung-Parameter fehlerhaft</string>
+  <string name="wisdom_error_inviter_not_exist">Eingeladener existiert nicht.</string>
+  <string name="wisdom_error_inviter_already_exist">Eingeladener existiert bereits.</string>
+  <string name="wisdom_error_inviter_is_self">Der Eingeladene kann nicht Sie selbst sein.</string>
+  <string name="wisdom_error_device_id_empty">Geräte-ID darf nicht leer sein.</string>
+  <string name="wisdom_error_lost_login_info">Anmeldeinformationen fehlen</string>
+  <string name="wisdom_error_invalid_authorization">Ungültige Autorisierung</string>
+  <string name="wisdom_error_invalid_token">Ungültiges Token</string>
+  <string name="wisdom_error_phone_error">Ungültige Handynummer</string>
+  <string name="wisdom_error_email_exists">Diese E-Mail-Adresse ist bereits mit einem anderen Benutzer verifiziert.</string>
+  <string name="wisdom_error_no_data">Keine Daten</string>
+  <string name="wisdom_error_request_fail">Netzwerkanforderung fehlgeschlagen</string>
+  <string name="wisdom_error_reload">Neu laden</string>
+  <string name="wisdom_error_empty">Darf nicht leer sein</string>
+</resources>

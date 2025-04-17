@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_phone_change_step1_title">전화번호 인증</string>
+  <string name="wisdom_phone_change_step1_card_title">인증코드로 연결된 이메일을 바꾸기</string>
+  <string name="wisdom_phone_change_step1_card_desc">전화번호를 변경하려면 이메일과 전화번호 인증 코드로 자동으로 변경 가능합니다</string>
+  <string name="wisdom_phone_change_step1_a1">이메일과 전화번호로 인증코드를 받고 새 전화번호을 변경합니다</string>
+  <string name="wisdom_phone_change_step1_a2">이메일와 핸드폰에 인증코드 발송하기</string>
+  <string name="wisdom_phone_change_step1_b1">원래 사용하신 전화번호가 인증코드 받기 불가합니다. 고객센터에 전화번호 변경 요청하기</string>
+  <string name="wisdom_phone_change_step1_b2">고객센터에게 도움 받기</string>
+  <string name="wisdom_phone_change_step4_title">새 전화번호 인증</string>
+  <string name="wisdom_phone_change_step4_card_title">마지막에 새 전화번호를 인증합니다.</string>
+  <string name="wisdom_phone_change_step4_card_desc">정확한 전화번호를 입력하고 인증코드를 받아주세요.</string>
+  <string name="wisdom_phone_change_step4_old_email">현재 사용하신 전화번호</string>
+  <string name="wisdom_phone_change_step4_email_label">새 전화번호</string>
+  <string name="wisdom_phone_change_step4_email_placeholder">새 전화번호를 입력해 주세요</string>
+  <string name="wisdom_phone_change_step4_email_supporting_text">입력하신 전화번호가 잘못 되었습니다. 다시 입력해 주세요.</string>
+  <string name="wisdom_phone_change_step4_send_verify_code">인증코드 받기</string>
+  <string name="wisdom_phone_change_step6_title">새 전화번호 변경 완료</string>
+  <string name="wisdom_phone_change_step6_back_home">홈으로 돌아가기</string>
+  <string name="wisdom_phone_change_a">핸드폰 인증</string>
+  <string name="wisdom_phone_change_b">전화번호 변경</string>
+  <string name="wisdom_phone_change_c">전화번호 변경하기 전에 아래 사항을 해야 합니다.</string>
+  <string name="wisdom_phone_change_d">여권이나 신분증을 들고 셀카 한장 찍어주세요</string>
+  <string name="wisdom_phone_change_e">새 전화번호로 인증코드 받기</string>
+  <string name="wisdom_phone_change_f">고객님의 정보를 인증하고 전화번호을 변경해 드리겠습니다.</string>
+  <string name="wisdom_phone_change_g">최소 10분 최대 3일정도 소요됩니다</string>
+  <string name="wisdom_phone_change_h">다음</string>
+  <string name="wisdom_phone_change_i">셀카 업로드 및 확인</string>
+  <string name="wisdom_phone_change_j">여권, 신분증, 운전 면허증으로만 본인확인 가능</string>
+  <string name="wisdom_phone_change_k">셀카 요구는 아래와 같이 있습니다</string>
+  <string name="wisdom_phone_change_l1">얼굴 및 신분 인증 서류</string>
+  <string name="wisdom_phone_change_l2">신분 인증 서류에 있는 성과 이름</string>
+  <string name="wisdom_phone_change_l3">뚜렷한 신분 증명 서류 사진</string>
+  <string name="wisdom_phone_change_m">셀카 보기</string>
+  <string name="wisdom_phone_change_n">셀카 인증 실패합니다. 다시 업로드해주세요</string>
+  <string name="wisdom_phone_change_o">번화번호 인증 신청 제출 완료</string>
+  <string name="wisdom_phone_change_p">고객님의 정보를 인증하고 번회번호를 변경해 드리겠습니다. 결과는 알림이나 메시지로 알려드리겠습니다.</string>
+  <string name="wisdom_phone_change_q">최소 10분 최대 3일정도 소요됩니다</string>
+</resources>

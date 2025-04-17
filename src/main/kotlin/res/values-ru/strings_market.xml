@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_market_zx">Избранное</string>
+  <string name="wisdom_market_whb">Рейтинг валют</string>
+  <string name="wisdom_market_hot">Популярные</string>
+  <string name="wisdom_market_gainers">Рейтинг роста</string>
+  <string name="wisdom_market_zlb">Основные валюты</string>
+  <string name="wisdom_market_tname">Название</string>
+  <string name="wisdom_market_tprice">Последняя цена</string>
+  <string name="wisdom_market_trate">Рост и падение за сегодня</string>
+  <string name="wisdom_market_title">Конъюнктура</string>
+  <string name="wisdom_market_zx_btn">Добавка в избранное</string>
+  <string name="hl_market_down">Рейтинг падения</string>
+  <string name="hl_market_flow">Мобильность</string>
+  <string name="hl_market_price">Цена</string>
+  <string name="hl_market_24h_change">Измена за 24 часа</string>
+  <string name="hl_market_select_coin_type">Выбор валюты</string>
+  <string name="hl_market_exchange_amount">Объём торгов</string>
+  <string name="hl_market_see_more">Посмотреть больше</string>
+  <string name="hl_market_rank">Рейтинг</string>
+  <string name="hl_market_search">Поиск</string>
+  <string name="hl_market_history_search">История поиска</string>
+  <string name="hl_market_search_crypto">Поиск криптовалюты</string>
+</resources>

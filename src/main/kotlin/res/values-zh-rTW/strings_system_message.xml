@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_system_message">系統訊息</string>
+  <string name="hl_exchange_records">交易記錄</string>
+  <string name="hl_plateform_notice">平台公告</string>
+  <string name="hl_market_activity">市場動態</string>
+  <string name="hl_notificaiton_exchange">匯款到帳通知</string>
+  <string name="hl_notification_recharge">儲值到帳通知</string>
+  <string name="hl_notification_compony">官方通知</string>
+  <string name="hl_notification_get_money">到帳通知</string>
+  <string name="wisdom_message">訊息</string>
+</resources>

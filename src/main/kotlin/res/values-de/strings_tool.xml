@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">Aktualisieren</string>
+  <string name="wisdom_scan_title">QR-Code scannen</string>
+  <string name="wisdom_scan_tip">Bitte richten Sie den QR-Code und das Quadrat aus, während Sie ihn scannen.</string>
+  <string name="wisdom_scan_upload">Foto hochladen</string>
+  <string name="wisdom_scan_invalid">Ungültiger QR-Code</string>
+  <string name="wisdom_email">E-Mail</string>
+  <string name="hl_scan_tip">Adresse-QR-Code scannen/WalletConnect/URL</string>
+</resources>

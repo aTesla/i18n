@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_profile_userinfo">التفاصيل</string>
+  <string name="wisdom_profile_security">مركز الأمان</string>
+  <string name="wisdom_profile_preferences">التفضيلات</string>
+  <string name="wisdom_profile_help">مركز المساعدة</string>
+  <string name="wisdom_profile_privacy">اتفاقنا</string>
+  <string name="wisdom_profile_logout">تسجيل الخروج</string>
+  <string name="wisdom_profile_dialog_title">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+  <string name="wisdom_profile_dialog_cancel">إلغاء</string>
+  <string name="wisdom_profile_dialog_confirm">تأكيد</string>
+  <string name="wisdom_profile_media_album">ألبوم الصور</string>
+  <string name="wisdom_profile_media_take_picture">التقط صورة</string>
+  <string name="wisdom_profile_rewards">مكافأة</string>
+  <string name="wisdom_profile_title">الملف الشخصي</string>
+  <string name="wisdom_profile_account_delete">لا يمكن التراجع عن حذف الحساب. هل أنت متأكد أنك تريد حذف هذا الحساب؟</string>
+  <string name="wisdom_profile_upload_suc">تم رفع الصورة بنجاح</string>
+  <string name="wisdom_profile_account_deletion">حذف الحساب</string>
+  <string name="wisdom_export_privatekey">تصدير المفتاح الخاص</string>
+  <string name="wisdom_dont_disclose_privatekey">لا تقم أبدًا بمشاركة المفتاح الخاص</string>
+  <string name="wisdom_show_privatekey">عرض المفتاح الخاص</string>
+  <string name="wisdom_privatekey_warning">تحذير: لا تكشف عن هذا المفتاح الخاص. أي شخص يمتلك مفتاحك الخاص يمكنه سرقة الأصول الموجودة في حسابك.</string>
+  <string name="wisdom_show_privatekey_need_verify">عرض المفتاح الخاص يتطلب التحقق من الهوية</string>
+  <string name="widom_your_privatekey">المفتاح الخاص في محفظتك على Wisdomuae</string>
+  <string name="widom_solana_privatekey">مفاتيح خاصة لسلسلة سولانا</string>
+</resources>

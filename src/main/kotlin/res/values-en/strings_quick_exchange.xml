@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_quick_exchange">Quick Trade</string>
+  <string name="hl_quick_receive_coin_type">Receiving Cryptourrency</string>
+  <string name="hl_quick_receive_coin_type_select">Select Receiving Cryptourrency</string>
+  <string name="hl_quick_assets">Assets</string>
+  <string name="hl_quick_current_available">Available</string>
+  <string name="hl_quick_total_available">Available After Exchange</string>
+  <string name="hl_quick_left_unvailable">Insufficient Balance. Transaction Not Allowed</string>
+  <string name="hl_quick_advised_steps">Recommended Transaction Process</string>
+  <string name="hl_quick_estimated_get">Estimated Gain</string>
+  <string name="hl_quick_step1">Step One</string>
+  <string name="hl_quick_step2">Step Two</string>
+  <string name="hl_quick_step3">Step Three</string>
+  <string name="hl_quick_step4">Step Four</string>
+  <string name="hl_quick_charged_of_you">Need to Pay</string>
+  <string name="hl_quick_charged_coin_type">Payment Cryptocurrency</string>
+  <string name="hl_quick_fee_included">Includes Fees</string>
+  <string name="hl_quick_buy_from_wisdom">Buy from Wisdomuae</string>
+  <string name="hl_quick_advised_popular">Optimal Recommendation</string>
+  <string name="hl_quick_self">Custom</string>
+  <string name="hl_quick_need_to_buy">Need to Buy</string>
+  <string name="hl_quick_self_tip">You can flexibly construct the transaction process based on amount.</string>
+  <string name="hl_quick_self_send_amount">Constructed Sending Amount</string>
+  <string name="hl_quick_self_total_amount">Estimated Total Fees</string>
+  <string name="hl_quick_self_recharge_build">Deposit Construction</string>
+  <string name="hl_quick_alert_title">This quick trading process requires multiple confirmations.</string>
+  <string name="hl_quick_one_click_all">Confirming with one click will execute all transaction processes.</string>
+  <string name="hl_quick_revise_steps"></string>
+</resources>

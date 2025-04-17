@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">تحديث</string>
+  <string name="wisdom_scan_title">مسح رمز الاستجابة السريعة (QR)</string>
+  <string name="wisdom_scan_tip">محاذاة رمز الاستجابة السريعة داخل الإطار للمسح</string>
+  <string name="wisdom_scan_upload">رفع الصور</string>
+  <string name="wisdom_scan_invalid">رمز الاستجابة السريعة غير صالح</string>
+  <string name="wisdom_email">البريد الإلكتروني</string>
+  <string name="hl_scan_tip">مسح رمز الاستجابة السريعة للعنوان / WalletConnect / URL</string>
+</resources>

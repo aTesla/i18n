@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_verify_code_email_title">我們剛剛向您郵箱發送了驗證碼</string>
+  <string name="wisdom_verify_code_phone_title">我們剛剛向您手機發送了驗證碼</string>
+  <string name="wisdom_verify_code_new_email_title">我們剛剛向您新郵箱發送了驗證碼</string>
+  <string name="wisdom_verify_code_new_phone_title">我們剛剛向您新手機發送了驗證碼</string>
+  <string name="wisdom_verify_code_register">要註冊，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_login">要登錄，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_reset_login_password">要重置，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_change_payment_password">若要變更提款密碼，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_change_email">要換綁，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_change_new_email">若要更改，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_change_phone">要換綁，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_change_new_phone">若要更改，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_freeze">要凍結錢包，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_unfreeze">要解凍錢包，請輸入我們發送至您%1$s的驗證碼，驗證碼將在10分鐘後失效。</string>
+  <string name="wisdom_verify_code_error">輸入的驗證碼有誤，請重新輸入</string>
+  <string name="wisdom_verify_code_count_down">%1$s後重新發送</string>
+  <string name="wisdom_verify_code_resend">重新獲取</string>
+  <string name="wisdom_verify_code_next_step">下一步</string>
+  <string name="wisdom_verify_code_submit">提交</string>
+</resources>

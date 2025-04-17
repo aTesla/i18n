@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_payment_scan_title">결제하기</string>
+  <string name="wisdom_payment_scan_desc_login">QR-Code를 스캔하고 다른 사람에게 송금 가능합니다</string>
+  <string name="wisdom_payment_scan_desc_unlogin">개통 후 다른 Wisdomuae APP 사용자에게 송금이 가능합니다.</string>
+  <string name="wisdom_payment_colleciton_title">돈받기</string>
+  <string name="wisdom_payment_colleciton_desc_unlogin">개통 후 다른 Wisdomuae APP 사용자에게서 수금이 가능합니다.</string>
+  <string name="wisdom_payment_colleciton_desc_login">다른 사람에게서 수금 가능</string>
+  <string name="wisdom_payment_colleciton_desc_not_open_account">Wisdomuae계정이 아직 없습니다. 이 기능이 사용 불가합니다.</string>
+  <string name="wisdom_payment_cert_activated">바로 계정 만들기</string>
+  <string name="wisdom_payment_qrcode_title">입·송금</string>
+</resources>

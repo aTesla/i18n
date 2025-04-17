@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_contacts_delete">削除</string>
+  <string name="wisdom_contacts_delete_suc">削除に成功しました</string>
+  <string name="wisdom_contacts_delete_info">削除しますか？</string>
+  <string name="wisdom_contacts_delete_notice">ヒント</string>
+  <string name="wisdom_contacts_revise">変更</string>
+  <string name="wisdom_contacts_revise_suc">変更に成功しました</string>
+  <string name="wisdom_contacts_save">保存</string>
+  <string name="wisdom_contacts_add_suc">追加に成功しました</string>
+  <string name="wisdom_contacts_select_label">タグの選択</string>
+  <string name="wisdom_contacts_email_error">入力されたメールアドレスは正しくありません</string>
+  <string name="wisdom_contacts_title">受取人</string>
+  <string name="wisdom_contacts_tab0">法定通貨</string>
+  <string name="wisdom_contacts_tab1">暗号通貨</string>
+  <string name="wisdom_contacts_action_add">追加</string>
+  <string name="wisdom_contacts_search_placeholder">名前、電話番号、メールアドレス、ID検索に対応</string>
+  <string name="wisdom_contacts_empty_str1">受取人の追加</string>
+  <string name="wisdom_contacts_empty_str2">さまざまな金融サービスをより安全で便利に操作</string>
+  <string name="wisdom_contacts_empty_str3">受取人の追加</string>
+  <string name="wisdom_contacts_fiat_name_label">受取人名（フルネーム）</string>
+  <string name="wisdom_contacts_fiat_name_placeholder">受取人の名前を入力してください</string>
+  <string name="wisdom_contacts_fiat_bank_num_label">キャッシュカードの番号</string>
+  <string name="wisdom_contacts_fiat_bank_num_placeholder">キャッシュカードの番号を入力してください</string>
+  <string name="wisdom_contacts_fiat_email_label">メールアドレス</string>
+  <string name="wisdom_contacts_fiat_email_placeholder">受取人のメールアドレスを入力してください</string>
+  <string name="wisdom_contacts_fiat_phone_label">電話番号</string>
+  <string name="wisdom_contacts_fiat_phone_placeholder">受取人の電話番号を入力してください</string>
+  <string name="wisdom_contacts_fiat_uid_label">Wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_uid_placeholder">wisdomuae IDを入力してください</string>
+  <string name="wisdom_contacts_fiat_country_label">所属国</string>
+  <string name="wisdom_contacts_fiat_country_placeholder">所属国を選択してください</string>
+  <string name="wisdom_contacts_fiat_coin_label">通貨種類</string>
+  <string name="wisdom_contacts_fiat_coin_placeholder">通貨の種類を選択してください</string>
+  <string name="wisdom_contacts_fiat_bank_label">所属銀行</string>
+  <string name="wisdom_contacts_fiat_bank_placeholder">所属銀行を選択してください</string>
+  <string name="wisdom_contacts_fiat_phone_region_label">タグ</string>
+  <string name="wisdom_contacts_fiat_phone_region_placeholder">所属ラベルを選択してください</string>
+  <string name="wisdom_contacts_fiat_tag_label">タグ</string>
+  <string name="wisdom_contacts_fiat_tag_placeholder">所属タグを選択してください</string>
+  <string name="wisdom_contacts_net_label">ネットワークの選択</string>
+  <string name="wisdom_contacts_net_placeholder">ネットワークを選択してください</string>
+  <string name="wisdom_contacts_chain_label">受信アドレス</string>
+  <string name="wisdom_contacts_chain_placeholder">受信アドレスを入力してください</string>
+  <string name="wisdom_contacts_select_payer">受取人の選択</string>
+  <string name="wisdom_contacts_select_top_tip">転送するオンチェーンのアドレスとネットワークを選択してください</string>
+  <string name="wisdom_contacts_select_top_des">転送すると取り消しできないため、オンチェーンのアドレスが正しいかどうかを確認してください</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_system_message">Systemnachricht</string>
+  <string name="hl_exchange_records">Transaktionsaufzeichnung</string>
+  <string name="hl_plateform_notice">Plattformankündigungen</string>
+  <string name="hl_market_activity">Marktdynamik</string>
+  <string name="hl_notificaiton_exchange">Überweisungsbestätigung</string>
+  <string name="hl_notification_recharge">Aufladungsbestätigung</string>
+  <string name="hl_notification_compony">Offizielle Benachrichtigungen</string>
+  <string name="hl_notification_get_money">Empfangsbestätigung</string>
+  <string name="wisdom_message">Nachrichten</string>
+</resources>

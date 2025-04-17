@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_error_unauthorized">unauthorized</string>
+  <string name="wisdom_error_email_registed">Email has been registered</string>
+  <string name="wisdom_error_phone_registed">The number has been registered</string>
+  <string name="wisdom_error_code_error">Wrong code. Try again.</string>
+  <string name="wisdom_error_code_expired">The number has been registered</string>
+  <string name="wisdom_error_code_auth">Code expired. Get a new one.</string>
+  <string name="wisdom_error_token_expired">Expired token</string>
+  <string name="wisdom_error_phone_email_not_verify">Code expired. Get a new one.</string>
+  <string name="wisdom_error_password_too_simple">The password is too simple. Please set a more complex one.</string>
+  <string name="wisdom_error_send_code_frequently">Too many codes sent!</string>
+  <string name="wisdom_error_email_has_verifyed">The email has been verified</string>
+  <string name="wisdom_error_phone_has_verifyed">The number has been verified</string>
+  <string name="wisdom_error_email_not_register">This email has not been registered yet. Please register first.</string>
+  <string name="wisdom_error_phone_not_register">This phone number has not been registered yet. Please register first.</string>
+  <string name="wisdom_error_first_login_need_verify">Verification required to login from new device</string>
+  <string name="wisdom_error_first_login_unverify">No verification required for first login</string>
+  <string name="wisdom_error_password_error">Incorrect Password. Try again</string>
+  <string name="wisdom_error_user_not_exist">User does not exist</string>
+  <string name="wisdom_error_inviter_params">Invitation parameter error</string>
+  <string name="wisdom_error_inviter_not_exist">The inviter does not exist</string>
+  <string name="wisdom_error_inviter_already_exist">The inviter already exists</string>
+  <string name="wisdom_error_inviter_is_self">The inviter cannot be yourself</string>
+  <string name="wisdom_error_device_id_empty">Device id cannot be blank</string>
+  <string name="wisdom_error_lost_login_info">Lost login information</string>
+  <string name="wisdom_error_invalid_authorization">Invalid authorization</string>
+  <string name="wisdom_error_invalid_token">Invalid token</string>
+  <string name="wisdom_error_phone_error">Wrong mobile number</string>
+  <string name="wisdom_error_email_exists">This email address has been bound by another user</string>
+  <string name="wisdom_error_no_data">No data</string>
+  <string name="wisdom_error_request_fail">Network request error</string>
+  <string name="wisdom_error_reload">Reload</string>
+  <string name="wisdom_error_empty">Cannot be blank</string>
+</resources>

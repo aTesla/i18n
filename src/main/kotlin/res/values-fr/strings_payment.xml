@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_payment_scan_title">Payer</string>
+  <string name="wisdom_payment_scan_desc_login">Scanner et payer</string>
+  <string name="wisdom_payment_scan_desc_unlogin">"Permet d'effectuer des paiements à d'autres utilisateurs de Wisdomuae après l'activation"</string>
+  <string name="wisdom_payment_colleciton_title">Recevoir</string>
+  <string name="wisdom_payment_colleciton_desc_unlogin">"Après l'activation, vous pouvez recevoir de l'argent d'autres utilisateurs de Wisdomuae"</string>
+  <string name="wisdom_payment_colleciton_desc_login">"Vous aider à collecter des fonds auprès d'autres personnes"</string>
+  <string name="wisdom_payment_colleciton_desc_not_open_account">"Vous ne pouvez pas utiliser cette fonction car vous n'avez pas encore de compte de Wisdomuae"</string>
+  <string name="wisdom_payment_cert_activated">"S'authentifier et se connecter maintenant"</string>
+  <string name="wisdom_payment_qrcode_title">Paiement</string>
+</resources>

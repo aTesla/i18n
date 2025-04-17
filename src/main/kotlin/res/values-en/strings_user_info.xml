@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_info_title">Details</string>
+  <string name="wisdom_user_info_name">Name</string>
+  <string name="wisdom_user_info_email">Email</string>
+  <string name="wisdom_user_info_uid">WID</string>
+  <string name="wisdom_user_info_birthday">Date of birth</string>
+  <string name="wisdom_user_info_country">Country/Region</string>
+  <string name="wisdom_user_info_address">Address</string>
+  <string name="wisdom_user_info_phone">Phone number</string>
+  <string name="wisdom_user_info_identified">Authentication</string>
+  <string name="wisdom_user_info_post_code">Postal code</string>
+  <string name="wisdom_user_info_default_value">--</string>
+  <string name="wisdom_user_info_btn">Verify personal information</string>
+  <string name="wisdom_user_info_identified_fail_reason">Face ID for authentication</string>
+  <string name="wisdom_user_info_identified_fail">Authentication failed</string>
+  <string name="wisdom_user_info_identified_passcode_desc">IPhone passcode for authentication</string>
+  <string name="wisdom_user_info_identified_no_passowrd">No iPhone passcode, please set up</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_login_step1_pwd_enter_again">密码错误，请重新输入</string>
+  <string name="wisdom_login_step1_title">登录</string>
+  <string name="wisdom_login_step1_email">电子邮箱</string>
+  <string name="wisdom_login_step1_phone">手机号码</string>
+  <string name="wisdom_login_step1_pwd">登录密码</string>
+  <string name="wisdom_login_step1_login">登录</string>
+  <string name="wisdom_login_step1_forget">忘记密码?</string>
+  <string name="wisdom_login_step1_register">未有账号? 去注册</string>
+  <string name="wisdom_login_step1_privacy">登录/注册表示您同意《用户协议》和《隐私政策》</string>
+  <string name="wisdom_login_step1_email_label">输入邮箱</string>
+  <string name="wisdom_login_step1_phone_label">输入手机</string>
+  <string name="wisdom_login_step1_password_label">输入密码</string>
+  <string name="wisdom_login_step1_email_supporting_text">输入的邮箱有误，请重新输入</string>
+  <string name="wisdom_login_step1_password_supporting_text">输入的密码有误，请重新输入</string>
+  <string name="wisdom_login_step2_title">登录</string>
+  <string name="wisdom_login_step2_desc">请选择接收验证码验证方式</string>
+  <string name="wisdom_login_step2_phone_receive">手机号码接收</string>
+  <string name="wisdom_login_step2_email_receive">电子邮箱接收</string>
+  <string name="wisdom_login_step2_privacy_policy">登录/注册表示您同意《用户协议》和《隐私政策》</string>
+  <string name="wisdom_login_step3_phone_title">我们刚向您手机发送了验证码</string>
+  <string name="wisdom_login_step3_phone_desc">要登录，请输入我们发送至您%1$s的验证码，验证码将在10分钟后失效。</string>
+  <string name="wisdom_login_step3_phone_error">输入的验证码有误，请重新输入</string>
+  <string name="wisdom_login_step3_phone_count_down">%1$s后重新发送</string>
+  <string name="wisdom_login_step3_phone_resend">重新获取</string>
+  <string name="wisdom_login_step3_phone_submit">提交</string>
+  <string name="wisdom_login_step3_email_title">我们刚刚向您邮箱发送了验证码</string>
+  <string name="wisdom_login_step3_email_desc">要登录，请输入我们发送至%1$s的验证码，验证码将在10分钟后失效。</string>
+  <string name="wisdom_login_step3_email_error">输入的验证码有误，请重新输入</string>
+  <string name="wisdom_login_step3_email_count_down">%1$s后重新发送</string>
+  <string name="wisdom_login_step3_email_resend">重新获取</string>
+  <string name="wisdom_login_step3_email_submit">提交</string>
+  <string name="wisdom_login_step4_skip">跳过</string>
+  <string name="wisdom_login_step4_title">Face ID认证</string>
+  <string name="wisdom_login_step4_desc">为了提高您登录的便捷性，建议您认证Face ID</string>
+  <string name="wisdom_login_step4_action">点击进行Face ID认证</string>
+  <string name="wisdom_fingerprint_login_welcome">%1$s您好</string>
+  <string name="wisdom_fingerprint_login_action">点击进行Face ID认证</string>
+  <string name="wisdom_fingerprint_login_more">更多选项</string>
+  <string name="wisdom_fingerprint_login_more_item_1">密码登录</string>
+  <string name="wisdom_fingerprint_login_more_item_2">切换/注册用户</string>
+  <string name="wisdom_password_login_welcome">%1$s您好</string>
+  <string name="wisdom_password_login_password_hint">输入密码</string>
+  <string name="wisdom_password_login_password_login">登录</string>
+  <string name="wisdom_password_login_more_item_1">Face ID登录</string>
+  <string name="wisdom_password_login_quick_find_password">快速找回密码</string>
+  <string name="wisdom_password_login_more">更多选项</string>
+  <string name="wisdom_login_chose_country">选择国家</string>
+  <string name="wisdom_login_search_country">搜索国家代码或者名字</string>
+  <string name="wisdom_login_enter_email">请输入邮件</string>
+  <string name="wisdom_login_account_deleted_error">此帐户已被删除，无法登录</string>
+  <string name="hl_login_please_enter_pwd">请输入密码</string>
+</resources>

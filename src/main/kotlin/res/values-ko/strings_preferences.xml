@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">설정</string>
+  <string name="wisdom_settings_language">언어</string>
+  <string name="wisdom_settings_language_desc">설정후 이메일, 메시지, 앱 알림, 로그인하신 모든 설비가 최신 언어로 설정됩니다.</string>
+  <string name="wisdom_settings_coin">화폐</string>
+  <string name="wisdom_settings_coin_desc">설정후 선택하신 화폐로 계좌 자금 계산하겠습니다</string>
+  <string name="wisdom_settings_system_default">기본</string>
+  <string name="wisdom_settings_theme_mode">화면모드</string>
+  <string name="wisdom_settings_theme_mode_desc">설정후 화면모드는 설정하신 모드에 따라 바뀌겠습니다</string>
+  <string name="wisdom_settings_theme_follow_system">시스템 설정과 같다</string>
+  <string name="wisdom_settings_theme_follow_system_desc">화면은 시스템에 따라 라이트 모드나 다크모드로 설정됩니다</string>
+  <string name="wisdom_settings_theme_light_mode">라이트 모드</string>
+  <string name="wisdom_settings_theme_dark_mode">다크 모드</string>
+  <string name="wisdom_settings_theme_mode_select">화면 모드 선택</string>
+  <string name="wisdom_settings_save">설정 저장</string>
+</resources>

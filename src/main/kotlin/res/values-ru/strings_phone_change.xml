@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_phone_change_step1_title">Подтверждение телефона</string>
+  <string name="wisdom_phone_change_step1_card_title">Перепривязка вашего номера телефона путем получения кода подтверждения.</string>
+  <string name="wisdom_phone_change_step1_card_desc">Если вы хотите изменить привязанный номер телефона, вы можете автоматически сделать это, получив коды подтверждения на вашу электронную почту и телефон.</string>
+  <string name="wisdom_phone_change_step1_a1">Получите коды на зарегистрированную электронную почту и номер телефона для перепривязки на новый мобильный номер</string>
+  <string name="wisdom_phone_change_step1_a2">Отправка кодов на электронную почту и номер телефона.</string>
+  <string name="wisdom_phone_change_step1_b1">Если вы не можете получить код на старую электронную почту или мобильный номер, запросите изменение номера телефона у службы поддержки</string>
+  <string name="wisdom_phone_change_step1_b2">Начало процесса обслуживания клиентов</string>
+  <string name="wisdom_phone_change_step4_title">Подтверждение нового номера телефона</string>
+  <string name="wisdom_phone_change_step4_card_title">Последний шаг подтверждения вашего нового мобильного номера</string>
+  <string name="wisdom_phone_change_step4_card_desc">Введите правильный новый номер телефона и получите код подтверждения</string>
+  <string name="wisdom_phone_change_step4_old_email">Ваш текущий номер телефона:</string>
+  <string name="wisdom_phone_change_step4_email_label">Новый номер телефона</string>
+  <string name="wisdom_phone_change_step4_email_placeholder">Введите новый номер телефона</string>
+  <string name="wisdom_phone_change_step4_email_supporting_text">Введенный номер неверен, введите заново</string>
+  <string name="wisdom_phone_change_step4_send_verify_code">Отправка кода подтверждения</string>
+  <string name="wisdom_phone_change_step6_title">Новый номер телефона успешно привязан</string>
+  <string name="wisdom_phone_change_step6_back_home">Возвращение на главную страницу</string>
+  <string name="wisdom_phone_change_a">Подтверждение номера телефона</string>
+  <string name="wisdom_phone_change_b">Измена вашего номера телефона</string>
+  <string name="wisdom_phone_change_c">Перед обновлением вашего номера телефонанеобходимо выполнить ряд условий</string>
+  <string name="wisdom_phone_change_d">Сделайте селфи с паспортом или удостоверением личности</string>
+  <string name="wisdom_phone_change_e">Получите код подтверждения на ваш новый номер телефона.</string>
+  <string name="wisdom_phone_change_f">Мы проверим вашу информацию и обновим ваший номер телефона</string>
+  <string name="wisdom_phone_change_g">Это обычно занимает 10 минут, но может занять до трех дней.</string>
+  <string name="wisdom_phone_change_h">Продолжение</string>
+  <string name="wisdom_phone_change_i">Загрузите и просмотрите ваше селфи</string>
+  <string name="wisdom_phone_change_j">Мы принимаем только паспорт, удостоверение личности или водительское удостоверение для подтверждения вашей личности.</string>
+  <string name="wisdom_phone_change_k">Ваше селфи должно показывать:</string>
+  <string name="wisdom_phone_change_l1">Ваше полное лицо и документ удостоверяющий личность.</string>
+  <string name="wisdom_phone_change_l2">Имя и фамилию на вашем документе удостоверяющем личность</string>
+  <string name="wisdom_phone_change_l3">Четкое изображение документа удостоверяющего личность</string>
+  <string name="wisdom_phone_change_m">Пример селфи:</string>
+  <string name="wisdom_phone_change_n">Селфи не прошло проверку, загрузите заново</string>
+  <string name="wisdom_phone_change_o">Заявка на подтверждение номера телефона успешно подана</string>
+  <string name="wisdom_phone_change_p">Мы проверим вашу информацию и обновим ваш номер телефона, о результате изменений вы будете уведомлены через системные сообщения или СМС.</string>
+  <string name="wisdom_phone_change_q">Это обычно занимает 10 минут, но может занять до трех дней</string>
+</resources>

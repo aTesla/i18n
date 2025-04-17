@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_phone_change_step1_title">التحقق من الهاتف</string>
+  <string name="wisdom_phone_change_step1_card_title">تغيير رقم الهاتف عن طريق استلام رمز التحقق</string>
+  <string name="wisdom_phone_change_step1_card_desc">إذا كنت ترغب في تغيير رقم هاتفك، يمكنك القيام بذلك تلقائيًا باستخدام رمز التحقق المرسل إلى هاتفك وبريدك الإلكتروني.</string>
+  <string name="wisdom_phone_change_step1_a1">استخدم رقم هاتفك المسجل وبريدك الإلكتروني لاستلام رمز التحقق لربط رقم هاتف جديد</string>
+  <string name="wisdom_phone_change_step1_a2">إرسال رمز التحقق</string>
+  <string name="wisdom_phone_change_step1_b1">لا يمكن للبريد الإلكتروني أو الهاتف الأصلي استلام رمز التحقق. يرجى التواصل مع خدمة العملاء لتغيير رقم هاتفك.</string>
+  <string name="wisdom_phone_change_step1_b2">خدمة العملاء البشرية</string>
+  <string name="wisdom_phone_change_step4_title">التحقق من رقم الهاتف المحمول الجديد</string>
+  <string name="wisdom_phone_change_step4_card_title">الخطوة الأخيرة: تحقق من رقم هاتفك الجديد</string>
+  <string name="wisdom_phone_change_step4_card_desc">أدخل رقم هاتفك الجديد بشكل صحيح لاستلام رمز التحقق</string>
+  <string name="wisdom_phone_change_step4_old_email">رقم هاتفك المحمول الحالي هو</string>
+  <string name="wisdom_phone_change_step4_email_label">رقم الهاتف المحمول الجديد</string>
+  <string name="wisdom_phone_change_step4_email_placeholder">يرجى إدخال رقم الهاتف المحمول الجديد</string>
+  <string name="wisdom_phone_change_step4_email_supporting_text">الرقم المدخل غير صحيح. حاول مرة أخرى</string>
+  <string name="wisdom_phone_change_step4_send_verify_code">إرسال رمز التحقق</string>
+  <string name="wisdom_phone_change_step6_title">تم ربط رقم الهاتف المحمول الجديد بنجاح</string>
+  <string name="wisdom_phone_change_step6_back_home">العودة إلى الصفحة الرئيسية</string>
+  <string name="wisdom_phone_change_a">التحقق من الهاتف</string>
+  <string name="wisdom_phone_change_b">تغيير رقم هاتفك المحمول</string>
+  <string name="wisdom_phone_change_c">المتطلبات التي يجب استيفاؤها قبل تحديث عنوان بريدك الإلكتروني</string>
+  <string name="wisdom_phone_change_d">التقط صورة سيلفي وأنت تحمل جواز سفرك أو بطاقة هويتك</string>
+  <string name="wisdom_phone_change_e">استلم رمز التحقق عبر رقمك الجديد</string>
+  <string name="wisdom_phone_change_f">سنقوم بالتحقق من معلوماتك وتحديث رقم هاتفك المحمول</string>
+  <string name="wisdom_phone_change_g">عادةً ما يستغرق ذلك 10 دقائق، لكنه قد يستغرق ما يصل إلى 3 أيام</string>
+  <string name="wisdom_phone_change_h">متابعة</string>
+  <string name="wisdom_phone_change_i">تحميل وعرض صورتك السيلفي</string>
+  <string name="wisdom_phone_change_j">نقبل فقط جوازات السفر، بطاقات الهوية أو رخص القيادة للتحقق من الهوية.</string>
+  <string name="wisdom_phone_change_k">يجب أن تظهر صورتك السيلفي:</string>
+  <string name="wisdom_phone_change_l1">وجهك بالكامل وبطاقة هويتك</string>
+  <string name="wisdom_phone_change_l2">الاسم الأول والأخير الموجودين على بطاقة هويتك</string>
+  <string name="wisdom_phone_change_l3">صورة هوية واضحة</string>
+  <string name="wisdom_phone_change_m">مثال على صورة السيلفي:</string>
+  <string name="wisdom_phone_change_n">فشل التحقق من السيلفي. يرجى التحميل مرة أخرى</string>
+  <string name="wisdom_phone_change_o">تم تقديم طلب التحقق من رقم الهاتف المحمول بنجاح</string>
+  <string name="wisdom_phone_change_p">سنقوم بالتحقق من معلوماتك وتحديث رقم هاتفك. سيتم إعلامك بالنتيجة عبر رسالة النظام أو الرسائل القصيرة.</string>
+  <string name="wisdom_phone_change_q">عادةً ما يستغرق ذلك 10 دقائق، لكنه قد يستغرق ما يصل إلى 3 أيام</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_verify_code_email_title">لقد أرسلنا رمز التحقق إلى بريدك الإلكتروني</string>
+  <string name="wisdom_verify_code_phone_title">لقد أرسلنا رمز التحقق إلى هاتفك</string>
+  <string name="wisdom_verify_code_new_email_title">لقد أرسلنا رمز التحقق إلى عنوان بريدك الإلكتروني الجديد</string>
+  <string name="wisdom_verify_code_new_phone_title">لقد أرسلنا رمز التحقق إلى هاتفك الجديد</string>
+  <string name="wisdom_verify_code_register">أدخل الرمز الذي أرسلناه إلى %1$s للتسجيل. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_login">أدخل الرمز الذي أرسلناه إلى %1$s لتسجيل الدخول. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_reset_login_password">أدخل الرمز الذي أرسلناه إلى %1$s لإعادة التعيين. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_change_payment_password">أدخل الرمز الذي أرسلناه إلى %1$s لتغيير كلمة مرور السحب الخاصة بك. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_change_email">أدخل الرمز الذي أرسلناه إلى %1$s لإعادة الربط. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_change_new_email">أدخل الرمز الذي أرسلناه إلى %1$s للتغيير. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_change_phone">أدخل الرمز الذي أرسلناه إلى %1$s لإعادة الربط. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_change_new_phone">أدخل الرمز الذي أرسلناه إلى %1$s للتغيير. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_freeze">أدخل الرمز الذي أرسلناه إلى %1$s لتجميد الحساب. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_unfreeze">أدخل الرمز الذي أرسلناه إلى %1$s لفك تجميد حسابك. سينتهي صلاحية الرمز بعد 10 دقائق.</string>
+  <string name="wisdom_verify_code_error">رمز غير صحيح. حاول مرة أخرى.</string>
+  <string name="wisdom_verify_code_count_down">إعادة الإرسال بعد %1$s</string>
+  <string name="wisdom_verify_code_resend">إعادة الحصول</string>
+  <string name="wisdom_verify_code_next_step">الخطوة التالية</string>
+  <string name="wisdom_verify_code_submit">إرسال</string>
+</resources>

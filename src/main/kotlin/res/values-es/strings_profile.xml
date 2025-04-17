@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_profile_userinfo">Detalles</string>
+  <string name="wisdom_profile_security">Centro de seguridad</string>
+  <string name="wisdom_profile_preferences">Preferencias</string>
+  <string name="wisdom_profile_help">Centro de ayuda</string>
+  <string name="wisdom_profile_privacy">Nuestro acuerdo</string>
+  <string name="wisdom_profile_logout">Cerrar sesión</string>
+  <string name="wisdom_profile_dialog_title">Confirme si desea cerrar cuenta</string>
+  <string name="wisdom_profile_dialog_cancel">Cancelar</string>
+  <string name="wisdom_profile_dialog_confirm">Confirmar</string>
+  <string name="wisdom_profile_media_album">Álbum de fotos</string>
+  <string name="wisdom_profile_media_take_picture">Filmar</string>
+  <string name="wisdom_profile_rewards">Recomienda y gana</string>
+  <string name="wisdom_profile_title">Centro personal</string>
+  <string name="wisdom_profile_account_delete">Una vez eliminada la cuenta, no se puede recuperar. ¿Está seguro de que desea eliminar esta cuenta?</string>
+  <string name="wisdom_profile_upload_suc">Imagen cargada exitosamente</string>
+  <string name="wisdom_profile_account_deletion">Eliminar cuenta</string>
+  <string name="wisdom_export_privatekey">Exportar clave privada</string>
+  <string name="wisdom_dont_disclose_privatekey">No revele esta clave provada</string>
+  <string name="wisdom_show_privatekey">Mostrar la clave privada</string>
+  <string name="wisdom_privatekey_warning">Advertencia: No revele esta clave privada. Cualquiera que tenga su clave privada puede robar los activos que tiene en su cuenta.</string>
+  <string name="wisdom_show_privatekey_need_verify">Para mostrar la clave privada se requiere verificación de identidad</string>
+  <string name="widom_your_privatekey">Clave privada de su billetero Wisdomuae</string>
+  <string name="widom_solana_privatekey">Claves privadas para la cadena Solana</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_verify_code_email_title">인증코드 이메일이 발송되었습니다</string>
+  <string name="wisdom_verify_code_phone_title">인증코드 메시지가 발송되었습니다</string>
+  <string name="wisdom_verify_code_new_email_title">새 이메일에 인증코드 이메일이 발송되었습니다.</string>
+  <string name="wisdom_verify_code_new_phone_title">새 전화번호에 인증코드 메시지가 발송되었습니다.</string>
+  <string name="wisdom_verify_code_register">회원가입 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_login">로그인 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_reset_login_password">리셋 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_change_payment_password">인출 비밀번호를 변경 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_change_email">인증방식을 변경 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_change_new_email">변경 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_change_phone">인증방식을 변경 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_change_new_phone">변경 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_freeze">계정 정지 하시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_unfreeze">계정 정지 풀시면 %1$s에 발송된 인증코드를 입력해주세요. 인증코드는 10분 뒤에 무효됩니다.</string>
+  <string name="wisdom_verify_code_error">입력하신 인증코드가 잘못 되었습니다. 다시 입력해 주세요</string>
+  <string name="wisdom_verify_code_count_down">%1$s뒤 다시 발송합니다</string>
+  <string name="wisdom_verify_code_resend">다시 받기</string>
+  <string name="wisdom_verify_code_next_step">다음</string>
+  <string name="wisdom_verify_code_submit">확인</string>
+</resources>

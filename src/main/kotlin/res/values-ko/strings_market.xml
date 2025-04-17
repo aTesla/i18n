@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_market_zx">즐겨찾기</string>
+  <string name="wisdom_market_whb">환율순위</string>
+  <string name="wisdom_market_hot">인기순위</string>
+  <string name="wisdom_market_gainers">상승폭 순위</string>
+  <string name="wisdom_market_zlb">주요화폐</string>
+  <string name="wisdom_market_tname">이름</string>
+  <string name="wisdom_market_tprice">최신가격</string>
+  <string name="wisdom_market_trate">오늘의 가격 등락</string>
+  <string name="wisdom_market_title">시세</string>
+  <string name="wisdom_market_zx_btn">즐겨찾기에 추가</string>
+  <string name="hl_market_down">하락폭 순위</string>
+  <string name="hl_market_flow">유동성</string>
+  <string name="hl_market_price">가격</string>
+  <string name="hl_market_24h_change">24시간 변동</string>
+  <string name="hl_market_select_coin_type">화폐 선택</string>
+  <string name="hl_market_exchange_amount">거래량</string>
+  <string name="hl_market_see_more">더보기</string>
+  <string name="hl_market_rank">순위</string>
+  <string name="hl_market_search">검색</string>
+  <string name="hl_market_history_search">검색 기록</string>
+  <string name="hl_market_search_crypto">암호화폐</string>
+</resources>

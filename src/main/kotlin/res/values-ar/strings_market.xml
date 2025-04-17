@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_market_zx">المفضلة</string>
+  <string name="wisdom_market_whb">تصنيف الفوركس</string>
+  <string name="wisdom_market_hot">قائمة الترتيب الشهيرة</string>
+  <string name="wisdom_market_gainers">قائمة الفائزين</string>
+  <string name="wisdom_market_zlb">العملات الرئيسية</string>
+  <string name="wisdom_market_tname">الاسم</string>
+  <string name="wisdom_market_tprice">السعر الحالي</string>
+  <string name="wisdom_market_trate">التغير اليومي</string>
+  <string name="wisdom_market_title">السوق</string>
+  <string name="wisdom_market_zx_btn">إضافة إلى المفضلة</string>
+  <string name="hl_market_down">قائمة الخاسرين</string>
+  <string name="hl_market_flow">السيولة</string>
+  <string name="hl_market_price">السعر</string>
+  <string name="hl_market_24h_change">التغير خلال 24 ساعة</string>
+  <string name="hl_market_select_coin_type">اختيار نوع العملة</string>
+  <string name="hl_market_exchange_amount">حجم التداول</string>
+  <string name="hl_market_see_more">عرض المزيد</string>
+  <string name="hl_market_rank">التصنيف</string>
+  <string name="hl_market_search">بحث .</string>
+  <string name="hl_market_history_search">تاريخ البحث</string>
+  <string name="hl_market_search_crypto">البحث عن العملة المشفرة</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">Préférence</string>
+  <string name="wisdom_settings_language">Langue</string>
+  <string name="wisdom_settings_language_desc">"Une fois ce paramètre défini, tous les courriels, SMS et notifications d'applications de tous les appareils auxquels vous êtes connecté utiliseront la langue la plus récente que vous avez définie."</string>
+  <string name="wisdom_settings_coin">Monnaie</string>
+  <string name="wisdom_settings_coin_desc">"Une fois que vous l'aurez paramétré, les fonds de votre compte seront affichés sur la page d'accueil dans la monnaie de votre choix."</string>
+  <string name="wisdom_settings_system_default">Paramètre par défaut</string>
+  <string name="wisdom_settings_theme_mode">Mode Apparence</string>
+  <string name="wisdom_settings_theme_mode_desc">"Le mode d'apparence s'affichera en fonction des derniers réglages effectués après l'installation."</string>
+  <string name="wisdom_settings_theme_follow_system">Suivre le système</string>
+  <string name="wisdom_settings_theme_follow_system_desc">"Le mode d'apparence suit les paramètres du système"</string>
+  <string name="wisdom_settings_theme_light_mode">Mode du jour</string>
+  <string name="wisdom_settings_theme_dark_mode">Mode nuit</string>
+  <string name="wisdom_settings_theme_mode_select">"Sélectionner le mode d'apparence"</string>
+  <string name="wisdom_settings_save">Sauvegarder les paramètres</string>
+</resources>

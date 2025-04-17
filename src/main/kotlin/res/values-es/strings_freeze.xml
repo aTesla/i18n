@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_freeze_step1_title">Congelar la billetera</string>
+  <string name="wisdom_freeze_step1_card_title">Tenga cuidado al congelar su billetera</string>
+  <string name="wisdom_freeze_step1_card_desc">Después de congelar su billetera, todas sus funciones de transacción se deshabilitarán. Inicie sesión nuevamente si necesita descongelarla</string>
+  <string name="wisdom_freeze_step1_card_sub_title">Después de congelar su billetera:</string>
+  <string name="wisdom_freeze_step1_card_sub_desc1">Todas las funciones comerciales de esta cuenta están deshabilitadas</string>
+  <string name="wisdom_freeze_step1_card_sub_desc2">Todas las funciones de la aplicación están deshabilitadas</string>
+  <string name="wisdom_freeze_step1_card_sub_desc3">Los dispositivos autorizados se eliminarán</string>
+  <string name="wisdom_freeze_step1_card_sub_desc4">Se cancelarán los retiros pendientes</string>
+  <string name="wisdom_freeze_step1_card_sub_desc5">Las operaciones en curso, como los contratos inteligentes, no se cancelarán automáticamente</string>
+  <string name="wisdom_freeze_step1_question">¿Por qué quiere congelar su billetera?</string>
+  <string name="wisdom_freeze_step1_answer1">Mi cuenta no es segura, quiero congelar temporalmente mi billetera</string>
+  <string name="wisdom_freeze_step1_answer2">No quiero usar esta billetera</string>
+  <string name="wisdom_freeze_step1_answer3">Ya uso billeteras de otras plataformas</string>
+  <string name="wisdom_freeze_step1_answer4">Otras razones</string>
+  <string name="wisdom_freeze_step1_answer4_placeholder">Instrucciones específicas</string>
+  <string name="wisdom_freeze_step1_radio_group">Por favor seleccione el modo que recibirá el código de verificación</string>
+  <string name="wisdom_freeze_step1_radio1">Verificación telefónica</string>
+  <string name="wisdom_freeze_step1_radio2">Verificación de correo electrónico</string>
+  <string name="wisdom_freeze_step1_agreement">Entiendo las consecuencias de congelar mi billetera y acepto que el saldo de esta cuenta no se puede recuperar después de que se congele</string>
+  <string name="wisdom_freeze_step1_go_on">Continuar</string>
+  <string name="wisdom_freeze_step2_title">Acabamos de enviar un código de verificación a su correo electrónico</string>
+  <string name="wisdom_freeze_step2_desc">Para congelar su cuenta, ingrese el código de verificación de %1$s, que caducará después de 10 minutos</string>
+  <string name="wisdom_freeze_step2_email_error">El código de verificación es incorrecto, por favor vuelva a ingresarlo</string>
+  <string name="wisdom_freeze_step2_email_count_down">Reenviar después de %1$s</string>
+  <string name="wisdom_freeze_step2_email_resend">Readquirir</string>
+  <string name="wisdom_freeze_step2_next_step">Próximo paso</string>
+  <string name="wisdom_freeze_step3_title">Acabamos de enviar un código de verificación a su teléfono móvil</string>
+  <string name="wisdom_freeze_step3_desc">Para congelar su cuenta, introduzca el código de verificación que le enviamos a su %1$s, el que caducará después de 10 minutos</string>
+  <string name="wisdom_freeze_step3_phone_error">El código de verificación es incorrecto, por favor vuelva a ingresarlo</string>
+  <string name="wisdom_freeze_step3_phone_count_down">Reenviar después de %1$s</string>
+  <string name="wisdom_freeze_step3_phone_resend">Readquirir</string>
+  <string name="wisdom_freeze_step3_submit">Enviar</string>
+  <string name="wisdom_freeze_step5_title">Congelar la cuenta con éxito</string>
+  <string name="wisdom_freeze_step5_desc">Todas sus funciones comerciales han sido deshabilitadas. Si necesita desbloquearlas, inicie sesión nuevamente.</string>
+  <string name="wisdom_freeze_step5_back_login">Volver a iniciar sesión</string>
+  <string name="wisdom_unfreeze_title">Descongelar</string>
+  <string name="wisdom_unfreeze_step5_title">Solicitud de descongelación enviada correctamente</string>
+  <string name="wisdom_unfreeze_step5_desc">Su solicitud de descongelación se envió con éxito. Realizaremos una llamada desde el servicio al cliente dentro de las 24 horas. Mantenga su teléfono abierto y preste atención para responder nuestra llamada.</string>
+  <string name="wisdom_unfreeze_step5_back_login">Volver a la página de inicio</string>
+  <string name="wisdom_unfreeze_step5_device_verify_success">Verificación del dispositivo exitosa</string>
+  <string name="wisdom_unfreeze_step5_unfreezed_success">Descongelar la billetera exitosamente</string>
+  <string name="wisdom_unfreeze_step5_restore_success">Todas sus transacciones y funciones vuelven a recuperarse</string>
+  <string name="hl_freeze_estimate_total_amount">Estimación del monto total</string>
+  <string name="hl_freeze_alert_desc">Su billetera está congelada actualmente, ¿desea descongelarla?</string>
+  <string name="hl_freeze_alert_unfreeze">Quiero descongelarla</string>
+  <string name="hl_freeze_alert_continue">Mantener congelada</string>
+  <string name="hl_freeze_alert_verify">Seleccione el método de recepción del código</string>
+  <string name="hl_freeze_alert_phone">Aceptarlo mediante teléfono</string>
+  <string name="hl_freeze_alert_email">Aceptarlo mediante correo electrónico</string>
+</resources>

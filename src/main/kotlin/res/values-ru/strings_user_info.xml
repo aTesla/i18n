@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_info_title">Детали</string>
+  <string name="wisdom_user_info_name">Имя</string>
+  <string name="wisdom_user_info_email">Электронная почта</string>
+  <string name="wisdom_user_info_uid">WID</string>
+  <string name="wisdom_user_info_birthday">Дата рождения</string>
+  <string name="wisdom_user_info_country">Страна/регион проживания</string>
+  <string name="wisdom_user_info_address">Подробный адрес</string>
+  <string name="wisdom_user_info_phone">Номер телефона</string>
+  <string name="wisdom_user_info_identified">Подтверждение личности</string>
+  <string name="wisdom_user_info_post_code">Почтовый индекс</string>
+  <string name="wisdom_user_info_default_value">--</string>
+  <string name="wisdom_user_info_btn">Подтверждение личной информации</string>
+  <string name="wisdom_user_info_identified_fail_reason">Используйте респознавание по Face ID для аутентификации</string>
+  <string name="wisdom_user_info_identified_fail">Аутентификация не удалась</string>
+  <string name="wisdom_user_info_identified_passcode_desc">Используйте пароль для аутентификации</string>
+  <string name="wisdom_user_info_identified_no_passowrd">Создайте пароль при отсутствии пароля на телефоне</string>
+</resources>

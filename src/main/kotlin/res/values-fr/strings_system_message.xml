@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_system_message">Message du système</string>
+  <string name="hl_exchange_records">Registres des transactions</string>
+  <string name="hl_plateform_notice">Annonce de la plate-forme</string>
+  <string name="hl_market_activity">Dynamique du marché</string>
+  <string name="hl_notificaiton_exchange">"Notification de l'arrivée de l'envoi de fonds"</string>
+  <string name="hl_notification_recharge">Notification de recharge</string>
+  <string name="hl_notification_compony">Annonce officielle</string>
+  <string name="hl_notification_get_money">"Notification d'arrivée"</string>
+  <string name="wisdom_message">Message</string>
+</resources>

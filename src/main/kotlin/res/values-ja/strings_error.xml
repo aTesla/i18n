@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_error_unauthorized">権限なし</string>
+  <string name="wisdom_error_email_registed">メールアドレスが登録済み</string>
+  <string name="wisdom_error_phone_registed">電話番号が登録済み</string>
+  <string name="wisdom_error_code_error">認証コードが間違っています。再度入力してください。</string>
+  <string name="wisdom_error_code_expired">電話番号が登録済み</string>
+  <string name="wisdom_error_code_auth">認証コードが期限切れになりました。認証コードを再度送信してください</string>
+  <string name="wisdom_error_token_expired">Tokenが期限切れ</string>
+  <string name="wisdom_error_phone_email_not_verify">認証コードが期限切れになりました。認証コードを再度送信してください</string>
+  <string name="wisdom_error_password_too_simple">パスワードが簡単すぎるので、より複雑なパスワードを設定してください</string>
+  <string name="wisdom_error_send_code_frequently">認証コードの送信が頻繁すぎる！</string>
+  <string name="wisdom_error_email_has_verifyed">Eメールが検証されました</string>
+  <string name="wisdom_error_phone_has_verifyed">電話番号が確認されました</string>
+  <string name="wisdom_error_email_not_register">このメールアドレスは登録されていません。先に登録してください。</string>
+  <string name="wisdom_error_phone_not_register">この電話番号は登録されていません。先に登録してください。</string>
+  <string name="wisdom_error_first_login_need_verify">デバイスの初回ログインには検証が必要</string>
+  <string name="wisdom_error_first_login_unverify">初回ログインに検証は必要ありません</string>
+  <string name="wisdom_error_password_error">入力したパスワードが間違っています。再度入力してください。</string>
+  <string name="wisdom_error_user_not_exist">ユーザーが存在しません</string>
+  <string name="wisdom_error_inviter_params">招待パラメータエラー</string>
+  <string name="wisdom_error_inviter_not_exist">招待者は存在しません</string>
+  <string name="wisdom_error_inviter_already_exist">招待者はすでに存在します</string>
+  <string name="wisdom_error_inviter_is_self">招待者はあなた自身にしてはいけません</string>
+  <string name="wisdom_error_device_id_empty">デバイスIDを空にすることはできません</string>
+  <string name="wisdom_error_lost_login_info">ログイン情報が失われました</string>
+  <string name="wisdom_error_invalid_authorization">権限無効</string>
+  <string name="wisdom_error_invalid_token">無効なToken</string>
+  <string name="wisdom_error_phone_error">電話番号が間違っている</string>
+  <string name="wisdom_error_email_exists">このメールアドレスは他のユーザーによってバインドされています</string>
+  <string name="wisdom_error_no_data">データなし</string>
+  <string name="wisdom_error_request_fail">ネットワークに接続できません</string>
+  <string name="wisdom_error_reload">再ロード</string>
+  <string name="wisdom_error_empty">空にできません</string>
+</resources>

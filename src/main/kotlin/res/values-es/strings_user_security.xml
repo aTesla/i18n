@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_security_title">Centro de seguridad</string>
+  <string name="wisdom_user_security_hint_title">Complete todas las configuraciones de seguridad</string>
+  <string name="wisdom_user_security_hint_desc">Se recomienda que complete todas las configuraciones de seguridad para proteger su cuenta</string>
+  <string name="wisdom_user_security_login_password_key">Contraseña de inicio de sesión</string>
+  <string name="wisdom_user_security_login_password_desc">Establecer su contraseña de inicio de sesión</string>
+  <string name="wisdom_user_security_pay_password_key">Contraseña de retiro</string>
+  <string name="wisdom_user_security_pay_password_desc">Establecer su contraseña de retiro</string>
+  <string name="wisdom_user_security_mpc_key_backup_key">Copia de seguridad de clave MPC</string>
+  <string name="wisdom_user_security_mpc_key_backup_desc">Haga una copia de seguridad de su clave MPC</string>
+  <string name="wisdom_user_security_change_phone_key">Verificación telefónica</string>
+  <string name="wisdom_user_security_change_phone_desc">Verificar o cambiar su número de móvil</string>
+  <string name="wisdom_user_security_change_email_key">Verificación de correo electrónico</string>
+  <string name="wisdom_user_security_change_email_desc">Verificar o cambiar su correo electrónico</string>
+  <string name="wisdom_user_security_freeze_key">Congelar la billetera</string>
+  <string name="wisdom_user_security_freeze_desc">Su billetera quedará congelada temporalmente. Inicie sesión nuevamente si necesita descongelarla</string>
+  <string name="wisdom_user_security_freeze_status_1">Normal</string>
+  <string name="wisdom_user_security_freeze_status_2">Congelar</string>
+  <string name="wisdom_user_security_devices_key">Gestión de dispositivos</string>
+  <string name="wisdom_user_security_devices_desc">Administrar y ver la actividad de inicio de sesión reciente y la información del dispositivo</string>
+  <string name="hl_device_management">Gestionar dispositivos</string>
+  <string name="hl_device_check_title">Ver información sobre últimos inicios de sesión</string>
+  <string name="hl_device_check_subtitle">Ver información sobre últimos inicios de sesión y gestionar el acceso a billetera</string>
+  <string name="hl_device_unnormal">Detectada actividad sospechosa</string>
+  <string name="hl_device_unnormal_desc">Si detecta actividad sospechosa, cambie su contraseña. Le desconectaremos de todos los dispositivos para garantizar la seguridad.</string>
+  <string name="hl_device_name">Nombre del dispositivo</string>
+  <string name="hl_device_last_online">Última vez en línea</string>
+  <string name="hl_device_recent_login">Último tiempo de inicio de sesión</string>
+  <string name="hl_device_login_location">Ubicación de inicio de sesión</string>
+  <string name="hl_device_ip">Dirección IP</string>
+  <string name="hl_device_current">Dispositivo actual</string>
+  <string name="hl_device_remove">Eliminar</string>
+  <string name="hl_device_alert_title">¿Eliminar este dispositivo?</string>
+  <string name="hl_device_alert_message">Después de la eliminación, la cuenta se cerrará sesión automáticamente en este dispositivo.</string>
+  <string name="hl_device_revise_login_pwd">Cambiar la contraseña de iniciar sesión</string>
+</resources>

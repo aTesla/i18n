@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_quant_fund">Quant Fund</string>
+  <string name="wisdom_selected_products">Selected Products</string>
+  <string name="wisdom_arb_strategy">Neutral Arb Strategy</string>
+  <string name="wisdom_progres_stable">Steady Progress</string>
+  <string name="wisdom_stable_low_vol">Stable Low Vol</string>
+  <string name="wisdom_30days_apr">30D Est. Annualized</string>
+  <string name="wisdom_year_apr">Year-to-Date Annualized Return</string>
+  <string name="wisdom_lock_day">Lock-Up Days</string>
+  <string name="wisdom_flex">Flexible Subscription and Redemption</string>
+  <string name="wisdom_choose_quant_reason">Reasons to choose Wisdomuae Quantitative Fund?</string>
+  <string name="wisdom_quant_reason_1">100% Reserve fund certificate</string>
+  <string name="wisdom_quant_reason_1_desc">100% of our reserves are audited by the Merkle tree. You can verify whether the investment funds are exactly in the Merkle tree.</string>
+  <string name="wisdom_quant_reason_2">Flexible Subscription and Redemption, No Lock-up Period</string>
+  <string name="wisdom_quant_reason_2_desc">Quantitative fund products break the rules of traditional funds. Our quantitative funds have no lock-up period and you can subscribe and redeem at any time.</string>
+  <string name="wisdom_quant_reason_3">Perfect risk control system</string>
+  <string name="wisdom_quant_reason_3_desc">Real-time tracking of net value ensures high transparency, and the strategy is only executed on our platform. The platform monitors a series of indicators such as exposure and drawdown to ensure that it is a complete neutral hedging strategy.</string>
+  <string name="wisdom_goal_user">Target Users</string>
+  <string name="wisdom_goal_user_1">Low risk enthusiast</string>
+  <string name="wisdom_goal_user_2">High Net Worth Users</string>
+  <string name="wisdom_goal_user_3">Investment Clients</string>
+  <string name="wisdom_largest_retrace">Historical Maximum Daily Drawdown</string>
+  <string name="wisdom_operration_days">Days in Operation</string>
+  <string name="wisdom_operration_days_desc">%sDays</string>
+  <string name="wisdom_day_retrace">Within %s Daily</string>
+  <string name="wisdom_performance_trends">Performance Trend</string>
+  <string name="wisdom_purchase_method">Please contact the dedicated fund manager for the subscription amount and method</string>
+  <string name="wisdom_contact_fouder">Contact your dedicated fund manager</string>
+  <string name="wisdom_trading_rules">Trading Rules</string>
+  <string name="wisdom_trading_rules_desc">•Quantitative funds are financial products that achieve advanced returns through neutral arbitrage strategies. •Interest accrual rules: Interest will be calculated upon successful subscription. •Subscription rules: Check profits and losses in real time after subscription. •Redemption rules: Instant payment after redemption. •Quantitative fund products can be subscribed and redeemed at any time without a closed period. •Management fee: Free for a limited time. •If the position is held for less than 48 hours and then exited, the profit cannot be settled. If there is a loss, it will be settled based on the actual net value. •When you exit a position after holding it for more than 48 hours, 30% of the profit will be charged as a platform custody fee. If there is a loss, it will be settled based on the actual net value.</string>
+  <string name="wisdom_strategy_introduction">Strategy Introduction</string>
+  <string name="wisdom_spot_advantages">Advantages of spot arbitrage</string>
+  <string name="wisdom_spot_advantages_desc">•Regardless of whether the price of the currency goes up or down, the spot and contract positions will offset each other, and there will be no loss due to the rise and fall of the currency price. •The income from futures-spot arbitrage comes from the funding rate, and the expenditure is only the transaction fees for opening and closing positions, and the drawdown is relatively low. •When the market is in a bull market, the funding rate is usually pushed up to a very high level, and it is risky to follow up and go long at this time. However, we can earn the benefits of the funding rate through spot-futures arbitrage.</string>
+  <string name="wisdom_contact_funder_method">Please contact your dedicated fund manager via:</string>
+  <string name="wisdom_call_phone">Call</string>
+  <string name="wisdom_copy_email">Copy mailbox</string>
+  <string name="wisdom_copy_suc_dup">Copied to clipboard</string>
+  <string name="wisdom_year_rate">Annualized Return Rate</string>
+  <string name="wisdom_net_worth">Net Asset Value</string>
+</resources>

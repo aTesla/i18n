@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_dapp_search_placeholder">Buscar nombre de DApp</string>
+  <string name="hl_dapp_card_title">Comisiones bajas</string>
+  <string name="hl_dapp_card_subtitle">Transacciones de cadenas cruzadas, llegada en tiempo real, comunicación encriptada</string>
+  <string name="hl_dapp_recent_use">Uso óptimo</string>
+  <string name="hl_dapp_featured"></string>
+  <string name="hl_dapp_trending">Tendencia</string>
+  <string name="hl_dapp_top">Hot</string>
+  <string name="hl_dapp_alert_title">Advertencia de seguridad</string>
+  <string name="hl_dapp_alert_msg">Está a punto de visitar un DApp de terceros. Al realizar una transferencia, asegúrese de comprender los riesgos financieros y operar con precaución. Wisdomuae no se hace responsable de cualquier pérdida causada por el uso de este DApp.</string>
+  <string name="hl_dapp_alert_not_tip">No volver a recordar</string>
+  <string name="hl_dapp_history_search">Búsquedas pasadas</string>
+  <string name="hl_dapp_search_no_result">No hay resultado</string>
+</resources>

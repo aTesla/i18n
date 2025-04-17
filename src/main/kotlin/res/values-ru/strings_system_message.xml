@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_system_message">Системные сообщения</string>
+  <string name="hl_exchange_records">История транзакций</string>
+  <string name="hl_plateform_notice">Объявления платформы</string>
+  <string name="hl_market_activity">Рыночные тенденции</string>
+  <string name="hl_notificaiton_exchange">Уведомление о поступлении перевода</string>
+  <string name="hl_notification_recharge">Уведомление о поступлении пополнения</string>
+  <string name="hl_notification_compony">Официальное уведомление</string>
+  <string name="hl_notification_get_money">Уведомление о поступлении средств</string>
+  <string name="wisdom_message">Сообщения</string>
+</resources>

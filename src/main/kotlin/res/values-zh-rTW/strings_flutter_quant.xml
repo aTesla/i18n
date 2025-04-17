@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_quant_fund">量化基金</string>
+  <string name="wisdom_selected_products">精選商品</string>
+  <string name="wisdom_arb_strategy">中性套利策略</string>
+  <string name="wisdom_progres_stable">穩中求進</string>
+  <string name="wisdom_stable_low_vol">穩健低波</string>
+  <string name="wisdom_30days_apr">近30日預估年化</string>
+  <string name="wisdom_year_apr">今年以來年化報酬率</string>
+  <string name="wisdom_lock_day">鎖倉天數</string>
+  <string name="wisdom_flex">申贖靈活</string>
+  <string name="wisdom_choose_quant_reason">選擇 Wisdomuae 量化基金的理由?</string>
+  <string name="wisdom_quant_reason_1">100%儲備金證明</string>
+  <string name="wisdom_quant_reason_1_desc">我們100%儲備金通過梅克爾樹審計，您可驗證投資資金是否確切存在於梅克爾樹中</string>
+  <string name="wisdom_quant_reason_2">靈活申贖，無鎖倉期</string>
+  <string name="wisdom_quant_reason_2_desc">量化基金產品打破了傳統基金的規則，我們的量化基金無鎖倉期，您可以隨時申購和贖回</string>
+  <string name="wisdom_quant_reason_3">完善的風控體系</string>
+  <string name="wisdom_quant_reason_3_desc">即時追蹤淨值，確保高度透明，且策略僅在我們平台執行平台會對敞口和回撤等一系列指標進行監控，確保其屬於完整的中性對沖策略</string>
+  <string name="wisdom_goal_user">目標用戶</string>
+  <string name="wisdom_goal_user_1">低風險愛好者</string>
+  <string name="wisdom_goal_user_2">高淨值用戶</string>
+  <string name="wisdom_goal_user_3">投資客戶</string>
+  <string name="wisdom_largest_retrace">史上最大回撤</string>
+  <string name="wisdom_operration_days">運行天數</string>
+  <string name="wisdom_operration_days_desc">%s天</string>
+  <string name="wisdom_day_retrace">日回撤%s以內</string>
+  <string name="wisdom_performance_trends">業績走勢</string>
+  <string name="wisdom_purchase_method">申購金額及方式請聯絡專屬基金經理</string>
+  <string name="wisdom_contact_fouder">聯絡專屬基金經理</string>
+  <string name="wisdom_trading_rules">交易規則</string>
+  <string name="wisdom_trading_rules_desc">•量化基金是透過中性套利策略實現進階收益的金融理財產品。 •起息規則:申購成功即計息。 •申購規則:申購後即時查看盈虧。 •贖回規則:贖回後即時到帳。 •量化基金產品可隨時申贖，無封閉期。 •管理費:限時免費。 •持倉低於48h退出時獲利收益無法結算，若有虧損的情況，則以實際淨值結算。 •持倉超過48h退出時會收取獲利部分的30%作為平台託管費，若有虧損的情況則以實際淨值結算。</string>
+  <string name="wisdom_strategy_introduction">策略介紹</string>
+  <string name="wisdom_spot_advantages">期現套利的優點</string>
+  <string name="wisdom_spot_advantages_desc">•無論幣價漲跌，現貨和合約部位都會正負相抵，不會因為幣價漲跌從而導致虧損•期現套利的收益來自資金費率，支出僅為開倉和平倉交易手續費，回撤較低。 •當市場處於多頭市場時，通常資金費率會被推升到極高，此時再跟進做多需要承擔不少風險。然而我們可以透過過期現套利的方式，賺取其資金費率的收益。</string>
+  <string name="wisdom_contact_funder_method">請透過以下方式聯絡您的專屬基金經理</string>
+  <string name="wisdom_call_phone">撥打電話</string>
+  <string name="wisdom_copy_email">複製信箱</string>
+  <string name="wisdom_copy_suc_dup">已複製到剪切板</string>
+  <string name="wisdom_year_rate">年化報酬率</string>
+  <string name="wisdom_net_worth">淨值</string>
+</resources>

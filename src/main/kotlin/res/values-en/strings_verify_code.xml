@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_verify_code_email_title">We just sent a verification code to your email</string>
+  <string name="wisdom_verify_code_phone_title">We just sent a verification code to your phone</string>
+  <string name="wisdom_verify_code_new_email_title">We just sent a verification code to your new email address</string>
+  <string name="wisdom_verify_code_new_phone_title">We just sent a verification code to your new phone</string>
+  <string name="wisdom_verify_code_register">Enter the code we sent to you at %1$s to register. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_login">Enter the code we sent to you at %1$s to log in. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_reset_login_password">Enter the code we sent to you at %1$s to reset. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_change_payment_password">Enter the code we sent to you at %1$s to change your withdrawl password. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_change_email">Enter the code we sent to you at %1$s to rebind. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_change_new_email">Enter the code we sent to you at %1$s to change. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_change_phone">Enter the code we sent to you at %1$s to rebind. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_change_new_phone">Enter the code we sent to you at %1$s to change. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_freeze">Enter the code we sent to you at %1$s to freeze the account. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_unfreeze">Enter the code we sent to you at %1$s to unfreeze your account. The code will expire after 10 minutes.</string>
+  <string name="wisdom_verify_code_error">Wrong code. Try again.</string>
+  <string name="wisdom_verify_code_count_down">Resend after %1$s</string>
+  <string name="wisdom_verify_code_resend">Reacquire</string>
+  <string name="wisdom_verify_code_next_step">Next step</string>
+  <string name="wisdom_verify_code_submit">Submit</string>
+</resources>

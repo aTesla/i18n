@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">Refresh</string>
+  <string name="wisdom_scan_title">Scan QR Code</string>
+  <string name="wisdom_scan_tip">Align QR code within frame to scan</string>
+  <string name="wisdom_scan_upload">Upload photos</string>
+  <string name="wisdom_scan_invalid">Invalid QR Code</string>
+  <string name="wisdom_email">Email</string>
+  <string name="hl_scan_tip">Scan Address QR Code/WalletConnect/URL</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_info_title">Detalles</string>
+  <string name="wisdom_user_info_name">Nombre</string>
+  <string name="wisdom_user_info_email">Correo electrónico</string>
+  <string name="wisdom_user_info_uid">WID</string>
+  <string name="wisdom_user_info_birthday">Fecha de nacimiento</string>
+  <string name="wisdom_user_info_country">País/Región</string>
+  <string name="wisdom_user_info_address">Dirección detallada</string>
+  <string name="wisdom_user_info_phone">Número de teléfono</string>
+  <string name="wisdom_user_info_identified">Autenticación de identidad</string>
+  <string name="wisdom_user_info_post_code">Código Postal</string>
+  <string name="wisdom_user_info_default_value">--</string>
+  <string name="wisdom_user_info_btn">Verificar información personal</string>
+  <string name="wisdom_user_info_identified_fail_reason">Utilice Face ID para la autenticación</string>
+  <string name="wisdom_user_info_identified_fail">Error de autenticación</string>
+  <string name="wisdom_user_info_identified_passcode_desc">Utilice la contraseña para la autenticación</string>
+  <string name="wisdom_user_info_identified_no_passowrd">No hay contraseña de teléfono móvil, por favor, establézcala</string>
+</resources>

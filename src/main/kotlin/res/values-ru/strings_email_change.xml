@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_email_change_step1_title">Подтверждение электронной почты</string>
+  <string name="wisdom_email_change_step1_card_title">Перепривязка вашей электронной почты путем получения кода подтверждения</string>
+  <string name="wisdom_email_change_step1_card_desc">Если вы хотите изменить вашу электронную почту, вы можете автоматически сделать это, получив коды подтверждения на ваш мобильный телефон и электронную почту.</string>
+  <string name="wisdom_email_change_step1_a1">Получите коды на зарегистрированный телефон и электронную почту для перепривязки на новую электронную почту</string>
+  <string name="wisdom_email_change_step1_a2">Отправка кодов на почту и телефон.</string>
+  <string name="wisdom_email_change_step1_b1">Если вы не можете получить код на старую электронную почту или мобильный номер, запросите изменение электронной почты у службы поддержки</string>
+  <string name="wisdom_email_change_step1_b2">Начало процесса обслуживания клиентов</string>
+  <string name="wisdom_email_change_step4_title">Проверка новой почты</string>
+  <string name="wisdom_email_change_step4_card_title">Последний шаг проверки вашей новой электронной почт</string>
+  <string name="wisdom_email_change_step4_card_desc">Введите правильный адрес новой электронной почты и получите код подтверждения</string>
+  <string name="wisdom_email_change_step4_old_email">Ваш текущий адрес электронной почты:</string>
+  <string name="wisdom_email_change_step4_email_label">Новая электронная почта</string>
+  <string name="wisdom_email_change_step4_email_placeholder">Введите адрес новой электронной почты</string>
+  <string name="wisdom_email_change_step4_send_verify_code">Отправка кода подтверждения</string>
+  <string name="wisdom_email_change_step6_title">Новая электронная почта успешно привязана</string>
+  <string name="wisdom_email_change_step6_back_home">Возвращение на главную страницу</string>
+  <string name="wisdom_email_change_a">Проверка электронной почты</string>
+  <string name="wisdom_email_change_b">Изменение вашей электронной почты</string>
+  <string name="wisdom_email_change_c">Перед обновлением вашей электронной почты необходимо выполнить ряд условий</string>
+  <string name="wisdom_email_change_d">Сделайте селфи с паспортом или удостоверением личности</string>
+  <string name="wisdom_email_change_e">Введите и подтвердите адрес вашей новой электронной почты</string>
+  <string name="wisdom_email_change_f">Мы проверим вашу информацию и обновим вашу электронную почту</string>
+  <string name="wisdom_email_change_g">Это обычно занимает 10 минут, но может занять до трех дней.</string>
+  <string name="wisdom_email_change_h">Продолжение</string>
+  <string name="wisdom_email_change_i">Загрузите и просмотрите ваше селфи</string>
+  <string name="wisdom_email_change_j">Мы принимаем только паспорт, удостоверение личности или водительское удостоверение для подтверждения вашей личности.</string>
+  <string name="wisdom_email_change_k">Ваше селфи должно показывать:</string>
+  <string name="wisdom_email_change_l1">Ваше полное лицо и документ удостоверяющий личность.</string>
+  <string name="wisdom_email_change_l2">Имя и фамилию на вашем документе удостоверяющем личность</string>
+  <string name="wisdom_email_change_l3">Четкое изображение документа удостоверяющего личность</string>
+  <string name="wisdom_email_change_m">Пример селфи:</string>
+  <string name="wisdom_email_change_n">Селфи не прошло проверку, загрузите заново</string>
+  <string name="wisdom_email_change_o">Заявка на подтверждение электронной почты успешно подана</string>
+  <string name="wisdom_email_change_p">Мы проверим вашу информацию и обновим вашу электронную почту, о результате изменений вы будете уведомлены через системные сообщения или СМС.</string>
+  <string name="wisdom_email_change_q">Это обычно занимает 10 минут, но может занять до трех дней</string>
+  <string name="wisdom_email_change_r">Загрузка фото</string>
+</resources>

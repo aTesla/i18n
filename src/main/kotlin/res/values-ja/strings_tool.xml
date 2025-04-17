@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">リフレッシュ</string>
+  <string name="wisdom_scan_title">QRコードをスキャンする</string>
+  <string name="wisdom_scan_tip">スキャン時にQRコードをフォーカスエリア内に収まるようにしてください</string>
+  <string name="wisdom_scan_upload">画像をアップロード</string>
+  <string name="wisdom_scan_invalid">QRコードが無効です</string>
+  <string name="wisdom_email">メール</string>
+  <string name="hl_scan_tip">アドレスQRコード/WalletConnect/URLをスキャンする</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_login_step1_pwd_enter_again">Wrong password. Try again.</string>
+  <string name="wisdom_login_step1_title">Log in</string>
+  <string name="wisdom_login_step1_email">E-mail</string>
+  <string name="wisdom_login_step1_phone">Phone number</string>
+  <string name="wisdom_login_step1_pwd">Password</string>
+  <string name="wisdom_login_step1_login">Log in</string>
+  <string name="wisdom_login_step1_forget">Forget the password?</string>
+  <string name="wisdom_login_step1_register">Go to register</string>
+  <string name="wisdom_login_step1_privacy">By logging in/registering, you agree to the User Agreement and Privacy Policy</string>
+  <string name="wisdom_login_step1_email_label">Enter email address</string>
+  <string name="wisdom_login_step1_phone_label">Enter phone number</string>
+  <string name="wisdom_login_step1_password_label">Enter password</string>
+  <string name="wisdom_login_step1_email_supporting_text">Please enter a valid email address</string>
+  <string name="wisdom_login_step1_password_supporting_text">Please enter a valid password</string>
+  <string name="wisdom_login_step2_title">Log in</string>
+  <string name="wisdom_login_step2_desc">Please select a verification method</string>
+  <string name="wisdom_login_step2_phone_receive">Phone</string>
+  <string name="wisdom_login_step2_email_receive">Email</string>
+  <string name="wisdom_login_step2_privacy_policy">By logging in/registering, you agree to the User Agreement and Privacy Policy</string>
+  <string name="wisdom_login_step3_phone_title">We just sent a verification code to your phone</string>
+  <string name="wisdom_login_step3_phone_desc">Enter the code we sent to you at %1$s to log in. The code will expire after 10 minutes.</string>
+  <string name="wisdom_login_step3_phone_error">Wrong code. Try again.</string>
+  <string name="wisdom_login_step3_phone_count_down">Resend after %1$s</string>
+  <string name="wisdom_login_step3_phone_resend">Get new code</string>
+  <string name="wisdom_login_step3_phone_submit">Submit</string>
+  <string name="wisdom_login_step3_email_title">We just sent a verification code to your email</string>
+  <string name="wisdom_login_step3_email_desc">Enter the code we sent to you at %1$s to log in. The code will expire after 10 minutes.</string>
+  <string name="wisdom_login_step3_email_error">Wrong code. Try again.</string>
+  <string name="wisdom_login_step3_email_count_down">Resend after %1$s</string>
+  <string name="wisdom_login_step3_email_resend">Get new code</string>
+  <string name="wisdom_login_step3_email_submit">Submit</string>
+  <string name="wisdom_login_step4_skip">Skip</string>
+  <string name="wisdom_login_step4_title">Face ID authentication</string>
+  <string name="wisdom_login_step4_desc">To improve convenience, Face ID is recommended.</string>
+  <string name="wisdom_login_step4_action">Click for Face ID authentication</string>
+  <string name="wisdom_fingerprint_login_welcome">Hello.%1$s</string>
+  <string name="wisdom_fingerprint_login_action">Click for Face ID authentication</string>
+  <string name="wisdom_fingerprint_login_more">More options</string>
+  <string name="wisdom_fingerprint_login_more_item_1">Password</string>
+  <string name="wisdom_fingerprint_login_more_item_2">Add/Register another account</string>
+  <string name="wisdom_password_login_welcome">Hello.%1$s</string>
+  <string name="wisdom_password_login_password_hint">Enter password</string>
+  <string name="wisdom_password_login_password_login">Log in</string>
+  <string name="wisdom_password_login_more_item_1">Log in with Face ID</string>
+  <string name="wisdom_password_login_quick_find_password">Forgot password</string>
+  <string name="wisdom_password_login_more">More options</string>
+  <string name="wisdom_login_chose_country">Country</string>
+  <string name="wisdom_login_search_country">Search by country code or name</string>
+  <string name="wisdom_login_enter_email">Enter email address</string>
+  <string name="wisdom_login_account_deleted_error">Account deleted and cannot log in.</string>
+  <string name="hl_login_please_enter_pwd">Please enter password</string>
+</resources>

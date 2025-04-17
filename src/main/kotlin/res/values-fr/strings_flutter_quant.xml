@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_quant_fund">Fonds quantitatif</string>
+  <string name="wisdom_selected_products">Produits vedettes</string>
+  <string name="wisdom_arb_strategy">"Stratégie d'arbitrage neutre"</string>
+  <string name="wisdom_progres_stable">En progression constante</string>
+  <string name="wisdom_stable_low_vol">Faible volatilité</string>
+  <string name="wisdom_30days_apr">"Taux d'intérêt annualisé estimé à près de 30 jours"</string>
+  <string name="wisdom_year_apr">"Rendement annualisé depuis le début de l'année"</string>
+  <string name="wisdom_lock_day">"Nombre de jours d'enfermement"</string>
+  <string name="wisdom_flex">Remboursement flexible</string>
+  <string name="wisdom_choose_quant_reason">Pourquoi choisir Wisdomuae Quantitative Fund ?</string>
+  <string name="wisdom_quant_reason_1">Certificat de réserve à 100%</string>
+  <string name="wisdom_quant_reason_1_desc">100 % de nos réserves sont contrôlées par Merkel Tree. Vous pouvez vérifier que les fonds se trouvent à Merkel Tree.</string>
+  <string name="wisdom_quant_reason_2">Remboursement flexible sans période de blocage</string>
+  <string name="wisdom_quant_reason_2_desc">Les fonds quantitatifs brisent les règles traditionnelles. Pas de période de blocage, vous pouvez souscrire et racheter à tout moment.</string>
+  <string name="wisdom_quant_reason_3">Un système de contrôle des risques parfait</string>
+  <string name="wisdom_quant_reason_3_desc">"La valeur est suivie en temps réel afin de garantir un degré élevé de transparence et la stratégie est uniquement contrôlée sur la plateforme pour une série de mesures telles que l'exposition et le retracement afin de garantir qu'il s'agit d'une stratégie de couverture totalement neutre."</string>
+  <string name="wisdom_goal_user">Utilisateur cible</string>
+  <string name="wisdom_goal_user_1">Les amateurs à faible risque</string>
+  <string name="wisdom_goal_user_2">Utilisateur fortuné</string>
+  <string name="wisdom_goal_user_3">Investisseur</string>
+  <string name="wisdom_largest_retrace">"Le plus grand rendement de l'histoire"</string>
+  <string name="wisdom_operration_days">"Jours d'ouverture"</string>
+  <string name="wisdom_operration_days_desc">%s jours</string>
+  <string name="wisdom_day_retrace">Retracement en %s</string>
+  <string name="wisdom_performance_trends">Tendance des performances</string>
+  <string name="wisdom_purchase_method">Pour connaître le montant et la méthode de souscription, veuillez contacter notre gestionnaire de fonds dédié.</string>
+  <string name="wisdom_contact_fouder">Contacter le gestionnaire de fonds dédié</string>
+  <string name="wisdom_trading_rules">Règles de négociation</string>
+  <string name="wisdom_trading_rules_desc">"-Le Fonds quantitatif est un produit financier qui permet d'obtenir des rendements progressifs grâce à une stratégie d'arbitrage neutre. -Règle de départ des intérêts : les intérêts sont cumulés dès que la souscription est réussie. -Règle de souscription : vue en temps réel des profits et des pertes après la souscription. -Règles de remboursement : remboursement instantané. -Les produits des fonds quantitatifs peuvent être rachetés à tout moment, sans période de fermeture. -Frais de gestion : gratuit pour une durée limitée. -Les positions inférieures à 48h de gain de sortie ne peuvent pas être réglées, s'il y a une perte, la valeur nette réelle du règlement. -Les positions supérieures à 48h seront facturées 30% de la portion de profit de la sortie en tant que frais d'hébergement de la plateforme, s'il y a une perte, la valeur nette réelle du règlement."</string>
+  <string name="wisdom_strategy_introduction">Stratégie</string>
+  <string name="wisdom_spot_advantages">"Avantages de l'arbitrage entre espèces et contrats à terme"</string>
+  <string name="wisdom_spot_advantages_desc">"-Les gains de l'arbitrage en espèces proviennent du taux de financement, et les seules dépenses sont les frais de transaction d'ouverture et de clôture, qui ont un faible retracement. -Lorsque le marché est à la hausse, le taux de financement est généralement poussé à un niveau très élevé, ce qui oblige à prendre beaucoup de risques sur le long terme. Toutefois, nous pouvons obtenir le rendement du taux de financement par le biais de l'arbitrage de trésorerie."</string>
+  <string name="wisdom_contact_funder_method">"Veuillez contacter votre gestionnaire de fonds à l'adresse suivante"</string>
+  <string name="wisdom_call_phone">Appel</string>
+  <string name="wisdom_copy_email">"Copier l'e-mail"</string>
+  <string name="wisdom_copy_suc_dup">Copié dans le presse-papiers</string>
+  <string name="wisdom_year_rate">Taux de rendement annualisé</string>
+  <string name="wisdom_net_worth">Valeur nette</string>
+</resources>

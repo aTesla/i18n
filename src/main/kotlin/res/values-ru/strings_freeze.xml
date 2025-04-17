@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_freeze_step1_title">Заморока аккаунт</string>
+  <string name="wisdom_freeze_step1_card_title">Будьте осторожны с заморозкой аккаунта</string>
+  <string name="wisdom_freeze_step1_card_desc">После заморозки использование всех транзакционных функций вашего аккаунта будет запрещено. Для разморозки сначала необходимо войти в систему.</string>
+  <string name="wisdom_freeze_step1_card_sub_title">После заморозки вашего аккаунта:</string>
+  <string name="wisdom_freeze_step1_card_sub_desc1">Использование всех функций приложения этого аккаунта будет запрещено.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc2">Использование всех функции этого аккаунта будет запрещено</string>
+  <string name="wisdom_freeze_step1_card_sub_desc3">Все авторизованные устройства этого аккаунта будут удалены.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc4">Все предстоящие операции вывода средств будут отменены.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc5">Текущие транзакции, такие как смарт-контракты, не будут автоматически отменены.</string>
+  <string name="wisdom_freeze_step1_question">Почему вы хотите заморозить аккаунт?</string>
+  <string name="wisdom_freeze_step1_answer1">Аккаунт небезопасен, я хочу временно его заморозить.</string>
+  <string name="wisdom_freeze_step1_answer2">Я больше не хочу использовать этот аккаунт.</string>
+  <string name="wisdom_freeze_step1_answer3">Я уже использую аккаунт на другой платформе.</string>
+  <string name="wisdom_freeze_step1_answer4">Другие причины</string>
+  <string name="wisdom_freeze_step1_answer4_placeholder">Укажите подробно</string>
+  <string name="wisdom_freeze_step1_radio_group">Выберите способ получения кода подтверждения</string>
+  <string name="wisdom_freeze_step1_radio1">Подтверждение по телефону</string>
+  <string name="wisdom_freeze_step1_radio2">Подтверждение по электронной почте</string>
+  <string name="wisdom_freeze_step1_agreement">Я понимаю последствия заморозки аккаунта и согласен, что после заморозки остаток на счете будет недоступен для вывода</string>
+  <string name="wisdom_freeze_step1_go_on">Продолжение</string>
+  <string name="wisdom_freeze_step2_title">Мы только что отправили вам код на вашу электронную почту</string>
+  <string name="wisdom_freeze_step2_desc">Для заморозки аккаунта введите код, который мы отправили на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_freeze_step2_email_error">Введенный код неверен, введите заново</string>
+  <string name="wisdom_freeze_step2_email_count_down">Переотправка через %1$s</string>
+  <string name="wisdom_freeze_step2_email_resend">Повторное получение</string>
+  <string name="wisdom_freeze_step2_next_step">Следующий шаг</string>
+  <string name="wisdom_freeze_step3_title">Мы только что отправили вам код на ваш телефон</string>
+  <string name="wisdom_freeze_step3_desc">Для заморозки аккаунта введите код, который мы отправили на ваш %1$s. Код будет действителен в течение 10 минут.</string>
+  <string name="wisdom_freeze_step3_phone_error">Введенный код неверен, введите заново</string>
+  <string name="wisdom_freeze_step3_phone_count_down">Переотправка через %1$s</string>
+  <string name="wisdom_freeze_step3_phone_resend">Повторное получение</string>
+  <string name="wisdom_freeze_step3_submit">Отправка</string>
+  <string name="wisdom_freeze_step5_title">Аккаунт успешно заморожен</string>
+  <string name="wisdom_freeze_step5_desc">Использование всех ваших транзакционных функций было запрещено, для разморозки сначала необходимо войти в систему</string>
+  <string name="wisdom_freeze_step5_back_login">Возвращение на страницу входа</string>
+  <string name="wisdom_unfreeze_title">Разморозка</string>
+  <string name="wisdom_unfreeze_step5_title">Заявка на разморозку успешно подана</string>
+  <string name="wisdom_unfreeze_step5_desc">Ваша заявка на разморозку успешно подана, мы свяжемся с вами в течение 24 часов, пожалуйста, оставайтесь на связи и ждите нашего звонка</string>
+  <string name="wisdom_unfreeze_step5_back_login">Возвращение на главную страницу</string>
+  <string name="wisdom_unfreeze_step5_device_verify_success">Устройство успешно подтверждено</string>
+  <string name="wisdom_unfreeze_step5_unfreezed_success">Кошелёк успешно заморожен</string>
+  <string name="wisdom_unfreeze_step5_restore_success">Все ваши транзакционные функции и возможности восстановлены</string>
+  <string name="hl_freeze_estimate_total_amount">Оцененная общая сумма</string>
+  <string name="hl_freeze_alert_desc">Ваш кошелек в настоящее время заморожен, хотите его разморозить?</string>
+  <string name="hl_freeze_alert_unfreeze">Я хочу заморозить</string>
+  <string name="hl_freeze_alert_continue">Продолжить заморозку</string>
+  <string name="hl_freeze_alert_verify">Ыыберите способ получения кода подтверждения</string>
+  <string name="hl_freeze_alert_phone">Получение по мобильному телефону</string>
+  <string name="hl_freeze_alert_email">Получение по электронной почте</string>
+</resources>

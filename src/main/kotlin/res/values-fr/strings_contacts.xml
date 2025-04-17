@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_contacts_delete">Supprimer</string>
+  <string name="wisdom_contacts_delete_suc">Supprimé avec succès</string>
+  <string name="wisdom_contacts_delete_info">Êtes-vous sûr de vouloir le supprimer ?</string>
+  <string name="wisdom_contacts_delete_notice">Suggestion</string>
+  <string name="wisdom_contacts_revise">Modifier</string>
+  <string name="wisdom_contacts_revise_suc">Modifié avec succès</string>
+  <string name="wisdom_contacts_save">Sauvegarder</string>
+  <string name="wisdom_contacts_add_suc">Ajouter avec succès</string>
+  <string name="wisdom_contacts_select_label">Sélectionner une étiquette</string>
+  <string name="wisdom_contacts_email_error">E-mail incorrect</string>
+  <string name="wisdom_contacts_title">Bénéficiaire</string>
+  <string name="wisdom_contacts_tab0">Monnaie fiduciaire</string>
+  <string name="wisdom_contacts_tab1">Crypto-monnaie</string>
+  <string name="wisdom_contacts_action_add">Ajouter</string>
+  <string name="wisdom_contacts_search_placeholder">Recherche par nom, numéro de téléphone portable, e-mail, ID</string>
+  <string name="wisdom_contacts_empty_str1">Ajoutez votre bénéficiaire</string>
+  <string name="wisdom_contacts_empty_str2">Un accès plus sûr et plus pratique à tous les types de services financiers</string>
+  <string name="wisdom_contacts_empty_str3">Ajoutez votre bénéficiaire</string>
+  <string name="wisdom_contacts_fiat_name_label">Nom du bénéficiaire (nom complet)</string>
+  <string name="wisdom_contacts_fiat_name_placeholder">Entrer le nom du bénéficiaire</string>
+  <string name="wisdom_contacts_fiat_bank_num_label">Numéro de la carte bancaire</string>
+  <string name="wisdom_contacts_fiat_bank_num_placeholder">Entrer le numéro de la carte bancaire</string>
+  <string name="wisdom_contacts_fiat_email_label">L’adresse e-mail</string>
+  <string name="wisdom_contacts_fiat_email_placeholder">"Veuillez entrer l'adresse e-mail du bénéficiaire"</string>
+  <string name="wisdom_contacts_fiat_phone_label">Le numéro de téléphone portable</string>
+  <string name="wisdom_contacts_fiat_phone_placeholder">Veuillez entrer le numéro de téléphone portable du bénéficiaire</string>
+  <string name="wisdom_contacts_fiat_uid_label">Wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_uid_placeholder">Veuillez entrer Wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_country_label">Pays</string>
+  <string name="wisdom_contacts_fiat_country_placeholder">Veuillez sélectionner votre pays</string>
+  <string name="wisdom_contacts_fiat_coin_label">Type de monnaie</string>
+  <string name="wisdom_contacts_fiat_coin_placeholder">Veuillez sélectionner votre type de monnaie</string>
+  <string name="wisdom_contacts_fiat_bank_label">Banque</string>
+  <string name="wisdom_contacts_fiat_bank_placeholder">Veuillez sélectionner votre banque</string>
+  <string name="wisdom_contacts_fiat_phone_region_label">Étiquette</string>
+  <string name="wisdom_contacts_fiat_phone_region_placeholder">Veuillez sélectionner votre étiquette</string>
+  <string name="wisdom_contacts_fiat_tag_label">Étiquette</string>
+  <string name="wisdom_contacts_fiat_tag_placeholder">Veuillez sélectionner votre étiquette</string>
+  <string name="wisdom_contacts_net_label">Réseau</string>
+  <string name="wisdom_contacts_net_placeholder">Veuillez sélectionner votre réseau</string>
+  <string name="wisdom_contacts_chain_label">Adresse de réception</string>
+  <string name="wisdom_contacts_chain_placeholder">"Veuillez indiquer l'adresse de réception"</string>
+  <string name="wisdom_contacts_select_payer">Sélectionner le bénéficiaire</string>
+  <string name="wisdom_contacts_select_top_tip">"Veuillez sélectionner l'adresse de la chaîne et le réseau vers lequel vous souhaitez effectuer le transfert."</string>
+  <string name="wisdom_contacts_select_top_des">"Assurez-vous que l'adresse est correcte. Le transfert est irrévocable"</string>
+</resources>

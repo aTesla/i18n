@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_email_change_step1_title">Verificación de correo</string>
+  <string name="wisdom_email_change_step1_card_title">Cambiar su correo vinculado a través del código</string>
+  <string name="wisdom_email_change_step1_card_desc">Si desea cambiar su dirección de correo electrónico, puede realizarlo automáticamente a través del código de verificación recibido por el número de teléfono móvil y correo electrónico</string>
+  <string name="wisdom_email_change_step1_a1">Utilizar el correo electrónico y el número de teléfono móvil registrados para vincular un nuevo número de teléfono móvil</string>
+  <string name="wisdom_email_change_step1_a2">Enviar el código a su teléfono o correo</string>
+  <string name="wisdom_email_change_step1_b1">No se puede recibir el código de verificación y solicita el servicio al cliente para cambiar el número de teléfono móvil</string>
+  <string name="wisdom_email_change_step1_b2">Iniciar servicio al cliente humano</string>
+  <string name="wisdom_email_change_step4_title">Verificación de correo electrónico nuevo</string>
+  <string name="wisdom_email_change_step4_card_title">Paso final para verificar su nueva dirección de correo electrónico</string>
+  <string name="wisdom_email_change_step4_card_desc">Ingrese su nueva dirección de correo electrónico correcta para recibir un código de verificación</string>
+  <string name="wisdom_email_change_step4_old_email">Su correo electrónico actual es:</string>
+  <string name="wisdom_email_change_step4_email_label">Nuevo correo electrónico</string>
+  <string name="wisdom_email_change_step4_email_placeholder">Introduzca el nuevo correo electrónico</string>
+  <string name="wisdom_email_change_step4_send_verify_code">Enviar el código de verificación</string>
+  <string name="wisdom_email_change_step6_title">Cambiar el correo electrónico con éxito</string>
+  <string name="wisdom_email_change_step6_back_home">Regresar a la página de inicio</string>
+  <string name="wisdom_email_change_a">Verificación de correo electrónico</string>
+  <string name="wisdom_email_change_b">Cambiar su correo electrónico</string>
+  <string name="wisdom_email_change_c">Hay algunas condiciones que deben cumplirse antes de actualizar su dirección de correo electrónico</string>
+  <string name="wisdom_email_change_d">Tómate una selfie sosteniendo su pasaporte o documento de identidad</string>
+  <string name="wisdom_email_change_e">Ingrese y confirme su nueva dirección de correo electrónico</string>
+  <string name="wisdom_email_change_f">Verificaremos su información y actualizaremos su dirección de correo electrónico</string>
+  <string name="wisdom_email_change_g">Esto suele tardar 10 minutos, pero al máximo hasta 3 días.</string>
+  <string name="wisdom_email_change_h">Continuar</string>
+  <string name="wisdom_email_change_i">Subir y ver su selfie</string>
+  <string name="wisdom_email_change_j">Solo aceptamos una foto de pasaporte, documento de identidad o licencia de conducir para verificar su identidad</string>
+  <string name="wisdom_email_change_k">Su selfie debe mostrar:</string>
+  <string name="wisdom_email_change_l1">Su rostro completo y su documento de identificación</string>
+  <string name="wisdom_email_change_l2">Nombre y apellido en su DNI</string>
+  <string name="wisdom_email_change_l3">Foto de documento de identidad con claridad</string>
+  <string name="wisdom_email_change_m">Ejemplo de selfie:</string>
+  <string name="wisdom_email_change_n">La verificación falló, y por favor sube una nueva foto</string>
+  <string name="wisdom_email_change_o">Se envió la solicitud de verificación por correo electrónico con éxito</string>
+  <string name="wisdom_email_change_p">Verificaremos su información y actualizaremos su dirección de correo electrónico, y se le notificará del cambio mediante un mensaje del sistema o un mensaje de texto</string>
+  <string name="wisdom_email_change_q">Esto suele tardar 10 minutos, pero al máximo hasta 3 días</string>
+  <string name="wisdom_email_change_r">Resubir</string>
+</resources>

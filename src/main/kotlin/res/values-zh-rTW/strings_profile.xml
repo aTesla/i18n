@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_profile_userinfo">詳細信息</string>
+  <string name="wisdom_profile_security">安全中心</string>
+  <string name="wisdom_profile_preferences">偏好設定</string>
+  <string name="wisdom_profile_help">幫助中心</string>
+  <string name="wisdom_profile_privacy">我們的協議</string>
+  <string name="wisdom_profile_logout">退出</string>
+  <string name="wisdom_profile_dialog_title">確定要退出帳號</string>
+  <string name="wisdom_profile_dialog_cancel">取消</string>
+  <string name="wisdom_profile_dialog_confirm">確認</string>
+  <string name="wisdom_profile_media_album">相簿</string>
+  <string name="wisdom_profile_media_take_picture">拍攝</string>
+  <string name="wisdom_profile_rewards">推薦有獎</string>
+  <string name="wisdom_profile_title">個人中心</string>
+  <string name="wisdom_profile_account_delete">帳戶被刪除後，不可恢復，你確定想要刪除這個帳號嗎？</string>
+  <string name="wisdom_profile_upload_suc">圖片上傳成功</string>
+  <string name="wisdom_profile_account_deletion">刪除帳號</string>
+  <string name="wisdom_export_privatekey">匯出私鑰</string>
+  <string name="wisdom_dont_disclose_privatekey">切勿洩漏此私鑰</string>
+  <string name="wisdom_show_privatekey">顯示私鑰</string>
+  <string name="wisdom_privatekey_warning">警告：切勿洩漏此私鑰。任何擁有您私鑰的人都可以竊取您帳戶中持有的任何資產。</string>
+  <string name="wisdom_show_privatekey_need_verify">顯示私鑰需驗證您的身份</string>
+  <string name="widom_your_privatekey">您Wisdomuae錢包的私鑰</string>
+  <string name="widom_solana_privatekey">Solana鏈的私鑰</string>
+</resources>

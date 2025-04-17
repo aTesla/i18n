@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_contacts_delete">حذف</string>
+  <string name="wisdom_contacts_delete_suc">تم الحذف بنجاح</string>
+  <string name="wisdom_contacts_delete_info">هل أنت متأكد من أنك تريد الحذف؟</string>
+  <string name="wisdom_contacts_delete_notice">تلميح</string>
+  <string name="wisdom_contacts_revise">تعديل</string>
+  <string name="wisdom_contacts_revise_suc">تم التعديل بنجاح</string>
+  <string name="wisdom_contacts_save">حفظ</string>
+  <string name="wisdom_contacts_add_suc">تم الإضافة بنجاح</string>
+  <string name="wisdom_contacts_select_label">اختر التصنيف</string>
+  <string name="wisdom_contacts_email_error">البريد الإلكتروني غير صحيح</string>
+  <string name="wisdom_contacts_title">المدفوع لأمره</string>
+  <string name="wisdom_contacts_tab0">عملة فيات</string>
+  <string name="wisdom_contacts_tab1">عملة مشفرة</string>
+  <string name="wisdom_contacts_action_add">إضافة</string>
+  <string name="wisdom_contacts_search_placeholder">ابحث بالاسم أو رقم الهاتف أو البريد الإلكتروني أو الهوية</string>
+  <string name="wisdom_contacts_empty_str1">أضف المستفيد</string>
+  <string name="wisdom_contacts_empty_str2">تشغيل أكثر أمانًا وراحة لخدمات مالية متنوعة</string>
+  <string name="wisdom_contacts_empty_str3">أضف المستفيد</string>
+  <string name="wisdom_contacts_fiat_name_label">اسم المستفيد (الاسم الكامل)</string>
+  <string name="wisdom_contacts_fiat_name_placeholder">يرجى إدخال اسم المستفيد</string>
+  <string name="wisdom_contacts_fiat_bank_num_label">رقم بطاقة البنك</string>
+  <string name="wisdom_contacts_fiat_bank_num_placeholder">يرجى إدخال رقم بطاقة البنك</string>
+  <string name="wisdom_contacts_fiat_email_label">عنوان البريد الإلكتروني</string>
+  <string name="wisdom_contacts_fiat_email_placeholder">أدخل عنوان بريد المستفيد</string>
+  <string name="wisdom_contacts_fiat_phone_label">رقم الهاتف</string>
+  <string name="wisdom_contacts_fiat_phone_placeholder">أدخل رقم الهاتف</string>
+  <string name="wisdom_contacts_fiat_uid_label">معرّف Wisdomuae</string>
+  <string name="wisdom_contacts_fiat_uid_placeholder">يرجى إدخال معرّف Wisdomuae</string>
+  <string name="wisdom_contacts_fiat_country_label">الدولة</string>
+  <string name="wisdom_contacts_fiat_country_placeholder">يرجى اختيار دولتك</string>
+  <string name="wisdom_contacts_fiat_coin_label">نوع العملة</string>
+  <string name="wisdom_contacts_fiat_coin_placeholder">الرجاء تحديد نوع العملة</string>
+  <string name="wisdom_contacts_fiat_bank_label">بنك</string>
+  <string name="wisdom_contacts_fiat_bank_placeholder">يرجى اختيار البنك الذي تتعامل معه</string>
+  <string name="wisdom_contacts_fiat_phone_region_label">التسمية</string>
+  <string name="wisdom_contacts_fiat_phone_region_placeholder">الرجاء تحديد التسمية</string>
+  <string name="wisdom_contacts_fiat_tag_label">التسمية</string>
+  <string name="wisdom_contacts_fiat_tag_placeholder">الرجاء تحديد التسمية</string>
+  <string name="wisdom_contacts_net_label">الشبكة</string>
+  <string name="wisdom_contacts_net_placeholder">يرجى اختيار الشبكة</string>
+  <string name="wisdom_contacts_chain_label">عنوان على السلسلة</string>
+  <string name="wisdom_contacts_chain_placeholder">يرجى اختيار عنوان على السلسلة</string>
+  <string name="wisdom_contacts_select_payer">اختر المستفيد</string>
+  <string name="wisdom_contacts_select_top_tip">يرجى اختيار عنوان السلسلة والشبكة التي تريد التحويل إليها</string>
+  <string name="wisdom_contacts_select_top_des">تأكد مما إذا كان العنوان على السلسلة صحيحًا. بمجرد التحويل، لا يمكن التراجع عنه</string>
+</resources>

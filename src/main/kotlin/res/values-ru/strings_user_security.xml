@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_security_title">Центр безопасности</string>
+  <string name="wisdom_user_security_hint_title">Завершение всех настроек безопасности</string>
+  <string name="wisdom_user_security_hint_desc">Рекомендуем вам завершить все настройки для обеспечения безопасности аккаунта</string>
+  <string name="wisdom_user_security_login_password_key">Пароль для входа</string>
+  <string name="wisdom_user_security_login_password_desc">Создайте ваш пароль для входа</string>
+  <string name="wisdom_user_security_pay_password_key">Пароль для снятия средств</string>
+  <string name="wisdom_user_security_pay_password_desc">Создайте ваш пароль для снятия средств</string>
+  <string name="wisdom_user_security_mpc_key_backup_key">Резервное копирование ключа MPC</string>
+  <string name="wisdom_user_security_mpc_key_backup_desc">Сделайте резервную копию вашего ключа MPC</string>
+  <string name="wisdom_user_security_change_phone_key">Проверка номера телефона</string>
+  <string name="wisdom_user_security_change_phone_desc">Проверка или измена вашего номера телефона</string>
+  <string name="wisdom_user_security_change_email_key">Проверка электронной почты</string>
+  <string name="wisdom_user_security_change_email_desc">Проверка или измена вашей электронной почты</string>
+  <string name="wisdom_user_security_freeze_key">Заморозка кошелька</string>
+  <string name="wisdom_user_security_freeze_desc">Ваш кошелёк будет временно заморожен, для разморозки войдите снова</string>
+  <string name="wisdom_user_security_freeze_status_1">Нормально</string>
+  <string name="wisdom_user_security_freeze_status_2">Заморозка</string>
+  <string name="wisdom_user_security_devices_key">Управление устройствами</string>
+  <string name="wisdom_user_security_devices_desc">Управление и просмотр недавней активности и информации о устройствах</string>
+  <string name="hl_device_management">Управление устройствами</string>
+  <string name="hl_device_check_title">Просмотр недавней активности и информации о устройствах</string>
+  <string name="hl_device_check_subtitle">Просмотр недавней активности и информации о устройствах, управление правами на использование кошелька</string>
+  <string name="hl_device_unnormal">Обнаружили аномальную активность?</string>
+  <string name="hl_device_unnormal_desc">При обнаруживании аномальной активности в кошельке измените пароль, и мы выведем с вашего аккаунт все устройства для обеспечения безопасности</string>
+  <string name="hl_device_name">Название устройства</string>
+  <string name="hl_device_last_online">Время последнего посещения сайта</string>
+  <string name="hl_device_recent_login">Время последнего входа</string>
+  <string name="hl_device_login_location">Место входа</string>
+  <string name="hl_device_ip">IP-адрес</string>
+  <string name="hl_device_current">Текущее устройство</string>
+  <string name="hl_device_remove">Удаление</string>
+  <string name="hl_device_alert_title">Вы уверены, что хотите удалить это устройство?</string>
+  <string name="hl_device_alert_message">После удаления аккаунт будет автоматически выведен из системы на этом устройстве</string>
+  <string name="hl_device_revise_login_pwd">Измена пароля для входа</string>
+</resources>

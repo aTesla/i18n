@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_market_zx">Favorite</string>
+  <string name="wisdom_market_whb">Forex</string>
+  <string name="wisdom_market_hot">Hot</string>
+  <string name="wisdom_market_gainers">Gainers</string>
+  <string name="wisdom_market_zlb">Liquidity</string>
+  <string name="wisdom_market_tname">Name</string>
+  <string name="wisdom_market_tprice">Latest Price</string>
+  <string name="wisdom_market_trate">"Today's increase"</string>
+  <string name="wisdom_market_title">Market</string>
+  <string name="wisdom_market_zx_btn">Add to Wishlist</string>
+  <string name="hl_market_down">Losers</string>
+  <string name="hl_market_flow">Liquidity</string>
+  <string name="hl_market_price">Price</string>
+  <string name="hl_market_24h_change">24H Change</string>
+  <string name="hl_market_select_coin_type">Select Cryptocurrency</string>
+  <string name="hl_market_exchange_amount">Transaction Volume</string>
+  <string name="hl_market_see_more">See more</string>
+  <string name="hl_market_rank">Ranking</string>
+  <string name="hl_market_search">Search</string>
+  <string name="hl_market_history_search">History search</string>
+  <string name="hl_market_search_crypto">Search crypto</string>
+</resources>

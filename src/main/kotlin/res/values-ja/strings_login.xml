@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_login_step1_pwd_enter_again">パスワードが間違っています。再度入力してください。</string>
+  <string name="wisdom_login_step1_title">ログイン</string>
+  <string name="wisdom_login_step1_email">メールアドレス</string>
+  <string name="wisdom_login_step1_phone">電話番号</string>
+  <string name="wisdom_login_step1_pwd">ログインパスワード</string>
+  <string name="wisdom_login_step1_login">ログイン</string>
+  <string name="wisdom_login_step1_forget">パスワードを忘れた場合</string>
+  <string name="wisdom_login_step1_register">アカウントを持っていない？新規登録へ</string>
+  <string name="wisdom_login_step1_privacy">ログイン・新規登録は『ユーザー契約』および『プライバシーポリシー』に同意することを示します</string>
+  <string name="wisdom_login_step1_email_label">メールアドレスを入力</string>
+  <string name="wisdom_login_step1_phone_label">電話番号を入力</string>
+  <string name="wisdom_login_step1_password_label">パスワードを入力</string>
+  <string name="wisdom_login_step1_email_supporting_text">メールアドレスが間違っています。再度入力してください。</string>
+  <string name="wisdom_login_step1_password_supporting_text">パスワードが間違っています。再度入力してください。</string>
+  <string name="wisdom_login_step2_title">ログイン</string>
+  <string name="wisdom_login_step2_desc">認証コードを受信する方法を選択してください</string>
+  <string name="wisdom_login_step2_phone_receive">携帯電話で受信します</string>
+  <string name="wisdom_login_step2_email_receive">Eメールで受信します</string>
+  <string name="wisdom_login_step2_privacy_policy">ログイン・新規登録は『ユーザー契約』および『プライバシーポリシー』に同意することを示します</string>
+  <string name="wisdom_login_step3_phone_title">先ほど携帯電話に認証コードを送信しました</string>
+  <string name="wisdom_login_step3_phone_desc">登録のため、%1$sに送信した認証コードを入力してください。認証コードは10分後に無効になります。</string>
+  <string name="wisdom_login_step3_phone_error">認証コードが間違っています。再度入力してください。</string>
+  <string name="wisdom_login_step3_phone_count_down">%1$s後に再度送信</string>
+  <string name="wisdom_login_step3_phone_resend">再度取得</string>
+  <string name="wisdom_login_step3_phone_submit">確認</string>
+  <string name="wisdom_login_step3_email_title">先ほどメールアドレスに認証コードを送信しました</string>
+  <string name="wisdom_login_step3_email_desc">登録のため、%1$sに送信した認証コードを入力してください。認証コードは10分後に無効になります。</string>
+  <string name="wisdom_login_step3_email_error">認証コードが間違っています。再度入力してください。</string>
+  <string name="wisdom_login_step3_email_count_down">%1$s後に再度送信</string>
+  <string name="wisdom_login_step3_email_resend">再度取得</string>
+  <string name="wisdom_login_step3_email_submit">確認</string>
+  <string name="wisdom_login_step4_skip">スギップ</string>
+  <string name="wisdom_login_step4_title">Face ID認証</string>
+  <string name="wisdom_login_step4_desc">ログインの利便性を高めるために、Face IDの認証をお勧めします</string>
+  <string name="wisdom_login_step4_action">クリックして、Face IDを認証します</string>
+  <string name="wisdom_fingerprint_login_welcome">%1$sこんにちは</string>
+  <string name="wisdom_fingerprint_login_action">クリックして、Face IDを認証します</string>
+  <string name="wisdom_fingerprint_login_more">その他のオプション</string>
+  <string name="wisdom_fingerprint_login_more_item_1">パスワードでログイン</string>
+  <string name="wisdom_fingerprint_login_more_item_2">ユーザーの切り替え/登録</string>
+  <string name="wisdom_password_login_welcome">%1$sこんにちは</string>
+  <string name="wisdom_password_login_password_hint">パスワードを入力してください</string>
+  <string name="wisdom_password_login_password_login">ログイン</string>
+  <string name="wisdom_password_login_more_item_1">Face IDでログイン</string>
+  <string name="wisdom_password_login_quick_find_password">パスワードをすばやく取り戻す</string>
+  <string name="wisdom_password_login_more">その他のオプション</string>
+  <string name="wisdom_login_chose_country">国家を選択</string>
+  <string name="wisdom_login_search_country">国コードまたは名前を検索</string>
+  <string name="wisdom_login_enter_email">メールアドレスを入力してください</string>
+  <string name="wisdom_login_account_deleted_error">このアカウントは削除されたため、ログインできません</string>
+  <string name="hl_login_please_enter_pwd">パスワードを入力してください</string>
+</resources>

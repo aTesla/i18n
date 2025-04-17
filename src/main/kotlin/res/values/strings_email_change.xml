@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_email_change_step1_title">E-mail verification</string>
+  <string name="wisdom_email_change_step1_card_title">Change email by receiving a verification code</string>
+  <string name="wisdom_email_change_step1_card_desc">If you want to change your email, you can do so automatically using a verification code sent to your phone and email.</string>
+  <string name="wisdom_email_change_step1_a1">Use your registered phone number and email to receive a verification code to bind a new email</string>
+  <string name="wisdom_email_change_step1_a2">Send verification code</string>
+  <string name="wisdom_email_change_step1_b1">The original email or phone cannot receive the verification code. Please contact customer service to change your email.</string>
+  <string name="wisdom_email_change_step1_b2">Human customer service</string>
+  <string name="wisdom_email_change_step4_title">New email verification</string>
+  <string name="wisdom_email_change_step4_card_title">Final step: Verify your new email address</string>
+  <string name="wisdom_email_change_step4_card_desc">Enter your new email address correctly to receive a verification code</string>
+  <string name="wisdom_email_change_step4_old_email">Your current email is:</string>
+  <string name="wisdom_email_change_step4_email_label">New email</string>
+  <string name="wisdom_email_change_step4_email_placeholder">Please enter your new email address</string>
+  <string name="wisdom_email_change_step4_send_verify_code">Send verification code</string>
+  <string name="wisdom_email_change_step6_title">New email address linked successfully</string>
+  <string name="wisdom_email_change_step6_back_home">Return to home page</string>
+  <string name="wisdom_email_change_a">E-mail verification</string>
+  <string name="wisdom_email_change_b">Change your email</string>
+  <string name="wisdom_email_change_c">Requirements to be met before updating your email address</string>
+  <string name="wisdom_email_change_d">Take a selfie holding your passport or ID card</string>
+  <string name="wisdom_email_change_e">Enter and confirm your new email address</string>
+  <string name="wisdom_email_change_f">We will verify your information and update your email address</string>
+  <string name="wisdom_email_change_g">This usually takes 10 minutes, but can take up to 3 days</string>
+  <string name="wisdom_email_change_h">Continue</string>
+  <string name="wisdom_email_change_i">Upload and view your selfie</string>
+  <string name="wisdom_email_change_j">"We only accept passports, ID cards or driver's licenses for identity verification."</string>
+  <string name="wisdom_email_change_k">Your selfie must show:</string>
+  <string name="wisdom_email_change_l1">Your full face and ID</string>
+  <string name="wisdom_email_change_l2">First and last name on your ID</string>
+  <string name="wisdom_email_change_l3">Clear ID photo</string>
+  <string name="wisdom_email_change_m">Selfie example:</string>
+  <string name="wisdom_email_change_n">Selfie verification failed. Please upload again</string>
+  <string name="wisdom_email_change_o">Email verification application submitted successfully</string>
+  <string name="wisdom_email_change_p">We will verify your information and update your email address. You will be notified of the result via system message or SMS.</string>
+  <string name="wisdom_email_change_q">This usually takes 10 minutes, but can take up to 3 days</string>
+  <string name="wisdom_email_change_r">Upload photo</string>
+</resources>

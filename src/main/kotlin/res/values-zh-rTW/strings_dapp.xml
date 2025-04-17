@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_dapp_search_placeholder">搜尋DApp名稱</string>
+  <string name="hl_dapp_card_title">低手續費</string>
+  <string name="hl_dapp_card_subtitle">跨鏈交易 即時到帳 加密通信</string>
+  <string name="hl_dapp_recent_use">最近使用</string>
+  <string name="hl_dapp_featured">精選</string>
+  <string name="hl_dapp_trending">趨勢</string>
+  <string name="hl_dapp_top">熱門</string>
+  <string name="hl_dapp_alert_title">安全警告</string>
+  <string name="hl_dapp_alert_msg">您即將造訪第三方DApp。進行轉帳 時，請確保您了解財務風險並謹慎操作。 Wisdomuae不對使用此DApp造成的任何損失負責</string>
+  <string name="hl_dapp_alert_not_tip">下次不再提醒</string>
+  <string name="hl_dapp_history_search">歷史搜尋</string>
+  <string name="hl_dapp_search_no_result">無搜索結果</string>
+</resources>

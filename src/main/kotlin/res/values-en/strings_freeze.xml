@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_freeze_step1_title">Freeze the account</string>
+  <string name="wisdom_freeze_step1_card_title">Please be careful when freezing your account</string>
+  <string name="wisdom_freeze_step1_card_desc">After freezing your account, all trading functions will be disabled. Please log in again to unfreeze.</string>
+  <string name="wisdom_freeze_step1_card_sub_title">After freezing your account:</string>
+  <string name="wisdom_freeze_step1_card_sub_desc1">Trading functions will be disabled</string>
+  <string name="wisdom_freeze_step1_card_sub_desc2">All APP functions will be disabled</string>
+  <string name="wisdom_freeze_step1_card_sub_desc3">All authorized devices will be deleted</string>
+  <string name="wisdom_freeze_step1_card_sub_desc4">All pending withdrawals will be cancelled</string>
+  <string name="wisdom_freeze_step1_card_sub_desc5">Ongoing transactions such as smart contracts will not be automatically canceled</string>
+  <string name="wisdom_freeze_step1_question">Why do you want to freeze your account?</string>
+  <string name="wisdom_freeze_step1_answer1">The account is not secure; I want to freeze it temporarily</string>
+  <string name="wisdom_freeze_step1_answer2">I no longer want to use this account</string>
+  <string name="wisdom_freeze_step1_answer3">I am using an account on another platform</string>
+  <string name="wisdom_freeze_step1_answer4">Other reasons</string>
+  <string name="wisdom_freeze_step1_answer4_placeholder">Specific instructions</string>
+  <string name="wisdom_freeze_step1_radio_group">Choose the verification method</string>
+  <string name="wisdom_freeze_step1_radio1">Phone verification</string>
+  <string name="wisdom_freeze_step1_radio2">E-mail verification</string>
+  <string name="wisdom_freeze_step1_agreement">I understand the consequences of account freezing and agree that the funds cannot be accessed after freezing</string>
+  <string name="wisdom_freeze_step1_go_on">Continue</string>
+  <string name="wisdom_freeze_step2_title">We just sent a verification code to your email</string>
+  <string name="wisdom_freeze_step2_desc">Enter the verification code we sent to you at %1$s to freeze the account. The code will expire after 10 minutes.</string>
+  <string name="wisdom_freeze_step2_email_error">Wrong code. Try again.</string>
+  <string name="wisdom_freeze_step2_email_count_down">Resend after %1$s</string>
+  <string name="wisdom_freeze_step2_email_resend">Reacquire</string>
+  <string name="wisdom_freeze_step2_next_step">Next step</string>
+  <string name="wisdom_freeze_step3_title">We just sent a verification code to your mobile phone</string>
+  <string name="wisdom_freeze_step3_desc">Enter the verification code we sent to you at %1$s to freeze the account. The code will expire after 10 minutes.</string>
+  <string name="wisdom_freeze_step3_phone_error">Wrong code. Try again.</string>
+  <string name="wisdom_freeze_step3_phone_count_down">Resend after %1$s</string>
+  <string name="wisdom_freeze_step3_phone_resend">Reacquire</string>
+  <string name="wisdom_freeze_step3_submit">Submit</string>
+  <string name="wisdom_freeze_step5_title">Freeze successfully</string>
+  <string name="wisdom_freeze_step5_desc">All trading functions are disabled. Please log in again to unfreeze.</string>
+  <string name="wisdom_freeze_step5_back_login">Return to login</string>
+  <string name="wisdom_unfreeze_title">unfreeze</string>
+  <string name="wisdom_unfreeze_step5_title">Unfreeze application submitted successfully</string>
+  <string name="wisdom_unfreeze_step5_desc">Your application has been submitted successfully. Our customer service will contact you within 24 hours. Please keep your phone available for our call.</string>
+  <string name="wisdom_unfreeze_step5_back_login">Return to home page</string>
+  <string name="wisdom_unfreeze_step5_device_verify_success">Device verification successful</string>
+  <string name="wisdom_unfreeze_step5_unfreezed_success">Unfreeze account successfully</string>
+  <string name="wisdom_unfreeze_step5_restore_success">All transactions and functions have been restored</string>
+  <string name="hl_freeze_estimate_total_amount"></string>
+  <string name="hl_freeze_alert_desc"></string>
+  <string name="hl_freeze_alert_unfreeze"></string>
+  <string name="hl_freeze_alert_continue"></string>
+  <string name="hl_freeze_alert_verify"></string>
+  <string name="hl_freeze_alert_phone"></string>
+  <string name="hl_freeze_alert_email"></string>
+</resources>

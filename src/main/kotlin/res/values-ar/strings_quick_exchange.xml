@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_quick_exchange">التداول السريع</string>
+  <string name="hl_quick_receive_coin_type">عملة الاستلام</string>
+  <string name="hl_quick_receive_coin_type_select">اختر عملة الاستلام</string>
+  <string name="hl_quick_assets">الأصول</string>
+  <string name="hl_quick_current_available">متاح حاليًا</string>
+  <string name="hl_quick_total_available">إجمالي التوافر بعد التحويل</string>
+  <string name="hl_quick_left_unvailable">رصيد غير كافٍ. المعاملة غير ممكنة.</string>
+  <string name="hl_quick_advised_steps">العملية الموصى بها</string>
+  <string name="hl_quick_estimated_get">العائد المتوقع</string>
+  <string name="hl_quick_step1">الخطوة 1</string>
+  <string name="hl_quick_step2">الخطوة 2</string>
+  <string name="hl_quick_step3">الخطوة 3</string>
+  <string name="hl_quick_step4">الخطوة 4</string>
+  <string name="hl_quick_charged_of_you">المبلغ المطلوب دفعه</string>
+  <string name="hl_quick_charged_coin_type">عملة الدفع</string>
+  <string name="hl_quick_fee_included">شاملة الرسوم</string>
+  <string name="hl_quick_buy_from_wisdom">الشراء من Wisdomuae</string>
+  <string name="hl_quick_advised_popular">أفضل توصية</string>
+  <string name="hl_quick_self">مخصص</string>
+  <string name="hl_quick_need_to_buy">يتطلب الشراء</string>
+  <string name="hl_quick_self_tip">يمكنك تخصيص عملية المعاملة بناءً على المبلغ الذي سيتم إرساله.</string>
+  <string name="hl_quick_self_send_amount">حجم الإرسال تم إنشاؤه</string>
+  <string name="hl_quick_self_total_amount">الرسوم الإجمالية المقدرة</string>
+  <string name="hl_quick_self_recharge_build">إعداد الشحن</string>
+  <string name="hl_quick_alert_title">تتطلب هذه العملية السريعة عدة تأكيدات.</string>
+  <string name="hl_quick_one_click_all">تأكيد جميع خطوات المعاملة بنقرة واحدة</string>
+  <string name="hl_quick_revise_steps"></string>
+</resources>

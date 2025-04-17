@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_user_info_title">详细信息</string>
+  <string name="wisdom_user_info_name">姓名</string>
+  <string name="wisdom_user_info_email">邮箱</string>
+  <string name="wisdom_user_info_uid">WID</string>
+  <string name="wisdom_user_info_birthday">出生年月</string>
+  <string name="wisdom_user_info_country">所在国家/地区</string>
+  <string name="wisdom_user_info_address">详细地址</string>
+  <string name="wisdom_user_info_phone">手机号码</string>
+  <string name="wisdom_user_info_identified">身份认证</string>
+  <string name="wisdom_user_info_post_code">邮政编码</string>
+  <string name="wisdom_user_info_default_value">--</string>
+  <string name="wisdom_user_info_btn">认证个人信息</string>
+  <string name="wisdom_user_info_identified_fail_reason">请使用Face ID识别认证</string>
+  <string name="wisdom_user_info_identified_fail">身份认证失败</string>
+  <string name="wisdom_user_info_identified_passcode_desc">请使用密码认证</string>
+  <string name="wisdom_user_info_identified_no_passowrd">没有手机密码，请设置</string>
+</resources>

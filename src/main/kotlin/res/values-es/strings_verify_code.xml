@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_verify_code_email_title">Acabamos de enviar un código de verificación a su correo electrónico</string>
+  <string name="wisdom_verify_code_phone_title">Acabamos de enviar un código de verificación a su teléfono móvil</string>
+  <string name="wisdom_verify_code_new_email_title">Acabamos de enviar un código de verificación a su nuevo correo electrónico</string>
+  <string name="wisdom_verify_code_new_phone_title">Acabamos de enviar un código de verificación a su nuevo número de teléfono</string>
+  <string name="wisdom_verify_code_register">Para registrarse, ingrese el código de verificación que le enviamos a%1$s. El código caducará después de 10 minutos</string>
+  <string name="wisdom_verify_code_login">Para iniciar sesión, ingrese el código de verificación que se le envió al %1$s. El código caducará después de 10 minutos</string>
+  <string name="wisdom_verify_code_reset_login_password">Para el restablecimiento, ingrese el código de verificación que le enviamos al %1$s. El código caducará en 10 minutos.</string>
+  <string name="wisdom_verify_code_change_payment_password">Para cambiar la contraseña de retiro, ingrese el código de verificación que le enviamos %1$s. El código caducará en 10 minutos</string>
+  <string name="wisdom_verify_code_change_email">Para cambiar la conexión, ingrese el código de verificación que le enviamos %1$s. El código caducará en 10 minutos</string>
+  <string name="wisdom_verify_code_change_new_email">Para el cambio, ingrese el código de verificación que le enviamos a %1$s, el código caducará en 10 minutos</string>
+  <string name="wisdom_verify_code_change_phone">Para cambiar la conexión, ingrese el código de verificación que le enviamos %1$s. El código caducará en 10 minutos</string>
+  <string name="wisdom_verify_code_change_new_phone">Para el cambio, ingrese el código de verificación que le enviamos a %1$s, el código caducará en 10 minutos</string>
+  <string name="wisdom_verify_code_freeze">Para congelar su cuenta, ingresa el código de verificación que le enviamos a su %1$s. El código caducará después de 10 minutos</string>
+  <string name="wisdom_verify_code_unfreeze">Para descongelar su billetera, ingrese el código de verificación que le enviamos %1$s. El código de verificación caducará en 10 minutos.</string>
+  <string name="wisdom_verify_code_error">El código de verificación introducido es incorrecto, por favor vuelva a ingresarlo</string>
+  <string name="wisdom_verify_code_count_down">Reenviar después de %1$s</string>
+  <string name="wisdom_verify_code_resend">Readquirir</string>
+  <string name="wisdom_verify_code_next_step">Próximo paso</string>
+  <string name="wisdom_verify_code_submit">Enviar</string>
+</resources>

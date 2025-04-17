@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_settings_title">التفضيلات</string>
+  <string name="wisdom_settings_language">اللغة</string>
+  <string name="wisdom_settings_language_desc">بعد الإعداد، ستستخدم رسائل البريد الإلكتروني، الرسائل النصية، إشعارات الدفع في التطبيق، وجميع الأجهزة التي تسجل الدخول إليها إعدادات اللغة الأحدث الخاصة بك</string>
+  <string name="wisdom_settings_coin">العملة</string>
+  <string name="wisdom_settings_coin_desc">بعد الإعداد، ستقوم الصفحة الرئيسية بحساب أرصدة الحساب وفقًا للعملة التي اخترتها.</string>
+  <string name="wisdom_settings_system_default">الإعدادات الافتراضية للنظام</string>
+  <string name="wisdom_settings_theme_mode">وضع السمة</string>
+  <string name="wisdom_settings_theme_mode_desc">بعد الإعداد، ستتغير السمة وفقًا للوضع الذي قمت بتحديده.</string>
+  <string name="wisdom_settings_theme_follow_system">اتباع النظام</string>
+  <string name="wisdom_settings_theme_follow_system_desc">سيتبع الموضوع إعداد النظام للوضع الفاتح أو الوضع الليلي</string>
+  <string name="wisdom_settings_theme_light_mode">الوضع الفاتح</string>
+  <string name="wisdom_settings_theme_dark_mode">الوضع الداكن</string>
+  <string name="wisdom_settings_theme_mode_select">اختيار وضع السمة</string>
+  <string name="wisdom_settings_save">حفظ الإعدادات</string>
+</resources>

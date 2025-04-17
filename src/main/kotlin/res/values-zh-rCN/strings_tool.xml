@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">刷新</string>
+  <string name="wisdom_scan_title">扫描二维码</string>
+  <string name="wisdom_scan_tip">请扫描时把二维码和方框对齐</string>
+  <string name="wisdom_scan_upload">上传图片</string>
+  <string name="wisdom_scan_invalid">无效二维码</string>
+  <string name="wisdom_email">邮件</string>
+  <string name="hl_scan_tip">扫描地址QR码/WalletConnect/URL</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_system_message">システムメッセージ</string>
+  <string name="hl_exchange_records">トランザクションデータ</string>
+  <string name="hl_plateform_notice">プラットフォーム公告</string>
+  <string name="hl_market_activity">市場動向</string>
+  <string name="hl_notificaiton_exchange">送金入金通知</string>
+  <string name="hl_notification_recharge">チャージ入金通知</string>
+  <string name="hl_notification_compony">公式通知</string>
+  <string name="hl_notification_get_money">入金通知</string>
+  <string name="wisdom_message">メッセージ</string>
+</resources>

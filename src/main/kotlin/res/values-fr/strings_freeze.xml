@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_freeze_step1_title">Geler le compte</string>
+  <string name="wisdom_freeze_step1_card_title">Attention au gel des comptes</string>
+  <string name="wisdom_freeze_step1_card_desc">"Il vous sera interdit d'effectuer des transactions après le gel de votre compte. Pour débloquer votre compte, veuillez vous connecter à nouveau."</string>
+  <string name="wisdom_freeze_step1_card_sub_title">Après le gel de votre compte:</string>
+  <string name="wisdom_freeze_step1_card_sub_desc1">Ce compte sera interdit de transactions</string>
+  <string name="wisdom_freeze_step1_card_sub_desc2">Toutes les fonctions de ce compte seront désactivées.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc3">Tous les appareils autorisés sur ce compte seront supprimés</string>
+  <string name="wisdom_freeze_step1_card_sub_desc4">Tous les retraits en cours sur ce compte seront annulés.</string>
+  <string name="wisdom_freeze_step1_card_sub_desc5">Les transactions en cours, telles que les contrats intelligents, ne sont pas automatiquement annulées.</string>
+  <string name="wisdom_freeze_step1_question">Pourquoi voulez-vous geler votre compte ?</string>
+  <string name="wisdom_freeze_step1_answer1">"Le compte n'est pas en sécurité, je veux le geler temporairement."</string>
+  <string name="wisdom_freeze_step1_answer2">Je ne veux jamais plus utiliser ce compte.</string>
+  <string name="wisdom_freeze_step1_answer3">"J'utilise déjà un compte sur une autre plateforme"</string>
+  <string name="wisdom_freeze_step1_answer4">Autres raisons</string>
+  <string name="wisdom_freeze_step1_answer4_placeholder">Explication détaillée</string>
+  <string name="wisdom_freeze_step1_radio_group">Veuillez sélectionner la façon dont vous recevez le code de vérification</string>
+  <string name="wisdom_freeze_step1_radio1">Par numéro de téléphone portable</string>
+  <string name="wisdom_freeze_step1_radio2">Par e-mail</string>
+  <string name="wisdom_freeze_step1_agreement">"Je comprends les conséquences d'un gel de compte. Je reconnais que je ne pourrai pas récupérer mon solde si mon compte est bloqué."</string>
+  <string name="wisdom_freeze_step1_go_on">Continuer</string>
+  <string name="wisdom_freeze_step2_title">"Nous venons d'envoyer un code de vérification à votre e-mail "</string>
+  <string name="wisdom_freeze_step2_desc">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour geler le compte. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_freeze_step2_email_error">Le code de vérification est incorrect, veuillez l’entrer à nouveau</string>
+  <string name="wisdom_freeze_step2_email_count_down">Renvoyer après %1$s</string>
+  <string name="wisdom_freeze_step2_email_resend">Reprendre</string>
+  <string name="wisdom_freeze_step2_next_step">L’étape suivante</string>
+  <string name="wisdom_freeze_step3_title">"Nous venons d'envoyer un code de vérification à votre téléphone portable "</string>
+  <string name="wisdom_freeze_step3_desc">Veuillez entrer le code de vérification que nous vous envoyons sur %1$s pour geler le compte. Le code expirera après 10 minutes.</string>
+  <string name="wisdom_freeze_step3_phone_error">Le code de vérification est incorrect, veuillez l’entrer à nouveau</string>
+  <string name="wisdom_freeze_step3_phone_count_down">Renvoyer après %1$s</string>
+  <string name="wisdom_freeze_step3_phone_resend">Reprendre</string>
+  <string name="wisdom_freeze_step3_submit">Soumettre</string>
+  <string name="wisdom_freeze_step5_title">Gel des comptes réussi</string>
+  <string name="wisdom_freeze_step5_desc">Toutes vos transactions ont été désactivées. Pour les débloquer, veuillez vous reconnecter</string>
+  <string name="wisdom_freeze_step5_back_login">"Retour à la page d'accueil"</string>
+  <string name="wisdom_unfreeze_title">Dégeler</string>
+  <string name="wisdom_unfreeze_step5_title">Demande de dégel soumise avec succès</string>
+  <string name="wisdom_unfreeze_step5_desc">Votre demande de dégel a été soumise avec succès. Nous effectuerons une nouvelle visite dans 24 heures, veuillez répondre à notre appel</string>
+  <string name="wisdom_unfreeze_step5_back_login">"Retour à la page d'accueil"</string>
+  <string name="wisdom_unfreeze_step5_device_verify_success">"Validation de l'appareil réussie"</string>
+  <string name="wisdom_unfreeze_step5_unfreezed_success">Portefeuille dégelé avec succès</string>
+  <string name="wisdom_unfreeze_step5_restore_success">Toutes vos transactions et fonctions se déroulent correctement</string>
+  <string name="hl_freeze_estimate_total_amount">Total du montant estimé</string>
+  <string name="hl_freeze_alert_desc">Votre portefeuille est actuellement gelé, va-t-il être dégelé ?</string>
+  <string name="hl_freeze_alert_unfreeze">Dégeler</string>
+  <string name="hl_freeze_alert_continue">Maintenir le gel</string>
+  <string name="hl_freeze_alert_verify">Veuillez sélectionner la façon dont vous recevez le code de vérification</string>
+  <string name="hl_freeze_alert_phone">Par numéro de téléphone portable</string>
+  <string name="hl_freeze_alert_email">Par e-mail</string>
+</resources>

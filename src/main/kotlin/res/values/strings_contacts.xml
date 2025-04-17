@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_contacts_delete">Delete</string>
+  <string name="wisdom_contacts_delete_suc">Delete successfully</string>
+  <string name="wisdom_contacts_delete_info">Are you sure to delete?</string>
+  <string name="wisdom_contacts_delete_notice">Hint</string>
+  <string name="wisdom_contacts_revise">Revise</string>
+  <string name="wisdom_contacts_revise_suc">Revised successfully</string>
+  <string name="wisdom_contacts_save">Save</string>
+  <string name="wisdom_contacts_add_suc">Added successfully</string>
+  <string name="wisdom_contacts_select_label">Select label</string>
+  <string name="wisdom_contacts_email_error">Incorrect E-mail</string>
+  <string name="wisdom_contacts_title">Payee</string>
+  <string name="wisdom_contacts_tab0">Fiat currency</string>
+  <string name="wisdom_contacts_tab1">Cryptocurrency</string>
+  <string name="wisdom_contacts_action_add">Add</string>
+  <string name="wisdom_contacts_search_placeholder">Search by name, phone number, email, or ID</string>
+  <string name="wisdom_contacts_empty_str1">Add your payee</string>
+  <string name="wisdom_contacts_empty_str2">Safer and more convenient operation of various financial services</string>
+  <string name="wisdom_contacts_empty_str3">Add payee</string>
+  <string name="wisdom_contacts_fiat_name_label">Payee’s name (full name)</string>
+  <string name="wisdom_contacts_fiat_name_placeholder">Please enter payee name</string>
+  <string name="wisdom_contacts_fiat_bank_num_label">Bank card number</string>
+  <string name="wisdom_contacts_fiat_bank_num_placeholder">Please enter bank card number</string>
+  <string name="wisdom_contacts_fiat_email_label">Email address</string>
+  <string name="wisdom_contacts_fiat_email_placeholder">Enter the payee’s email address</string>
+  <string name="wisdom_contacts_fiat_phone_label">Phone number</string>
+  <string name="wisdom_contacts_fiat_phone_placeholder">Enter phone number</string>
+  <string name="wisdom_contacts_fiat_uid_label">Wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_uid_placeholder">Please enter wisdomuae ID</string>
+  <string name="wisdom_contacts_fiat_country_label">Country</string>
+  <string name="wisdom_contacts_fiat_country_placeholder">Please select your country</string>
+  <string name="wisdom_contacts_fiat_coin_label">Currency type</string>
+  <string name="wisdom_contacts_fiat_coin_placeholder">Please select currency type</string>
+  <string name="wisdom_contacts_fiat_bank_label">Bank</string>
+  <string name="wisdom_contacts_fiat_bank_placeholder">Please select your bank</string>
+  <string name="wisdom_contacts_fiat_phone_region_label">Label</string>
+  <string name="wisdom_contacts_fiat_phone_region_placeholder">Please select the label</string>
+  <string name="wisdom_contacts_fiat_tag_label">Label</string>
+  <string name="wisdom_contacts_fiat_tag_placeholder">Please select the label</string>
+  <string name="wisdom_contacts_net_label">Network</string>
+  <string name="wisdom_contacts_net_placeholder">Please select a network</string>
+  <string name="wisdom_contacts_chain_label">On-chain address</string>
+  <string name="wisdom_contacts_chain_placeholder">Please select an on-chain address</string>
+  <string name="wisdom_contacts_select_payer">Select Payee</string>
+  <string name="wisdom_contacts_select_top_tip">Please select the on-chain address and network you want to transfer to</string>
+  <string name="wisdom_contacts_select_top_des">Confirm whether the address on the chain is correct. Once transferred, it cannot be reversed</string>
+</resources>

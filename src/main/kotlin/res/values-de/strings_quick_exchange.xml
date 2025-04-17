@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_quick_exchange">Schnellhandel</string>
+  <string name="hl_quick_receive_coin_type">Empfangswährung</string>
+  <string name="hl_quick_receive_coin_type_select">Empfangswährung auswählen</string>
+  <string name="hl_quick_assets">Vermögenswert</string>
+  <string name="hl_quick_current_available">Derzeit verfügbar</string>
+  <string name="hl_quick_total_available">Gesamtverfügbarkeit nach Umtausch</string>
+  <string name="hl_quick_left_unvailable">Unzureichendes Guthaben. Transaktion nicht möglich.</string>
+  <string name="hl_quick_advised_steps">Empfohlener Transaktionsablauf</string>
+  <string name="hl_quick_estimated_get">Voraussichtlicher Ertrag</string>
+  <string name="hl_quick_step1">Schritt 1</string>
+  <string name="hl_quick_step2">Schritt 2</string>
+  <string name="hl_quick_step3">Schritt 3</string>
+  <string name="hl_quick_step4">Schritt4</string>
+  <string name="hl_quick_charged_of_you">Zu zahlen</string>
+  <string name="hl_quick_charged_coin_type">Zahlungswährung</string>
+  <string name="hl_quick_fee_included">Inklusive Gebühren</string>
+  <string name="hl_quick_buy_from_wisdom">Von Wisdomuae kaufen</string>
+  <string name="hl_quick_advised_popular">Beste Empfehlung</string>
+  <string name="hl_quick_self">Benutzerdefiniert</string>
+  <string name="hl_quick_need_to_buy">Kauf erforderlich</string>
+  <string name="hl_quick_self_tip">Sie können den Transaktionsprozess basierend auf dem zu sendenden Betrag flexibel gestalten.</string>
+  <string name="hl_quick_self_send_amount">Sendevolumen konstruiert</string>
+  <string name="hl_quick_self_total_amount">Geschätzte Gesamtgebühren</string>
+  <string name="hl_quick_self_recharge_build">Aufladeaufbau</string>
+  <string name="hl_quick_alert_title">Dieser Schnellhandelsprozess erfordert mehrere Bestätigungen.</string>
+  <string name="hl_quick_one_click_all">Alle Transaktionsschritte mit einem Klick bestätigen</string>
+  <string name="hl_quick_revise_steps">Transaktionsschritte ändern</string>
+</resources>

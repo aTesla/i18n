@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_payment_scan_title">Quiero pagar</string>
+  <string name="wisdom_payment_scan_desc_login">Le permite escanear y pagar a otros</string>
+  <string name="wisdom_payment_scan_desc_unlogin">Después de la activación, podrá realizar pagos a otros usuarios de WisdomuaeAPP.</string>
+  <string name="wisdom_payment_colleciton_title">Quiero cobrar dinero</string>
+  <string name="wisdom_payment_colleciton_desc_unlogin">Después de la activación, puede cobrar dinero de otros usuarios de WisdomuaeAPP.</string>
+  <string name="wisdom_payment_colleciton_desc_login">Le permite cobrar fondos de otras personas.</string>
+  <string name="wisdom_payment_colleciton_desc_not_open_account">No ha abierto una cuenta de tarjeta Wisdomuae, por lo que aún no puede utilizar esta función.</string>
+  <string name="wisdom_payment_cert_activated">Activar la certificación ahora</string>
+  <string name="wisdom_payment_qrcode_title">Cobrar y pagar</string>
+</resources>

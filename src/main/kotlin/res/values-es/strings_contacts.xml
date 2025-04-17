@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_contacts_delete">Borrar</string>
+  <string name="wisdom_contacts_delete_suc">Borrar con éxito</string>
+  <string name="wisdom_contacts_delete_info">¿Está seguro de que quiere eliminarlo?</string>
+  <string name="wisdom_contacts_delete_notice">Nota</string>
+  <string name="wisdom_contacts_revise">Cambiar</string>
+  <string name="wisdom_contacts_revise_suc">Cambiar con éxito</string>
+  <string name="wisdom_contacts_save">Conservar</string>
+  <string name="wisdom_contacts_add_suc">Agregado exitosamente</string>
+  <string name="wisdom_contacts_select_label">Seleccionar etiqueta</string>
+  <string name="wisdom_contacts_email_error">El correo electrónico que ingresó es incorrecto</string>
+  <string name="wisdom_contacts_title">Beneficiario</string>
+  <string name="wisdom_contacts_tab0">Moneda fiduciaria</string>
+  <string name="wisdom_contacts_tab1">Criptomoneda</string>
+  <string name="wisdom_contacts_action_add">Agregar</string>
+  <string name="wisdom_contacts_search_placeholder">Buscar por nombre, teléfono, email, o ID</string>
+  <string name="wisdom_contacts_empty_str1">Añadir su receptor</string>
+  <string name="wisdom_contacts_empty_str2">Operación más segura y cómoda de diversos servicios financieros</string>
+  <string name="wisdom_contacts_empty_str3">Agregar receptor</string>
+  <string name="wisdom_contacts_fiat_name_label">Nombre del receptor (nombre completo)</string>
+  <string name="wisdom_contacts_fiat_name_placeholder">Introduzca el nombre del receptor</string>
+  <string name="wisdom_contacts_fiat_bank_num_label">Número de tarjeta bancaria</string>
+  <string name="wisdom_contacts_fiat_bank_num_placeholder">Introduzca el número de tarjeta bancaria</string>
+  <string name="wisdom_contacts_fiat_email_label">Correo electrónico</string>
+  <string name="wisdom_contacts_fiat_email_placeholder">Introduzca su correo electrónico</string>
+  <string name="wisdom_contacts_fiat_phone_label">Número de teléfono</string>
+  <string name="wisdom_contacts_fiat_phone_placeholder">Introduzca su número de teléfono</string>
+  <string name="wisdom_contacts_fiat_uid_label">ID Wisdomuae</string>
+  <string name="wisdom_contacts_fiat_uid_placeholder">Por favor introduzca el ID de Wisdomuae</string>
+  <string name="wisdom_contacts_fiat_country_label">País</string>
+  <string name="wisdom_contacts_fiat_country_placeholder">Seleccionar su país</string>
+  <string name="wisdom_contacts_fiat_coin_label">Tipo de moneda</string>
+  <string name="wisdom_contacts_fiat_coin_placeholder">Por favor seleccione el tipo de moneda</string>
+  <string name="wisdom_contacts_fiat_bank_label">Banco</string>
+  <string name="wisdom_contacts_fiat_bank_placeholder">Por favor seleccione su banco</string>
+  <string name="wisdom_contacts_fiat_phone_region_label">Etiqueta</string>
+  <string name="wisdom_contacts_fiat_phone_region_placeholder">Por favor seleccione la etiqueta</string>
+  <string name="wisdom_contacts_fiat_tag_label">Etiqueta</string>
+  <string name="wisdom_contacts_fiat_tag_placeholder">Por favor seleccione la etiqueta</string>
+  <string name="wisdom_contacts_net_label">Seleccionar red</string>
+  <string name="wisdom_contacts_net_placeholder">Por favor seleccione una red</string>
+  <string name="wisdom_contacts_chain_label">Dirección en cadena</string>
+  <string name="wisdom_contacts_chain_placeholder">Introduzca la dirección en cadena</string>
+  <string name="wisdom_contacts_select_payer">Seleccionar receptor</string>
+  <string name="wisdom_contacts_select_top_tip">Por favor, elija la dirección y la red en cadena a la que desea transferir.</string>
+  <string name="wisdom_contacts_select_top_des">Confirme si la dirección en cadena es correcta y no se puede devolver una vez transferida.</string>
+</resources>

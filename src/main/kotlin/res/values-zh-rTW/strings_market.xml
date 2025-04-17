@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_market_zx">自選</string>
+  <string name="wisdom_market_whb">外匯榜</string>
+  <string name="wisdom_market_hot">熱門榜</string>
+  <string name="wisdom_market_gainers">漲幅榜</string>
+  <string name="wisdom_market_zlb">主流幣</string>
+  <string name="wisdom_market_tname">名稱</string>
+  <string name="wisdom_market_tprice">最新價</string>
+  <string name="wisdom_market_trate">今日漲跌</string>
+  <string name="wisdom_market_title">行情</string>
+  <string name="wisdom_market_zx_btn">添加至自選</string>
+  <string name="hl_market_down">跌幅榜</string>
+  <string name="hl_market_flow">流動性</string>
+  <string name="hl_market_price">價格</string>
+  <string name="hl_market_24h_change">24h變化</string>
+  <string name="hl_market_select_coin_type">選擇幣種</string>
+  <string name="hl_market_exchange_amount">交易量</string>
+  <string name="hl_market_see_more">查看更多</string>
+  <string name="hl_market_rank">排行</string>
+  <string name="hl_market_search">蒐索</string>
+  <string name="hl_market_history_search">歷史蒐索</string>
+  <string name="hl_market_search_crypto">蒐索加密貨幣</string>
+</resources>

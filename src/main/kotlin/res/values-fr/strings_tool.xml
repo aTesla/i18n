@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">Actualiser</string>
+  <string name="wisdom_scan_title">Scanner</string>
+  <string name="wisdom_scan_tip">Aligner le code QR sur la boîte lors de la numérisation</string>
+  <string name="wisdom_scan_upload">Télécharger une image</string>
+  <string name="wisdom_scan_invalid">Code QR invalide</string>
+  <string name="wisdom_email">E-mail</string>
+  <string name="hl_scan_tip">"Scanner le code QR de l'adresse/WalletConnect/URL"</string>
+</resources>

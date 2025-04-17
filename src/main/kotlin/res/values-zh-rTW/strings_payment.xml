@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_payment_scan_title">我要付款</string>
+  <string name="wisdom_payment_scan_desc_login">支持您向其他人掃一掃並付款</string>
+  <string name="wisdom_payment_scan_desc_unlogin">開通後支援您向其他WisdomuaeAPP用戶付款。</string>
+  <string name="wisdom_payment_colleciton_title">我要收款</string>
+  <string name="wisdom_payment_colleciton_desc_unlogin">開通後，您可以從其他WisdomuaeAPP用戶收取錢。</string>
+  <string name="wisdom_payment_colleciton_desc_login">支持您向其他人收取資金</string>
+  <string name="wisdom_payment_colleciton_desc_not_open_account">您尚未開設Wisdomuae卡帳戶，因此您還無法使用此功能。</string>
+  <string name="wisdom_payment_cert_activated">立即認證開通</string>
+  <string name="wisdom_payment_qrcode_title">收付款</string>
+</resources>

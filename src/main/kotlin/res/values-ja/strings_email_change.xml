@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_email_change_step1_title">メールアドレスの検証</string>
+  <string name="wisdom_email_change_step1_card_title">認証コードを受信し、バインドされたメールアドレスを変更する</string>
+  <string name="wisdom_email_change_step1_card_desc">メールアドレスを変更したい場合は、電話番号とメールの認証コードで自動的に変更できます。</string>
+  <string name="wisdom_email_change_step1_a1">登録された電話番号とメールアドレスで認証コードを受信し、元のメールアドレスを新しいのに変更する</string>
+  <string name="wisdom_email_change_step1_a2">メールと電話番号に認証コードを送信する</string>
+  <string name="wisdom_email_change_step1_b1">元のメールアドレスまたは電話番号では認証コードを受信できず、カスタマーサービスにメールアドレスの変更を依頼</string>
+  <string name="wisdom_email_change_step1_b2">人工カスタマーサービスプロセスを開始</string>
+  <string name="wisdom_email_change_step4_title">新しいメールアドレスの検証</string>
+  <string name="wisdom_email_change_step4_card_title">最後に、新しいメールアドレスを検証します</string>
+  <string name="wisdom_email_change_step4_card_desc">新しい電子メールアドレスを正しく入力し、認証コードを受信します。</string>
+  <string name="wisdom_email_change_step4_old_email">現在のメールアドレスは：</string>
+  <string name="wisdom_email_change_step4_email_label">新しいメールアドレス</string>
+  <string name="wisdom_email_change_step4_email_placeholder">新しいメールアドレスを入力してください</string>
+  <string name="wisdom_email_change_step4_send_verify_code">認証コードを送信</string>
+  <string name="wisdom_email_change_step6_title">新しいメールアドレスのバインドに成功しました</string>
+  <string name="wisdom_email_change_step6_back_home">ホームページに戻る</string>
+  <string name="wisdom_email_change_a">メールアドレスの検証</string>
+  <string name="wisdom_email_change_b">メールアドレスの変更</string>
+  <string name="wisdom_email_change_c">メールアドレスの変更には、いくつかの条件を満たす必要があります。</string>
+  <string name="wisdom_email_change_d">パスポートか身分証明書を持って自撮りします。</string>
+  <string name="wisdom_email_change_e">新しいメールアドレスを入力して確認します。</string>
+  <string name="wisdom_email_change_f">私たちは提供された情報を確認し、メールアドレスを更新します。</string>
+  <string name="wisdom_email_change_g">これは通常10分かかりますが、最長で3日かかることがあります。</string>
+  <string name="wisdom_email_change_h">続行</string>
+  <string name="wisdom_email_change_i">自撮り写真をアップロードして表示する</string>
+  <string name="wisdom_email_change_j">パスポート、身分証明書、または運転免許証での身分検証のみ受け付けます</string>
+  <string name="wisdom_email_change_k">自撮り写真は次のように表示する必要があります。</string>
+  <string name="wisdom_email_change_l1">顔全体と身分証明書</string>
+  <string name="wisdom_email_change_l2">身分証明書の姓と名</string>
+  <string name="wisdom_email_change_l3">はっきりした身分証明書の写真</string>
+  <string name="wisdom_email_change_m">自撮りの例：</string>
+  <string name="wisdom_email_change_n">セルフフォトチェックに失敗しました。再度アップロードしてください</string>
+  <string name="wisdom_email_change_o">メールアドレス認証申請に成功しました</string>
+  <string name="wisdom_email_change_p">あなたの情報を検証し、メールアドレスを変更します。変更結果はシステムメッセージまたはメールで通知されます。</string>
+  <string name="wisdom_email_change_q">これは通常10分かかりますが、最長で3日かかることがあります。</string>
+  <string name="wisdom_email_change_r">写真をアップロード</string>
+</resources>

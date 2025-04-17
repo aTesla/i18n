@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_payment_scan_title">Payment</string>
+  <string name="wisdom_payment_scan_desc_login">QR code payment is allowed</string>
+  <string name="wisdom_payment_scan_desc_unlogin">Once activated, you can make payments to other WisdomuaeAPP users.</string>
+  <string name="wisdom_payment_colleciton_title">Receive</string>
+  <string name="wisdom_payment_colleciton_desc_unlogin">Once activated, you can receive crypto from other WisdomuaeAPP users.</string>
+  <string name="wisdom_payment_colleciton_desc_login">Allows you to receive funds from others</string>
+  <string name="wisdom_payment_colleciton_desc_not_open_account">You have not opened a Wisdomuae card account, so you cannot use this function yet</string>
+  <string name="wisdom_payment_cert_activated">Certify and open now</string>
+  <string name="wisdom_payment_qrcode_title">Receive&amp;Payment</string>
+</resources>

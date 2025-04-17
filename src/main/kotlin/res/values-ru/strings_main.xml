@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_nav_home">Главная страница</string>
+  <string name="wisdom_nav_account">Счёт</string>
+  <string name="wisdom_nav_wallet">Кошелек</string>
+  <string name="wisdom_nav_contacts">Получатель</string>
+  <string name="wisdom_nav_qrcode">Приём и отправка средств</string>
+  <string name="wisdom_nav_qrcode_title">Приём и отправка средств</string>
+  <string name="hl_nav_bank">Банк</string>
+  <string name="hl_nav_exchange">Транзакция</string>
+  <string name="hl_nav_market">Рынок</string>
+  <string name="hl_nav_explore">Поиск</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_login_step1_pwd_enter_again">Falsches Kennwort. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_login_step1_title">Anmelden</string>
+  <string name="wisdom_login_step1_email">E-Mail</string>
+  <string name="wisdom_login_step1_phone">Handynummer</string>
+  <string name="wisdom_login_step1_pwd">Kennwort</string>
+  <string name="wisdom_login_step1_login">Anmelden</string>
+  <string name="wisdom_login_step1_forget">Kennwort vergessen?</string>
+  <string name="wisdom_login_step1_register">Jetzt registrieren.</string>
+  <string name="wisdom_login_step1_privacy">Durch das Anmelden/Registrieren stimmen Sie den Nutzungsbedingungen und der Datenschutzerklärung zu.</string>
+  <string name="wisdom_login_step1_email_label">E-Mail-Adresse eingeben</string>
+  <string name="wisdom_login_step1_phone_label">Handynummer eingeben</string>
+  <string name="wisdom_login_step1_password_label">Kennwort eingeben</string>
+  <string name="wisdom_login_step1_email_supporting_text">Ungültige E-Mail-Adresse. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_login_step1_password_supporting_text">Falsches Kennwort. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_login_step2_title">Anmelden</string>
+  <string name="wisdom_login_step2_desc">Bitte wählen Sie die Methode zur Empfang des Verifizierungscodes.</string>
+  <string name="wisdom_login_step2_phone_receive">Per SMS</string>
+  <string name="wisdom_login_step2_email_receive">Per E-Mail</string>
+  <string name="wisdom_login_step2_privacy_policy">Durch das Anmelden/Registrieren stimmen Sie den Nutzungsbedingungen und der Datenschutzerklärung zu.</string>
+  <string name="wisdom_login_step3_phone_title">Wir haben gerade einen Verifizierungscode an Ihre Handynummer gesendet.</string>
+  <string name="wisdom_login_step3_phone_desc">Um sich anzumelden, geben Sie bitte den an %1$s gesendeten Code ein. Der Code ist 10 Minuten gültig.</string>
+  <string name="wisdom_login_step3_phone_error">Falscher Verifizierungscode. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_login_step3_phone_count_down">Nach %1$s erneut senden</string>
+  <string name="wisdom_login_step3_phone_resend">Code erneut anfordern</string>
+  <string name="wisdom_login_step3_phone_submit">Absenden</string>
+  <string name="wisdom_login_step3_email_title">Wir haben gerade einen Verifizierungscode an Ihre E-Mail-Adresse gesendet.</string>
+  <string name="wisdom_login_step3_email_desc">Um sich anzumelden, geben Sie bitte den an %1$s gesendeten Code ein. Der Code ist 10 Minuten gültig.</string>
+  <string name="wisdom_login_step3_email_error">Falscher Verifizierungscode. Bitte versuchen Sie es erneut.</string>
+  <string name="wisdom_login_step3_email_count_down">Nach %1$s erneut senden</string>
+  <string name="wisdom_login_step3_email_resend">Code erneut anfordern</string>
+  <string name="wisdom_login_step3_email_submit">Absenden</string>
+  <string name="wisdom_login_step4_skip">Skip</string>
+  <string name="wisdom_login_step4_title">Face ID-Verifizierung</string>
+  <string name="wisdom_login_step4_desc">Face-ID aktivieren, um sich bequemer anzumelden.</string>
+  <string name="wisdom_login_step4_action">Hier klicken für die Face ID-Verifizierung</string>
+  <string name="wisdom_fingerprint_login_welcome">%1$sHallo</string>
+  <string name="wisdom_fingerprint_login_action">Hier klicken für die Face ID-Verifizierung</string>
+  <string name="wisdom_fingerprint_login_more">Mehr Optionen</string>
+  <string name="wisdom_fingerprint_login_more_item_1">Anmelden mit Kennwort</string>
+  <string name="wisdom_fingerprint_login_more_item_2">Konto wechseln/registieren</string>
+  <string name="wisdom_password_login_welcome">%1$sHallo</string>
+  <string name="wisdom_password_login_password_hint">Kennwort eingeben</string>
+  <string name="wisdom_password_login_password_login">Anmelden</string>
+  <string name="wisdom_password_login_more_item_1">Anmelden mit Face-ID</string>
+  <string name="wisdom_password_login_quick_find_password">Kennwort schnell wiederherstellen</string>
+  <string name="wisdom_password_login_more">Mehr Optionen</string>
+  <string name="wisdom_login_chose_country">Land auswählen</string>
+  <string name="wisdom_login_search_country">Ländercode oder -name suchen</string>
+  <string name="wisdom_login_enter_email">E-Mail-Adresse eingeben</string>
+  <string name="wisdom_login_account_deleted_error">Dieses Konto wurde gelöscht und kann nicht mehr angemeldet werden.</string>
+  <string name="hl_login_please_enter_pwd">Kennwort eingeben</string>
+</resources>

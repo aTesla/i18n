@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_refresh">Обновление</string>
+  <string name="wisdom_scan_title">Сканирование QR-кода</string>
+  <string name="wisdom_scan_tip">При сканировании совместите QR-код с рамкой</string>
+  <string name="wisdom_scan_upload">Загрузка изображения</string>
+  <string name="wisdom_scan_invalid">QR-код недействителен</string>
+  <string name="wisdom_email">Электронная почта</string>
+  <string name="hl_scan_tip">Адрес сканирования QR-кода/WalletConnect/URL</string>
+</resources>

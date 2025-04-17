@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_profile_userinfo">Details</string>
+  <string name="wisdom_profile_security">Sicherheitszentrum</string>
+  <string name="wisdom_profile_preferences">Einstellungen</string>
+  <string name="wisdom_profile_help">Hilfezentrum</string>
+  <string name="wisdom_profile_privacy">Unsere Vereinbarung</string>
+  <string name="wisdom_profile_logout">Abmelden</string>
+  <string name="wisdom_profile_dialog_title">Möchten Sie sich wirklich abmelden?</string>
+  <string name="wisdom_profile_dialog_cancel">Abbrechen</string>
+  <string name="wisdom_profile_dialog_confirm">Bestätigen</string>
+  <string name="wisdom_profile_media_album">Album</string>
+  <string name="wisdom_profile_media_take_picture">Fotografieren</string>
+  <string name="wisdom_profile_rewards">Bonus</string>
+  <string name="wisdom_profile_title">Profil</string>
+  <string name="wisdom_profile_account_delete">Die Löschung des Kontos kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie dieses Konto löschen möchten?</string>
+  <string name="wisdom_profile_upload_suc">Bild erfolgreich hochgeladen</string>
+  <string name="wisdom_profile_account_deletion">Konto löschen</string>
+  <string name="wisdom_export_privatekey">Privaten Schlüssel exportieren</string>
+  <string name="wisdom_dont_disclose_privatekey">Privaten Schlüssel niemals weitergeben</string>
+  <string name="wisdom_show_privatekey">Privaten Schlüssel zeigen</string>
+  <string name="wisdom_privatekey_warning">Warnung: Diesen privaten Schlüssel niemals weitergeben. Jeder, der Ihren privaten Schlüssel besitzt, kann sämtliche Vermögenswerte in Ihrem Konto stehlen.</string>
+  <string name="wisdom_show_privatekey_need_verify">Zur Anzeige des privaten Schlüssels ist eine Identitätsprüfung erforderlich</string>
+  <string name="widom_your_privatekey">Der private Schlüssel Ihres Wisdomuae-Wallets</string>
+  <string name="widom_solana_privatekey">Private Schlüssel für die Solana-Kette</string>
+</resources>

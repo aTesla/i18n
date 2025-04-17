@@ -40,33 +40,32 @@ class Excel2Res(val excel: String, val res: String) {
                 for (i in (sheet.firstRowNum + 1)..sheet.lastRowNum) {
                     val row = sheet.getRow(i)
                     val key = row.getCell(row.firstCellNum.toInt())?.stringCellValue
-                    val value = row.getCell(j)?.getRichStringCellValue()?.toString()
-                    if (!key.isNullOrBlank()) {
-                        mutableMap[key] = resolveValue(value)
-                    }
+                    if (key.isNullOrBlank()) continue
+                    val value = row.getCell(j)?.richStringCellValue?.toString()
+                    mutableMap[key] = resolveValue(value ?: "")
                 }
 //                when (language) {
 //                    "ar", "de", "en", "es", "zh-Hans", "zh-Hant" -> {
-                        val valuesDir = when (language) {
-                            "zh-Hans" -> "values-zh-rCN"
-                            "zh-Hant" -> "values-zh-rTW"
-                            else -> "values-$language"
-                        }
-                        val parent = File("$outputDir${File.separator}${valuesDir}").apply {
-                            if (!exists()) mkdirs()
-                        }
+                val valuesDir = when (language) {
+                    "zh-Hans" -> "values-zh-rCN"
+                    "zh-Hant" -> "values-zh-rTW"
+                    else -> "values-$language"
+                }
+                val parent = File("$outputDir${File.separator}${valuesDir}").apply {
+                    if (!exists()) mkdirs()
+                }
 
-                        val xmlFileName = "strings_${sheet.sheetName}.xml"
-                        //                println("Create dir=$valuesDir file=$xmlFileName")
-                        val dstXmlFile = File(parent.absolutePath, xmlFileName)
-                        XMLUtil.writFormatXML(dstXmlFile, mutableMap)
+                val xmlFileName = "strings_${sheet.sheetName}.xml"
+                //                println("Create dir=$valuesDir file=$xmlFileName")
+                val dstXmlFile = File(parent.absolutePath, xmlFileName)
+                XMLUtil.writFormatXML(dstXmlFile, mutableMap)
 
-                        /* 生成默认语言(values) */
-                        if (language == "en") {
-                            val default = File("$outputDir${File.separator}values${File.separator}${xmlFileName}")
-                            if (!default.parentFile.exists()) default.parentFile.mkdirs()
-                            XMLUtil.writFormatXML(default, mutableMap)
-                        }
+                /* 生成默认语言(values) */
+                if (language == "en") {
+                    val default = File("$outputDir${File.separator}values${File.separator}${xmlFileName}")
+                    if (!default.parentFile.exists()) default.parentFile.mkdirs()
+                    XMLUtil.writFormatXML(default, mutableMap)
+                }
 
 //                    }
 //                }

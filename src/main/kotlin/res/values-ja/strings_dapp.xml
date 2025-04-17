@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_dapp_search_placeholder">DApp名の検索</string>
+  <string name="hl_dapp_card_title">低手数料</string>
+  <string name="hl_dapp_card_subtitle">チェーン間取引 リアルタイム入金 暗号化通信</string>
+  <string name="hl_dapp_recent_use">最近使用したもの</string>
+  <string name="hl_dapp_featured">より抜く</string>
+  <string name="hl_dapp_trending">トレンド</string>
+  <string name="hl_dapp_top">人気</string>
+  <string name="hl_dapp_alert_title">セキュリティ警告</string>
+  <string name="hl_dapp_alert_msg">これからサードパーティDAppにアクセスします。振込を行う場合は、財務リスクを理解して慎重に操作してください。Wisdomuaeは、このDAppの使用による損失には責任を負いません</string>
+  <string name="hl_dapp_alert_not_tip">次回は注意しない</string>
+  <string name="hl_dapp_history_search">履歴</string>
+  <string name="hl_dapp_search_no_result">検索結果なし</string>
+</resources>

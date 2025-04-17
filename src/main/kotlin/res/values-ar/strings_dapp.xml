@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="hl_dapp_search_placeholder">اسم DApp</string>
+  <string name="hl_dapp_card_title">رسوم منخفضة</string>
+  <string name="hl_dapp_card_subtitle">المعاملات عبر السلاسل، التحويلات في الوقت الفعلي، الاتصال المشفر</string>
+  <string name="hl_dapp_recent_use">أفضل استخدام</string>
+  <string name="hl_dapp_featured">مميز</string>
+  <string name="hl_dapp_trending">رائج</string>
+  <string name="hl_dapp_top">الأعلى</string>
+  <string name="hl_dapp_alert_title">تحذير أمني</string>
+  <string name="hl_dapp_alert_msg">أنت على وشك الوصول إلى تطبيق لامركزي تابع لجهة خارجية. تأكد من أنك على دراية بالمخاطر المالية وكن حذرًا عند إجراء المعاملات. لا تتحمل Wisdomuae أي مسؤولية عن الخسائر الناتجة عن استخدام هذا التطبيق.</string>
+  <string name="hl_dapp_alert_not_tip">لا تذكرني مرة أخرى</string>
+  <string name="hl_dapp_history_search">سجل البحث</string>
+  <string name="hl_dapp_search_no_result">لم يتم العثور على نتائج البحث</string>
+</resources>

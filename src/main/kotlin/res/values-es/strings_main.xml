@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_nav_home">Hogar</string>
+  <string name="wisdom_nav_account">Cuenta</string>
+  <string name="wisdom_nav_wallet">Billetera</string>
+  <string name="wisdom_nav_contacts">Beneficiario</string>
+  <string name="wisdom_nav_qrcode">Cobrar y pagar</string>
+  <string name="wisdom_nav_qrcode_title">Cobrar y pagar</string>
+  <string name="hl_nav_bank">Banco</string>
+  <string name="hl_nav_exchange">Transacción</string>
+  <string name="hl_nav_market">Mercado</string>
+  <string name="hl_nav_explore">Explorar</string>
+</resources>

@@ -2,8 +2,11 @@ package org.example
 
 import org.example.upload.ApkUploadUseCase
 import org.example.util.Excel2Db
+import org.example.util.Excel2JsonRes
+import org.example.util.Excel2ProperiesRes
 import org.example.util.Excel2Res
 import org.example.util.Res2Excel
+import org.example.util.util.Excel2ResSingle
 import java.io.File
 import java.io.FileInputStream
 import java.security.MessageDigest
@@ -13,12 +16,20 @@ fun main() {
 //        "/Users/lcj/Downloads/i18n.xlsx",
 //        "/Users/lcj/Downloads/res"
 //    ).excel2Res()
-    ApkUploadUseCase().invoke()
+//    ApkUploadUseCase().invoke()
 
-
-//    Excel2Res(
-//        "/home/lcj/Downloads/i18n.xlsx",
-//        "/home/lcj/Downloads/res"
+    val home = System.getenv("HOME")
+    Excel2ResSingle(
+        "$home/Downloads/i18n.xlsx",
+        "$home/Downloads/res"
+    ).excel2Res()
+//    Excel2JsonRes(
+//        "/home/lcj/IdeaProjects/i18n/src/main/kotlin/i18n.xlsx",
+//        "/home/lcj/IdeaProjects/i18n/src/main/kotlin/resources"
+//    ).excel2Res()
+//    Excel2ProperiesRes(
+//        "/home/lcj/IdeaProjects/i18n/src/main/kotlin/i18n.xlsx",
+//        "/home/lcj/IdeaProjects/i18n/src/main/resources"
 //    ).excel2Res()
 
 //    Excel2Res(

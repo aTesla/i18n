@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <string name="wisdom_payment_scan_title">Я хочу оплатить</string>
+  <string name="wisdom_payment_scan_desc_login">Осуществление оплаты другим людям с помощью сканирования QR-кода возможно.</string>
+  <string name="wisdom_payment_scan_desc_unlogin">После активации вы сможете осуществлять платежи другим пользователям приложения WisdomuaeAPP</string>
+  <string name="wisdom_payment_colleciton_title">Я хочу принимать деньги</string>
+  <string name="wisdom_payment_colleciton_desc_unlogin">После активации вы сможете принимать деньги от других пользователей приложения WisdomuaeAPP.</string>
+  <string name="wisdom_payment_colleciton_desc_login">Получение денежных средств от других людей возможно.</string>
+  <string name="wisdom_payment_colleciton_desc_not_open_account">Вы еще не открыли счет Wisdomuae, поэтому вы не можете использовать эту функцию.</string>
+  <string name="wisdom_payment_cert_activated">Пройти верификацию и активировать сейчас</string>
+  <string name="wisdom_payment_qrcode_title">Приём и отправка платежей</string>
+</resources>
